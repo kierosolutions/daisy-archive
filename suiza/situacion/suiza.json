@@ -2,13 +2,18 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-10-29",
-   "news": "El Bundesrat ha adoptado el paquete de relaciones Suiza-UE y lo ha remitido al Parlamento, según eda.admin (27 oct). La comisión del Consejo Nacional ha enviado las primeras señales sobre los Bilaterales III, informa Moneycab (21 oct). La NZZ analiza los costes ocultos de la libre circulación de personas (29 oct). Finanz und Wirtschaft señala que los nuevos tratados importarían la dinámica regulatoria de la UE (23 oct). Pressenza advierte que los detalles están en los textos contractuales (26 oct). El Tages-Anzeiger recoge la propuesta de un millonario suizo de gravar a los extranjeros, con posibles pagos de 4.000 francos a las familias (24 oct). El cantón de Zúrich publica un informe sobre quiénes dependen especialmente de la ayuda social (28 oct).",
+   "asOf": "2026-10-30",
+   "news": "El Consejo Federal aprobó el 27 de octubre el paquete de relaciones Suiza-UE y lo remitió al Parlamento, según informó eda.admin. La comisión del Consejo Nacional ya ha enviado las primeras señales sobre los Bilaterales III, de acuerdo con blue News, mientras que Pressenza advierte que los detalles están en los textos contractuales. El Departamento de Cassis publicó además un controvertido informe de la UE tras ceder a la presión, según Tages-Anzeiger. La Luzerner Zeitung señala que un 55 % de votos a favor podría no bastar para sacar adelante los Bilaterales III.",
    "sources": [
     {
      "title": "Bundesrat verabschiedet das Paket Schweiz-EU zuhanden des Parlaments",
      "source": "eda.admin",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yMGdBOGw4MGxndUlGRWZncm1IZDdnaUljR2tqbnRHX1NNV1RJSzhNTVNFRzgtNUhkVWoxWW5rZWV6S2N1ZkFpb3RnZ3pJaUNqckpqVlQ4dXc4TG1lUXpmNVc5V25YbzVveFlyczhfQlhyWEU1M3lz?oc=5"
+    },
+    {
+     "title": "55 Prozent Ja reichen vielleicht nicht für die Bilateralen III",
+     "source": "Luzerner Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0Z6Nl9jZVRzMnN5NWJ3QllNVGFXbW5GOXlqLWc4UnZ0cF8tUF8zdGFhTlY0TUQ5X1JraS00Njd4bWUwaUdNQjNvb3dOV0Nod090YlZzV0pLczdzdzFBWWc3T1NyejY0eEZSMlZGSFRsZ255ZWFGMlBLN09vcEU3RklBcXc2dE91U1JScUloeUo2TE5QMTN0c2xhYy0teFpzOHBvaw?oc=5"
     },
     {
      "title": "Zuwanderung und Politik: die versteckten Kosten der Personenfreizügigkeit",
@@ -17,8 +22,8 @@
     },
     {
      "title": "Nationalratskommission sendet erste Signale für Bilaterale III aus",
-     "source": "Moneycab",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOU9kNDdIRldkMXh0VXRidGhvb0dkMjRfaFhlYWdUYno3cjZBMFF2NTJzVHhfYmtVRFJLNldVSm5NNUJXaDFfUmRGZzdiTWp0OEJVQmlQdXIzcjZMdDE5ZHB4SmZhaHY3NWdRVWFoUVBrXy0wMUdjN1NFVkZlWVFWNGNHN3hYRXJGRTh1dy1HTzhnaDdNVmdCU2trMkp3eFhFRlHSAagBQVVfeXFMTTlHSzJ2SURCeXl0SGdLbGJOTDA4LU9fVC1McG93c0RKR1ZYR1NKSWd6WHltb2pORGxIUWhiQjZPWTUzZ1hQMXJ5OE9mbXQyS0JTZS1TSG1vcFh4aDRGcjNPMVBvOVJ6eExFdzdZNmNxU2VJVk9jczNhOWY4VTlPMnZvSWJtdTJDc1VNdkROcjYzMWRjVm54YXdCNTM4ZWRCaE5CaWc1WnV3?oc=5"
+     "source": "blue News",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmE1RVRyTTZiTDV5SGYza0lzLWVJcnJ3QS1MUlZicmY4YVpxVXIxMmt2M2MzLUs5cjZ2NlBaRU1Zc3NRYnVSZW5JakFVSTU5c1V2YUVXQUk5b0otZWRGYndRVTc5ZVBFT2VTY2EyOUZsZjVYT0FPb2lwLUJxNk9HRjhuVzZLUWR3U1lIa0lkZDBudXFrYTZHSG9mZ2ZjNGpLN0t5c1RCQUdCZG9zTVE?oc=5"
     },
     {
      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
@@ -31,19 +36,24 @@
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm04OHkzWE9vdkRHa2V0R2xoTmhFZy1RbnROWW41ZGs3UGlzMHAwRkE0aUszdGI2SGVfVUUwRHp1YVlJN0xPaFB5TG1fRUY5WnFUeWhTMEtxUlNnYnRuV2Z2ODZmazR0ZDRYc0E5MnpqUThrcDBEbEVaZFgwM2ZsRGxOa2V3TmNWZmNjNzFaaWtzTi13dTFCeVFyTQ?oc=5"
     },
     {
+     "title": "Bald zwei Tessiner Bundesräte? Auch Marco Chiesa will aufs Ticket",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2tyd1pUOFFXR2xuOWFtbHpVSnQ0V2htNk1KS0pfUDRmN3FlRjFMeDZ2d1ZabHRKZ2VSUjg4V2xSTzhfMV9fd0tnSTZvWHRtLUhhZDJhNFB2QmJNcG9jdS1zQ2d2U3ZJeHV2MFpPclZVdDdOMHNrc1BwX3FaNTNmNExWXzlBSjFyOTB4RXBFaHVfV3EwY3R1aXlWSUhDdm1xdWk4cmI1aUNYSEhVNFUzUXQwMHBqQQ?oc=5"
+    },
+    {
      "title": "Bilaterale-III: Der Teufel steckt in den Vertragstexten",
      "source": "Pressenza - International Press Agency",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFQyRDVpdWE2MDBwTktNZkpKNThjOHNiLWtJQ0lCZl8tQmNjbzlYVHhCRjY0R1MxZm9VOWEwd3ZFalI0a043OU9HSjNEMFA2MHcxdWktd2dDckp6bzdJZy1STUU1YkVhWXY0eVFYWlpITDdmRHZKWWhJUjM1VDE0QXNrRk15Mjl6aWJnOTdwZVZpS01ReWs0?oc=5"
     },
     {
-     "title": "Marco Chiesa: Der Tessiner SVP-Ständerat will Bundesrat werden",
-     "source": "Luzerner Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWi16Z01GZ2R0emg2QzVZQzRlNmFHVmM2RlBBeTdIaEFLTzh0TTR0LWpqWVpaLU4xYlZJc3ZSaTNVMEdXWng0SGFLTVF2Q2pKWXFGU3BfYkVOLXYwdTI2ZGlYTDU2TnM3RGdvTE5uSG1vNGRkQXU4ODNpc3hvVGVtWGlkZDNFbWZUSWdHanN1M2NBOU1rU2hraG1Hc2laT0paZzFnM3VSTzNuSUlzUE9NVlp3?oc=5"
+     "title": "Cassis’ Departement gibt Druck nach und publiziert umstrittenes EU-Gutachten",
+     "source": "Tages-Anzeiger",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEhfTFZwelp6elZuYzBZYmx0UmVFS0p0NkNReW9aNTJ0Sm8wejdjY0hFRXdhMFhiWmtwV0JlZVVVMld3SXJaRFpxV2w2REpPSFZRaWxvSFR3MWFDUW9yM25tOGlZVTE2V0E2T1dfRUpodU1jMzhxeDN3eU5FajJUV2kxRERVai16OGFzR2g4WFNtY2N4NE9CS1pkSkwzZXZ3RTRKc2czYw?oc=5"
     },
     {
-     "title": "Demografie: Warum die Kosten erst die nächste Generation treffen",
-     "source": "NZZ",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmN5dUdKRmhLX2RBeXA4ZXJmcEttdnZKQ2tQTGloTm9aWWVUZFR0M3lDelJFQTBOOGVWQXA1cDFxVWl5Wi00bXVSeDRGczh4eEFNcVNRMjVsSVBNa2N1RkJaU2RBb3V4QnRtTFI2Uk0tWjZFcnlTb19XbFd6MmEwUHN3?oc=5"
+     "title": "China trade accord with Swiss bucks wider trend towards protectionism",
+     "source": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkQ4YmJ3dHdaYVYzcXlkcUQ1V19QMU9mQ2tFd1RuQ1NEckN3ZTIxSFMzSkJxQzQ1UjdXTDVjRzlwdHNpUE13dUJKS19hQ0hndHlTdThtOEpLU1g5NXcxWnphT0RMME5TVDZLa2MySGZGMGdPVDF2QWdGVmpsN05fRk9jRmJZOFBsakdiT2I1X1lVYkpSUTFROHU0RFZGdnRvOXdYRlc4VnZRTzIyWG4xUU50SzRVRl8zaEZJS2lUaS1EZw?oc=5"
     },
     {
      "title": "UK–EU Freedom of Movement: Can Burnham Restore It Without Rejoining?",
@@ -54,24 +64,14 @@
      "title": "Federal Council adopts the ‘Swiss–EU relations’ package",
      "source": "eda.admin",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42aXkwMzBzdl9qZlpqdTlmYVZYSnQ1cmFULV91REsyZ3lEcGstM05BX2M3cGVfWjd3cTQwR3FQVE1MbloydXZLckNKeTVSaDA5eDFyZnJKWll4TE5aTzZ3c25CRk92UVhHYTA0RUZ0Q2paUQ?oc=5"
-    },
-    {
-     "title": "Neue Verträge: Mit den Bilateralen III importiert die Schweiz die EU-Regulierungsdynamik",
-     "source": "Finanz und Wirtschaft",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNazd2dFBSTl9QWTVHSC1WZjNzRkFDM0xOTjlRdDJWZVB1SFB3ZFMwU00tdy1Ba1gxT09MaXduOG96Z1R3MGdKOXNzc1RHX3RreEtKLUtKcDVTcEVLSXZhUHNkVEJlcGxyYU1ucjR2enBfbnc2NVk5YlV1X1M0WmNXWVNZd1hkNng3NDBPazlyT3IyV2I3Sk1n?oc=5"
-    },
-    {
-     "title": "Wer besonders auf Sozialhilfe angewiesen ist",
-     "source": "www.zh.ch",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQzJoajdycGp2ODA1d3QzX0pTZEdMS1p0ZFRsMU1ZNHFoOGgzbGNTVXFLWGVFNkRHNEVxZ1YyM1FBcWlLMUwyTUZZYTI1a29CRnF5VWxKOGJXODl3NUo1MDZVZDVUcU5oUkV4WUEyTUNFblVKeTRTWUZ3TFdXd1h2VE1ESHZreDkwSG1zZDNILXhsM2k1YUpxTjBrbDZRVVdWMW9GZWVibWkyZ2lJSlR2LUtXZDluZGI0clAyWWxZNHZHLXZFNVY4emQtR0dYUQ?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-10-29",
-   "news": "Según Tages-Anzeiger, los estudiantes extranjeros en universidades suizas señalan deficiencias en su experiencia académica. ICEF Monitor destaca que nuevos datos de la OCDE muestran una creciente competencia por estudiantes internacionales de posgrado. Global South Opportunities informa sobre oportunidades para estudiar en Suiza sin IELTS en 2027 para licenciaturas, maestrías y doctorados. Education Times relata que 50 estudiantes indios participaron en un tour de estudios desde la ONU hasta el CERN. Expatica publica el coste de la vida en Suiza en 2026.",
+   "asOf": "2026-10-30",
+   "news": "Según Expatica, el coste de vida en Suiza en 2026 sigue siendo elevado, lo que afecta a quienes planean estudiar en el país. El Tages-Anzeiger recoge testimonios de estudiantes extranjeros que señalan deficiencias en las universidades suizas. Por su parte, Global South Opportunities destaca que para 2027 existen oportunidades de grado, máster y doctorado sin necesidad de presentar IELTS.",
    "sources": [
     {
      "title": "«Aber auch hier gibt es Mängel»: Auländische Studierende über Schweizer Unis",
@@ -84,9 +84,9 @@
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkRhLXVJdWVIRVdFV3h0b0dwaEVEVktPWUFuaVpjQkhpOFRCcUQyZ2lTRXlJTVpNVWRjc3VRbUdRRDZOMnc4WXhmeFhrUk85MnF1VFRrS2VDbU40TDU1OEdnNXBZdzd4ODVqSkdGb21jbnpWTDRCUFNOWlBsYmFsRk9WZUJSazlNVDMxTGw4dWthSnZUUTBiMzdLeHFtREMwWG9Uek9vYkJGVTM3TzJYbjdJc0tZOVBXNkdGVA?oc=5"
     },
     {
-     "title": "£1,000 grants for poorest university students under threat because of visa crackdown",
-     "source": "The i Paper",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazQ0X1g2UTd1QlhkWC1xNzY2UjZpakU4U1ZvanF5STU1S2xBQlg2aFZFd0xMQnQzTnBrdlBlQWh2U3FHd211QzlGOVZpX0FUR2ZrMkwzUmo0dUVMdG5ha01rWVF2NW9HUGM4ODVKQ2dqckh3RVJNRFMxVldrTFdnOVFlZnJLQUNtRkZpa0d5U0lQaHduRGw3WjM2cjVpNEZj?oc=5"
+     "title": "Study in Switzerland Without IELTS 2027: Bachelor’s, Master’s and PhD Opportunities for International Students",
+     "source": "Global South Opportunities",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zR2VfZU5kRVU3Q3BiX3NUYkk2OU1DRmlPU2J1TGtYOHVXUkN2Nmd1ZkZlQ29xN1lpWlNvRWxhazBnNW90TFUtZHpxSTI1bzk5UEEyQ3VGM2UwbEVCeElmeGhmX3BqbHpqYWIzblVGN0xEb2NL?oc=5"
     },
     {
      "title": "Ryan McInerney Finally Gets Visa a Path Into China’s Domestic Card Market",
@@ -94,19 +94,14 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZYemdsQmFac1lkWVd4YUFuSEpQWFdtMUZIZm9ENDZPTnRrU2F0RS1QdmVYOXZYSkVZenYyYXN0elBRdkdSUDcwZ3ZUMXVmY0F0LTNkQlE5N0hhMVY3QzZ6d21MWnhueGlFSTNtVVlJQmkyRkNVSVJHaUwzbGxvelFIenlsTVZq?oc=5"
     },
     {
-     "title": "Study in Switzerland Without IELTS 2027: Bachelor’s, Master’s and PhD Opportunities for International Students",
-     "source": "Global South Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zR2VfZU5kRVU3Q3BiX3NUYkk2OU1DRmlPU2J1TGtYOHVXUkN2Nmd1ZkZlQ29xN1lpWlNvRWxhazBnNW90TFUtZHpxSTI1bzk5UEEyQ3VGM2UwbEVCeElmeGhmX3BqbHpqYWIzblVGN0xEb2NL?oc=5"
+     "title": "The cost of living in Switzerland in 2026",
+     "source": "Expatica",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF8yRktzcS1lSVZGZl9jWmdKV1kxUlpQWWtvUHZ1S1dpM3VuQ3BBR1liQjMzWm5VMm01d0xsSi1Ka09fQTdZZk0yRGd5ZXlKbUk0WXBIdDNFVThKVVdvTjJpRXd4V0JYbTU1QUJsWTBkOHJVYVhZQTVXQnlYamJya2I2ck8yUQ?oc=5"
     },
     {
      "title": "Switzerland Study Tour: From the UN to CERN, 50 Indian students experience global learning",
      "source": "Education Times",
      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDVuaXM4XzJyelZ1bXo5NER5S3lyLVhfcEN5SFFad29ud1Y0VG9hd2dUdHdYQ09FUHhQOURjSFhmS1hnU015X0k4ckVyRm15Ukg5Smx3dDMzWXZWdnRkSlFjam9GXzdzQjY1bmpOTVRZTGVGSTlhVXctUjdGX3NHWFNaN08wVGJYSmFVUVF2akpUbTBSUzdGRHpVOUtDXzRTMVRwTm1GSmNUdU9JZGJKME5LUlFJSXd3cHVPdkNYUHBucE1HZEU3QmUtSzBybjV0bUtNcnloM1NpWDh4eUJ1ZXpjRTRsQ1c1aGtyNG82TQ?oc=5"
-    },
-    {
-     "title": "The cost of living in Switzerland in 2026",
-     "source": "Expatica",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF8yRktzcS1lSVZGZl9jWmdKV1kxUlpQWWtvUHZ1S1dpM3VuQ3BBR1liQjMzWm5VMm01d0xsSi1Ka09fQTdZZk0yRGd5ZXlKbUk0WXBIdDNFVThKVVdvTjJpRXd4V0JYbTU1QUJsWTBkOHJVYVhZQTVXQnlYamJya2I2ck8yUQ?oc=5"
     },
     {
      "title": "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
@@ -119,11 +114,6 @@
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjZpR0ZzRUVpUzM3c29jZXFXVWE3VkVkN0Y5c1lFUlA2dVlGdndiQ1J0UWdyeU1DSVplSlVyVVJlUm91M2x6TmtjX1pyY2cyd3ZHZXh4OVpHalFydXRKM1lDSWlkWUcxMHVpZEhvZ0I3VXNteTNhWFVha2t4Q3VPLTlRLUV3Z3JfYU42ZXE0YmMxZnNkNUJxam5XdjJBM0xTWEd3b3lWNWhaQXNwalJtbkVHekhNWjVkRi1LeWV6NVloX3NYX0ZyX3FvdmRVNWY1TmFz?oc=5"
     },
     {
-     "title": "VFS Global expands visa footprint with new Guwahati Visa Application Centre",
-     "source": "BW Hotelier",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVdLOVc4bWszaFJ6LXFvaXByWG1mR1YybjhpTTIyNEN2a3JDaHNlWjMwZGhJSVlFeU54eWdjbzVLeGJsd3prQ3JUdU1Xd2Z4NExIT0lWNHlCakVmV0FCSkhvNHI4T2JSd1JLX3JPdHp4YktYbUFmZ1N2SzhpNDgwYnFPQ0hjbGVSRC0wOEp5OWRNblNoUWQ1VklPQWRJOEh1TndsWEJGNlRNbDE2cTYyTjFQdkVXejl4?oc=5"
-    },
-    {
      "title": "Australia tightens student visa rules: 5 changes Indian students must know before studying abroad",
      "source": "Education Times",
      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdDAtWE1uaV9iNnJiaXROQUdJOFcwZXI0SVJ1cDVTaXM0R1lpMkpVb3FsN0VmZWItZmMtUWE5Znd3Umcwd0xuLUZDbTJ4dDJvQ2ZHYV9QX3lxcDd2c0dJc3pVNjVUdjdEVGVkcUh4cFcxRWVnY183NTJiOVF6RnR3VXBwNG9EYXc4Ul9JT05xdGxIZ0NvNDczNkdUWjRsaTA1b29vZnVNbUI3Qk5EcF9rdjFFS3Y1WEY5SDNoMXAxbzVQdHZEMkhJQUtGM1V2eFpmYzB3UzVkcWFwaXQwT2pkYXdacXltQUR0ZV9yLXFDSzUzS2VlQzZCcENR?oc=5"
@@ -132,14 +122,24 @@
      "title": "Singapore and Switzerland ink deal to advance solar energy tech",
      "source": "World Business Outlook",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcHJmbWdBcndxU0xsdDhNeUVPVjRLWEhvSTI2Wl8xdzdFMU5wT0tQaVZhRTV2TFhNS2kxdzg0LTVCVjR4b0ZaY2FZZHc4SDR1OHdMQjdQbG8tMUZwTzBYN1dIMEs0MUdGaVN6TkdrODlVN3BVbGJJUmQ1V3V2VHVaRlV2Uno4d0d4bWFucWJnSnNTZjdUYzY1cGN5bnNtQQ?oc=5"
+    },
+    {
+     "title": "Ontario Revives Regional PR Pathway for Skilled Foreign Workers Until 2027. Check Your Eligibility!",
+     "source": "Y-Axis Overseas Careers",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1ktOFFSOElsUjlrR2kyQWNDQlBqNEtoRnlOeDR5Tl9KYUJobmhJVk1YcklJbThXUzVESkJidjZBS2tJZDhMSjc4NXdsc2xSRlg0VkpyQVpIa25wMnV3MGJyUng0dGFsb2ZMbV9Gc3NGZ3lXNW80NlFRTEZwZWN4U19VTFhMaTVSWXNINHg1MGpBX21J?oc=5"
+    },
+    {
+     "title": "Planning to study in Germany? Tuition may be free, but these hidden costs could surprise Indian students",
+     "source": "Education Times",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPczBQRGtPRENiWE81ZkpkYXRpRHBEdTNBNGNjMkp1eFRuSTcza2tQcjZ0YWJ1cXdidy03VFRWUFZvVWk2amc1cDlSeTJQNlI0VE1CZDRvUFk2S0oyMWlCWGFQMVFzcUphZk8wa1l4SUlma1lIRnIxd2Rsd1pseFFGMHEwbFNNOS02X1V0QjVGMjlGelV6Vkloc0ZGT3ZGS2lLZnlCTFdoc0RtX2xYakcyaVhiUlNuc3FXYUJNNUN5T2FLY3NHYmZhYl9DYkpBZEZMaHpvQ0F4a0RmbVRBUjNKeER5SDMyQUU2LWpMVzBwdFNuS2pOWjFMeG5zYTliYTEtcnc?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-10-29",
-   "news": "Según SRF y Watson, las medidas de ahorro del Bundes y una explosión de costes en el nuevo sistema de migración ponen bajo presión el proyecto informático de las autoridades migratorias suizas, lo que podría afectar los trámites de permisos para ciudadanos de terceros países. Por su parte, Fragomen informa de cambios anunciados en los salarios mínimos que inciden en la concesión de permisos de trabajo para profesionales no comunitarios.",
+   "asOf": "2026-10-30",
+   "news": "Según SRF, las medidas de austeridad federales ponen bajo presión el proyecto informático de las autoridades migratorias suizas. Watson informa que una explosión de costes en el nuevo sistema de migración ha alarmado a la supervisión financiera. Ambos desarrollos conciernen a la infraestructura que gestiona los trámites de permisos para personas sin pasaporte de la UE.",
    "sources": [
     {
      "title": "Sparmassnahmen des Bundes - IT-Projekt der Schweizer Migrationsbehörden unter Druck",
@@ -150,11 +150,6 @@
      "title": "Kostenexplosion bei neuem Migrationssystem alarmiert Finanzaufsicht",
      "source": "Watson",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkxISm4wUVBoYW9qX2gyRDJ2TDJGM1FVZzcteFR4TDQ3eFdIOG51NlpqZGxSdjlJVjNZbWU3R0owTWRjcVNoTlRBQndOQUdudm5YYlNHUWlfME1lTDRqUzZ1dEZ2NG5HZUp1NnFhcXFSZlNDbDk2el9COWtSX0Y1Y2hOQmxfY1oycUthUDJSNndkU3VMUld3VWFZaWk3RVhmYnYzUUl3?oc=5"
-    },
-    {
-     "title": "Minimum Salary Changes Announced",
-     "source": "Fragomen",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
     },
     {
      "title": "UK–EU Freedom of Movement: Can Burnham Restore It Without Rejoining?",
@@ -177,11 +172,11 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdURGa0tsV3JGeEkzZVBKQ1B0Qzlkc0xHZG5pb1huZXJFeDBxcWUxcVBBQ2JkeG9VYXBxb3RTVnFLNmYxZG1lSXhZcnhfd0hoRV9oQmxOVFhQRXAzMkpDakg5eUV1OTlCNmFxcHJYX21aLWN0eHRCU0VVR2NLc1c5VlNUQ3gtRTB4TmZZZ3RUOE9BSmJRZXg1MmR1cTVFSEJRU3F4RHlCMEJpMGJqRnJiQWwtMA?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 7 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 6 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-10-29",
+   "asOf": "2026-10-30",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -195,6 +190,11 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkxISm4wUVBoYW9qX2gyRDJ2TDJGM1FVZzcteFR4TDQ3eFdIOG51NlpqZGxSdjlJVjNZbWU3R0owTWRjcVNoTlRBQndOQUdudm5YYlNHUWlfME1lTDRqUzZ1dEZ2NG5HZUp1NnFhcXFSZlNDbDk2el9COWtSX0Y1Y2hOQmxfY1oycUthUDJSNndkU3VMUld3VWFZaWk3RVhmYnYzUUl3?oc=5"
     },
     {
+     "title": "Einreise zur Vorbereitung der Heirat",
+     "source": "Kanton Basel-Stadt",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0lpWmZBZ2pwN0xlRzUxRFZZQkV3b0RNUDBEWnpKNXdHMTlYMGlad1BvdElScUVOMURzZGNIelFNblRNcnFmNkJrQ1U1TzA1SXkzd004TGEzRHZrUWpFTDZtQ050MVhlR1pTQkdRdE0xMzdhWklsU01uREdEUHNmdEdfMkVwdFZCem5GcDNzWVhTb3VQVXF4UG1aUkgyOVBBTm1UeDJFcjFxQVVxdld1QzBBTXNCUlF6S2kxUTZUeGZiQ21GVTVqOXZmMA?oc=5"
+    },
+    {
      "title": "Bundesasylzentrum Altstätten: SEM reagiert auf Hartmanns Forderungen",
      "source": "St. Galler Tagblatt",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcTZuc2ZScUItVzhuZGZoRzQtY0U5VUdOUXlvTHpkUS1MVFhveEpVVWZhQjZtZGxVc3RwRE5DZU90RTQxUHBfTERDMU1qNXZuSFJpbWFLUm9SbVBMVUhfSzdCN2phTzJzVWtrN3p0NzJEQVpLN2MyYVJmeG1nd1R0S2x5blhXc01KSmhncVNoT242d3lWN2pPUVpXanZid3VGM1lJN19lRkRvUEJnYTdVRGVLbGh2Vy1Iek4xa1o1My13d3o0OFl5U2EzSy1CVG5aSEVR?oc=5"
@@ -210,9 +210,9 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdURGa0tsV3JGeEkzZVBKQ1B0Qzlkc0xHZG5pb1huZXJFeDBxcWUxcVBBQ2JkeG9VYXBxb3RTVnFLNmYxZG1lSXhZcnhfd0hoRV9oQmxOVFhQRXAzMkpDakg5eUV1OTlCNmFxcHJYX21aLWN0eHRCU0VVR2NLc1c5VlNUQ3gtRTB4TmZZZ3RUOE9BSmJRZXg1MmR1cTVFSEJRU3F4RHlCMEJpMGJqRnJiQWwtMA?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 5 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 6 Google News headlines"
   }
  },
- "asOf": "2026-10-29",
- "generatedAt": "2026-10-30T18:24:49.603561+00:00"
+ "asOf": "2026-10-30",
+ "generatedAt": "2026-10-31T06:00:02.248863+00:00"
 }
