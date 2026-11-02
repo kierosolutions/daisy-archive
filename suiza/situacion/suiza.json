@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-10-31",
-   "news": "El Bundesrat ha adoptado el paquete de relaciones Suiza‑UE para su tramitación parlamentaria, según eda.admin. La NZZ examina los costes ocultos de la libre circulación de personas, mientras el St. Galler Tagblatt advierte que un 55 % de votos a favor podría no ser suficiente para aprobar los Bilaterales III. El Tages‑Anzeiger informa de que un multimillonario suizo propone una tasa para extranjeros que podría suponer pagos de hasta 4000 francos a las familias. Pressenza subraya la complejidad de los textos contractuales de los Bilaterales III y Finanz und Wirtschaft señala que los nuevos acuerdos importarían la dinámica regulatoria de la UE. Por su parte, el cantón de Zúrich publica un análisis sobre qué colectivos dependen especialmente de la ayuda social.",
+   "asOf": "2026-11-01",
+   "news": "El Consejo Federal aprobó el paquete de relaciones Suiza-UE y lo remitió al Parlamento, según informó eda.admin el 27 de octubre. Los nuevos acuerdos, conocidos como Bilaterales III, incorporarían la dinámica regulatoria de la UE, señala Finanz und Wirtschaft. Medios suizos advierten que la aprobación enfrenta obstáculos importantes: Watson y Südostschweiz destacan que la barrera del Ständemehr (mayoría de cantones) sería muy alta, y St. Galler Tagblatt apunta que incluso un 55 % de votos a favor podría no bastar. Estos desarrollos conciernen directamente a los titulares de pasaportes de la UE, ya que el paquete regula derechos como la libre circulación de personas.",
    "sources": [
     {
      "title": "Bundesrat verabschiedet das Paket Schweiz-EU zuhanden des Parlaments",
@@ -16,9 +16,9 @@
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeWpYcEdXTEN0WWg2SmwyeGhvNEVCNzVjQm5ELXVIMXZNVXp4V2o2ZlNGb3h5ZHFXUDd4TzM2NFQzTmRENzZRMmtRbTBZeG9fQWdRNmloOEt0eE5rWFZLZDdKaTRwLXFDQ2FjbXA5bmEzLWNYSDl3OEx3NVB0UmRFLUsxOU44RW1FdE90UnNsRFlfV3pFOE1aRXpuT0NEcV9ncjVLaVdrTE83dUp2dWM4aUprU1R3dXFEaXJKaGJiTnlWQQ?oc=5"
     },
     {
-     "title": "55 Prozent Ja reichen vielleicht nicht für die Bilateralen III",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEtiT1R4aVZhVnlGc0d1aXF3NklvQmUycEFodi1DS29vUDhfZG9yN2thdFhlT01ncFFPSUwyMkl1QlNkckt6a0hxV0NzLW5BM1RXRld3UzVRNkh6cEIwbzVVWDdfWmw0Q1FUYms1bEp2ZnZaX1lkQXlBcTVfZFdweHg4VExTa2g5S1laWHlMVkx3R0NfWDNjSDh3UQ?oc=5"
+     "title": "Neue Zahlen zu den Bilateralen III: Die Hürde liegt höher als bisher gedacht",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEg0Vldva0hBNzA3cUNMM01TTmVTanAwNW10SDdnQVdUbGpMbE12TjdVT3o4VUhDd2lzWml0MUI0RU9tblR1U2FFRHhGR2tLNTZHLVFhemdiUTZqODFtOXJLRmdoYVJDNWp1UVIxVzJBd2lPVHBTeFhZOVNFUHNvUk1NTVQ5eG5sejZ2Si1vUWF0bmZtaFdqbXJGeFpEc1NZR0pGUFdWUUdYeU9uYS1sYmkwaENEQQ?oc=5"
     },
     {
      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
@@ -29,16 +29,6 @@
      "title": "Schweizer Milliardär fordert Ausländer-Abgabe – Familien könnten 4000 Franken erhalten",
      "source": "Tages-Anzeiger",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm04OHkzWE9vdkRHa2V0R2xoTmhFZy1RbnROWW41ZGs3UGlzMHAwRkE0aUszdGI2SGVfVUUwRHp1YVlJN0xPaFB5TG1fRUY5WnFUeWhTMEtxUlNnYnRuV2Z2ODZmazR0ZDRYc0E5MnpqUThrcDBEbEVaZFgwM2ZsRGxOa2V3TmNWZmNjNzFaaWtzTi13dTFCeVFyTQ?oc=5"
-    },
-    {
-     "title": "Bilaterale-III: Der Teufel steckt in den Vertragstexten",
-     "source": "Pressenza - International Press Agency",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFQyRDVpdWE2MDBwTktNZkpKNThjOHNiLWtJQ0lCZl8tQmNjbzlYVHhCRjY0R1MxZm9VOWEwd3ZFalI0a043OU9HSjNEMFA2MHcxdWktd2dDckp6bzdJZy1STUU1YkVhWXY0eVFYWlpITDdmRHZKWWhJUjM1VDE0QXNrRk15Mjl6aWJnOTdwZVZpS01ReWs0?oc=5"
-    },
-    {
-     "title": "Bald zwei Tessiner Bundesräte? Auch Marco Chiesa will aufs Ticket",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2tyd1pUOFFXR2xuOWFtbHpVSnQ0V2htNk1KS0pfUDRmN3FlRjFMeDZ2d1ZabHRKZ2VSUjg4V2xSTzhfMV9fd0tnSTZvWHRtLUhhZDJhNFB2QmJNcG9jdS1zQ2d2U3ZJeHV2MFpPclZVdDdOMHNrc1BwX3FaNTNmNExWXzlBSjFyOTB4RXBFaHVfV3EwY3R1aXlWSUhDdm1xdWk4cmI1aUNYSEhVNFUzUXQwMHBqQQ?oc=5"
     },
     {
      "title": "UK–EU Freedom of Movement: Can Burnham Restore It Without Rejoining?",
@@ -64,6 +54,16 @@
      "title": "UK Prime Minister Andy Burnham wants 'honest discussion' on return to EU free movement",
      "source": "Euronews.com",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVxUTFIMnA5c0FreWplYVR1d0pzVkU4eUtoeHQyNVRqdndzaGxCTVYzaTRWY2hZWEZydjVsS0tnQ0RPYkxvVU9KV1Z4ck5IcmY5RnhnWnlFbGZTSUpVRkpiemJMWFFucDFhZUo5Y25pQ3lhaXlwS3hjM3p5cmZxaEJaUDZ3d3YyWjNTdko1SlozUFV4X0Q5Rl9MVlROQV85ekl0NzBtM1ozbkRVQWVCamt1enVBdWN4UWUtVQ?oc=5"
+    },
+    {
+     "title": "Bilaterale III: Das Ständemehr wäre eine hohe Hürde",
+     "source": "Südostschweiz",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUdJSHNHNzQ4MDhJMlVzbVMwMGphMEFhY0d4Y2VtQ181LVZBZnpSckU2MzFQQ2tSUGMxeHZIcjJjaWo1UGs0NXlVVXNwOHBWeTNjSkVHUzVHWUNNblJpM0JVZHg2MmpIeFhEcXY2RjJ4a05aNi1CSzlmOUdobjhnMUFzY01MQUdWcDB5QzZrZXMwWlh4cWZ0eXZ1ZlN5bENpS0Zodk1GRkpMZHU2?oc=5"
+    },
+    {
+     "title": "55 Prozent Ja reichen vielleicht nicht für die Bilateralen III",
+     "source": "St. Galler Tagblatt",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEtiT1R4aVZhVnlGc0d1aXF3NklvQmUycEFodi1DS29vUDhfZG9yN2thdFhlT01ncFFPSUwyMkl1QlNkckt6a0hxV0NzLW5BM1RXRld3UzVRNkh6cEIwbzVVWDdfWmw0Q1FUYms1bEp2ZnZaX1lkQXlBcTVfZFdweHg4VExTa2g5S1laWHlMVkx3R0NfWDNjSDh3UQ?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
@@ -186,7 +186,7 @@
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-10-31",
+   "asOf": "2026-11-01",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -198,11 +198,6 @@
      "title": "Kostenexplosion bei neuem Migrationssystem alarmiert Finanzaufsicht",
      "source": "Watson",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkxISm4wUVBoYW9qX2gyRDJ2TDJGM1FVZzcteFR4TDQ3eFdIOG51NlpqZGxSdjlJVjNZbWU3R0owTWRjcVNoTlRBQndOQUdudm5YYlNHUWlfME1lTDRqUzZ1dEZ2NG5HZUp1NnFhcXFSZlNDbDk2el9COWtSX0Y1Y2hOQmxfY1oycUthUDJSNndkU3VMUld3VWFZaWk3RVhmYnYzUUl3?oc=5"
-    },
-    {
-     "title": "Krise in Altstätten? SEM reagiert auf die Forderungen von Regierungsrat Hartmann (Abo)",
-     "source": "Vaterland online",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWlaS194cWExWkNlaGNTLVlwQWVHQUgtem9ocHZzOTdfSGpFRFY4YXpnV1k1UC1FNy1JZk4tN25rSjcxMldHZlZJN2xqazg5MC1SUFJnSnM3aFRvX1RiX0FCcEtBQm1oRjhFd0syNVh6LVlnbjJiRjNNUngxVDJwM0hJMFpKbUtfbGphYWJVS2s3d0hWTDhMSDdDZDdCYXRSNktOeXRMTmpIT0NyUl9zRW01cnNsWTlsRnN2dVNsNHMwdk5DRmc0?oc=5"
     },
     {
      "title": "Bundesasylzentrum Altstätten: SEM reagiert auf Hartmanns Forderungen",
@@ -218,16 +213,11 @@
      "title": "Gericht stoppt Ausschaffung eines Afghanen nach Kroatien",
      "source": "www.bote.ch",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWFsOVNzbm5mcUV4LVl2azdtbVhtN3lGa3daM0lBMjRRdUVneTVJYWxGNElFTGdMZVMxUU1EUkxFNW1HTVp3NFdpcDlRN0NUVk1NVmNZT2dUeC12Q09lOEdPSHU2OXZvNmhLWU0tdUl5MDQtRENNLU4tLTBsMm9UT3BzVF9FYnZWLWE0TlQtQ3RMS1E2MWdVRVhiVDZpTkd0WkMtX3pvY0JlS0xwTVR0dmZ3ZlN5Z1VBb0dBM3RfU2RQZ05oa0NhNGt3?oc=5"
-    },
-    {
-     "title": "Vorfälle mit Asylsuchenden: St.Galler Regierung fordert hartes Durchgreifen vom Bund",
-     "source": "wundo.ch",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdURGa0tsV3JGeEkzZVBKQ1B0Qzlkc0xHZG5pb1huZXJFeDBxcWUxcVBBQ2JkeG9VYXBxb3RTVnFLNmYxZG1lSXhZcnhfd0hoRV9oQmxOVFhQRXAzMkpDakg5eUV1OTlCNmFxcHJYX21aLWN0eHRCU0VVR2NLc1c5VlNUQ3gtRTB4TmZZZ3RUOE9BSmJRZXg1MmR1cTVFSEJRU3F4RHlCMEJpMGJqRnJiQWwtMA?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 7 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 5 Google News headlines"
   }
  },
  "asOf": "2026-10-31",
- "generatedAt": "2026-11-01T07:00:02.487382+00:00"
+ "generatedAt": "2026-11-02T06:00:02.292697+00:00"
 }
