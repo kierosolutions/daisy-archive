@@ -70,13 +70,13 @@
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-10-31",
-   "news": "Según el Tages-Anzeiger, estudiantes extranjeros han señalado deficiencias en las universidades suizas. Por su parte, Global South Opportunities destaca oportunidades para cursar estudios de grado, máster y doctorado en Suiza sin necesidad de IELTS para 2027. Además, Shiksha.com publica un análisis sobre el coste de vida en Suiza para estudiantes indios en 2026.",
+   "asOf": "2026-11-01",
+   "news": "ICEF Monitor informó que nuevos datos de la OCDE subrayan una creciente competencia por estudiantes internacionales de nivel de posgrado. Education Times destacó que 50 estudiantes indios participaron en un recorrido de estudios en Suiza, con visitas a la ONU y al CERN. Shiksha.com publicó un análisis sobre el costo de vida en Suiza para estudiantes indios en 2026.",
    "sources": [
     {
-     "title": "«Aber auch hier gibt es Mängel»: Auländische Studierende über Schweizer Unis",
-     "source": "Tages-Anzeiger",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGRvQ1E5ZXdubWRXakNySjM2blFvZDBUTUFpcXoyVzgyYk5wUlVrbDB6Y0hJazYzbWFCbV9Gd1RXaW5JZ25vMmx6RTN0R2p4Q1Q0cGpsT0xjbEZla2tYcHZXNkp5T0tXOWxQVmNYemw2eEo2a2YzTlFOZ0FvRkdkY3V0S2NEYXFxd3Q0Z0ZnX2IxZmRSa2JaM0RvR0RXOVk5SlFwWVZIbw?oc=5"
+     "title": "New Details of Rape Allegation Against Trump Revealed in House Democrats’ Epstein Report",
+     "source": "Time Magazine",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTN5QnMydklMVDFpNHNleFRWVmVDdXIzSEpNNnlQN0lFUWFMOUtVVV9yU0RZMFE5X0o5OHBvYWlHcHhVUGJMbFRUelJ4dDN4MElmZWdDaU5Qa1hWY2F2TE9PM3JJTnlCakVEU1FQaVloQkVaeW94NjdwXzA4dDE1bFI2dWpIRUxGTzlWdlZ2ZU80ek1X?oc=5"
     },
     {
      "title": "New OECD data underlines growing competition for graduate-level international students",
@@ -84,9 +84,14 @@
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkRhLXVJdWVIRVdFV3h0b0dwaEVEVktPWUFuaVpjQkhpOFRCcUQyZ2lTRXlJTVpNVWRjc3VRbUdRRDZOMnc4WXhmeFhrUk85MnF1VFRrS2VDbU40TDU1OEdnNXBZdzd4ODVqSkdGb21jbnpWTDRCUFNOWlBsYmFsRk9WZUJSazlNVDMxTGw4dWthSnZUUTBiMzdLeHFtREMwWG9Uek9vYkJGVTM3TzJYbjdJc0tZOVBXNkdGVA?oc=5"
     },
     {
-     "title": "Study in Switzerland Without IELTS 2027: Bachelor’s, Master’s and PhD Opportunities for International Students",
-     "source": "Global South Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zR2VfZU5kRVU3Q3BiX3NUYkk2OU1DRmlPU2J1TGtYOHVXUkN2Nmd1ZkZlQ29xN1lpWlNvRWxhazBnNW90TFUtZHpxSTI1bzk5UEEyQ3VGM2UwbEVCeElmeGhmX3BqbHpqYWIzblVGN0xEb2NL?oc=5"
+     "title": "Australia consults on student visa overhaul as refusals hit key markets",
+     "source": "The PIE News",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWRrNzRLSVhicGk5TzlFektxZE8zaWxfb1U4OXVhSFFZU0dFTGQ4cHZsTlRIUkZrNVZiZjg0d3hrTnRCS0VtX0VPVnk4ci1vbWJLd0ExX3ZXMzVhZEVkMEhjZHluZ0Q3aEduRlB0MUc1Ql8zTDRZTkEyNVZGMF8yRUt5MDlTQk9ZNXljMEJqOHRrNk1Mbkxoak9qQQ?oc=5"
+    },
+    {
+     "title": "Former Miss Switzerland accuses Donald Trump of rape",
+     "source": "The Telegraph",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFVqaXd3UmJHSUdqeHhFYnI5TkprVi1zQkZoYlhTd3Z0VnJuNTJRNm5VN1lkdDJQd0I2V0x5T0lDVTZEOTlyc1pqTFRlQkJER1UxcE11cUVvbm1ITkJSR2lKNjluNHVxbVBoYy1jMUNnZkpvZG1hUjRMY19qYjBpLUMwaERpVXYtSnZLeFU0dEpVNHBi?oc=5"
     },
     {
      "title": "Ryan McInerney Finally Gets Visa a Path Into China’s Domestic Card Market",
@@ -94,9 +99,9 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZYemdsQmFac1lkWVd4YUFuSEpQWFdtMUZIZm9ENDZPTnRrU2F0RS1QdmVYOXZYSkVZenYyYXN0elBRdkdSUDcwZ3ZUMXVmY0F0LTNkQlE5N0hhMVY3QzZ6d21MWnhueGlFSTNtVVlJQmkyRkNVSVJHaUwzbGxvelFIenlsTVZq?oc=5"
     },
     {
-     "title": "Programmes/projects in Poland",
-     "source": "eda.admin",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzFmX01jeF9waHQ1eVJPZGtKc3d0aENYMWR2RWxxQzhybnBUSGF3aUQyWWxfWE54ajZRQUVZSHp0NGhCRXRoUUt1QVZNWGdfelIxLTlyMWRpYnM2MEI2UjVKVmhEdTFkbHhuSGpsc0pZVHBpWTlqOElWRi0weEtZb3Vub3FuU2RsVnhrVElyT2Y5QW1VZktOeWZaa0cxZUZPTG5kS3QtWVhVUlk?oc=5"
+     "title": "Switzerland Study Tour: From the UN to CERN, 50 Indian students experience global learning",
+     "source": "Education Times",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDVuaXM4XzJyelZ1bXo5NER5S3lyLVhfcEN5SFFad29ud1Y0VG9hd2dUdHdYQ09FUHhQOURjSFhmS1hnU015X0k4ckVyRm15Ukg5Smx3dDMzWXZWdnRkSlFjam9GXzdzQjY1bmpOTVRZTGVGSTlhVXctUjdGX3NHWFNaN08wVGJYSmFVUVF2akpUbTBSUzdGRHpVOUtDXzRTMVRwTm1GSmNUdU9JZGJKME5LUlFJSXd3cHVPdkNYUHBucE1HZEU3QmUtSzBybjV0bUtNcnloM1NpWDh4eUJ1ZXpjRTRsQ1c1aGtyNG82TQ?oc=5"
     },
     {
      "title": "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
@@ -104,14 +109,9 @@
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk1Zak1rQ3VYUmZraV9PdnBILTM1XzRBWWJlcUpsTHhuTGVOaW80TnJvWXN0WXYycjBFTndneldQQUxsSjV6UWxOTVFzcGVsQXBPdVVHRmZDZzY3Vnppa1lGV296QzAzN3VUV19BMDJCRjEySjlvTTJIQlNaZWxsTXZsZjJ3SV96bktYODg5UzlfNHVBd2lwRlozLWthX05RTDFlblljUFc0QdIBsgFBVV95cUxPQjJhajBmY3RtXzNyZVpxMVM1Tnh4TXBhMGRCQmJlTFdpLWNmOExGRVVfTDZ2OWRxelJYRTAzNktVNWlrUk9pNnd2akdaazhlbHRSSl9GVUxBMDlBSF9ucW9IcDdqZjVQWmJxSXhRUHcxaUw1M2hZLXFmM3NObEgxcWpMZjlJajk5eW9YZ1BYR3pMZXloSUdqbkJoNUg5Q01JZVA0c2g0blZQWEJLTU8tT0RB?oc=5"
     },
     {
-     "title": "Australia tightens student visa rules: 5 changes Indian students must know before studying abroad",
-     "source": "Education Times",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdDAtWE1uaV9iNnJiaXROQUdJOFcwZXI0SVJ1cDVTaXM0R1lpMkpVb3FsN0VmZWItZmMtUWE5Znd3Umcwd0xuLUZDbTJ4dDJvQ2ZHYV9QX3lxcDd2c0dJc3pVNjVUdjdEVGVkcUh4cFcxRWVnY183NTJiOVF6RnR3VXBwNG9EYXc4Ul9JT05xdGxIZ0NvNDczNkdUWjRsaTA1b29vZnVNbUI3Qk5EcF9rdjFFS3Y1WEY5SDNoMXAxbzVQdHZEMkhJQUtGM1V2eFpmYzB3UzVkcWFwaXQwT2pkYXdacXltQUR0ZV9yLXFDSzUzS2VlQzZCcENR?oc=5"
-    },
-    {
-     "title": "Flávio Bolsonaro Apparently Fled After Losing the Election — U.S. Grants Him a Visa",
-     "source": "blue News",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjZpR0ZzRUVpUzM3c29jZXFXVWE3VkVkN0Y5c1lFUlA2dVlGdndiQ1J0UWdyeU1DSVplSlVyVVJlUm91M2x6TmtjX1pyY2cyd3ZHZXh4OVpHalFydXRKM1lDSWlkWUcxMHVpZEhvZ0I3VXNteTNhWFVha2t4Q3VPLTlRLUV3Z3JfYU42ZXE0YmMxZnNkNUJxam5XdjJBM0xTWEd3b3lWNWhaQXNwalJtbkVHekhNWjVkRi1LeWV6NVloX3NYX0ZyX3FvdmRVNWY1TmFz?oc=5"
+     "title": "Former Miss Switzerland accuses President Trump of rape — RMF24",
+     "source": "UA.NEWS",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGE0d2ZuMUs4dllXZERlaXdKbGNvbEZNSjhsSWJFd1NSb3QyU2pqYmpNenVnd2ZJT05mNFJUUEp5SVdfaDQ0VGZ4TldRZGZOWTJVakdXQUFlWkZjWGp6bnQ3cFZzUWwtZ01rMXRDUTNzMmtFSWFqdVRFX3ptc09WUVZXWUZaU2xUemJEQU41c3pCalhrdjZjVVRxUQ?oc=5"
     },
     {
      "title": "Cost of Living in Switzerland for Indian Students 2026",
@@ -119,27 +119,27 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXFqQ1hDYzFZOWJrWnNjbHZjNmlISHJoQ0Y3Y2ZKQThJYlJ2Mm4xWTJNSlpwWlJ1ZUE2Tkd4MW1jYTZSSjhtMktmeEVqc2pmNS1oWUpJQy1zaTdNenhndGlyODlsLUZJTUo1Ui1ZT1lDMGpXakFfNllDTWotb3d6dG5ReXF2RGdsOEJzTjh6Ynp2Wm9TTjM4d3Qwbi0xbU1BRmxSaGphVQ?oc=5"
     },
     {
-     "title": "Planning to study in Germany? Tuition may be free, but these hidden costs could surprise Indian students",
-     "source": "Education Times",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPczBQRGtPRENiWE81ZkpkYXRpRHBEdTNBNGNjMkp1eFRuSTcza2tQcjZ0YWJ1cXdidy03VFRWUFZvVWk2amc1cDlSeTJQNlI0VE1CZDRvUFk2S0oyMWlCWGFQMVFzcUphZk8wa1l4SUlma1lIRnIxd2Rsd1pseFFGMHEwbFNNOS02X1V0QjVGMjlGelV6Vkloc0ZGT3ZGS2lLZnlCTFdoc0RtX2xYakcyaVhiUlNuc3FXYUJNNUN5T2FLY3NHYmZhYl9DYkpBZEZMaHpvQ0F4a0RmbVRBUjNKeER5SDMyQUU2LWpMVzBwdFNuS2pOWjFMeG5zYTliYTEtcnc?oc=5"
+     "title": "Nigeria Loses 20 Visa-Free Destinations In Latest Passport Ranking",
+     "source": "LEADERSHIP Newspapers",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1cGJGSUJaVGp1eUdYakE0dG1iaG9lU0ZQUDZKSGdVVkFRSmtuT3M1MUk3cjJKUlpVN01FemtaXzcybnFobTc0YmNTZzNBQ0Z4cUtnX3VIa0NVMjdNSjVXdWxMQXJWYUtQSms4NHdRQi1nWE9ia0E4eEhQVzFjVVVJVGctc3MtZFJjcnJBNExyMFk?oc=5"
     },
     {
-     "title": "Top 5 Fully Funded Scholarships to Study Abroad in 2027",
-     "source": "Shiksha.com",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDNaRUFucWpoQkp0MFM3SkRULTltRjRtTE9MUkxCTG1KVjVFQjBDLU1GMmpLVUdxWlk2YnBhdGthcHN5cUplajJmU1pqaFRjVHR3LXJvUFFsYllrbTBPZklKWkVwSVRQcDU3ZTl2ZEZLUGhvZjZaaUdjLXV3cXdBN3hmSjlBdElaR2ZjVzJOV2tRVzlPLUVfdVVJSm5UQTNmbmMwT19LUmdrd2RjOWllTXhLVEctM2NsUm5RZA?oc=5"
+     "title": "VFS Global opens first visa application centre in Guwahati",
+     "source": "BW Hotelier",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjNDNkp3ZUd6R1paaVpVU0VDLVdIZ2oxUTJlX1lmSk1nUmk5N3hpXzBsNXhoNVFuV05wczZHc1IxYUxvWWlRV05yQ3Awc1BQRHlrTzFEaVJuMGhDSnJpWEpuRDd5WG5rQV83cTdUZnRXSmlWcUxlenRxdHp5Nl96UU91VDFrMjBEVmRBVk95NjNDN1dydTlGTFRqRVN0TnF4UFE?oc=5"
     },
     {
-     "title": "Ontario Revives Regional PR Pathway for Skilled Foreign Workers Until 2027. Check Your Eligibility!",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb1ktOFFSOElsUjlrR2kyQWNDQlBqNEtoRnlOeDR5Tl9KYUJobmhJVk1YcklJbThXUzVESkJidjZBS2tJZDhMSjc4NXdsc2xSRlg0VkpyQVpIa25wMnV3MGJyUng0dGFsb2ZMbV9Gc3NGZ3lXNW80NlFRTEZwZWN4U19VTFhMaTVSWXNINHg1MGpBX21J?oc=5"
+     "title": "Programmes/projects in Poland",
+     "source": "eda.admin",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNzFmX01jeF9waHQ1eVJPZGtKc3d0aENYMWR2RWxxQzhybnBUSGF3aUQyWWxfWE54ajZRQUVZSHp0NGhCRXRoUUt1QVZNWGdfelIxLTlyMWRpYnM2MEI2UjVKVmhEdTFkbHhuSGpsc0pZVHBpWTlqOElWRi0weEtZb3Vub3FuU2RsVnhrVElyT2Y5QW1VZktOeWZaa0cxZUZPTG5kS3QtWVhVUlk?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-10-31",
-   "news": "SRF informa que el proyecto informático de las autoridades migratorias suizas está bajo presión por las medidas de ahorro federales. Watson señala una explosión de costes en el nuevo sistema de migración que ha alarmado a la supervisión financiera. Por su parte, www.bote.ch reporta que un tribunal ha detenido la expulsión de un ciudadano afgano hacia Croacia. Además, wundo.ch indica que el gobierno de San Galo exige al Bund una actuación más contundente tras incidentes con solicitantes de asilo.",
+   "asOf": "2026-11-01",
+   "news": "SRF informa que el proyecto informático de las autoridades migratorias suizas está bajo presión por las medidas de ahorro federales, mientras Watson señala que la explosión de costes del nuevo sistema de migración ha alarmado a la supervisión financiera. Por su parte, Fragomen anuncia cambios en los salarios mínimos que afectarán a los permisos de trabajo para nacionales de terceros países.",
    "sources": [
     {
      "title": "Sparmassnahmen des Bundes - IT-Projekt der Schweizer Migrationsbehörden unter Druck",
@@ -152,14 +152,14 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkxISm4wUVBoYW9qX2gyRDJ2TDJGM1FVZzcteFR4TDQ3eFdIOG51NlpqZGxSdjlJVjNZbWU3R0owTWRjcVNoTlRBQndOQUdudm5YYlNHUWlfME1lTDRqUzZ1dEZ2NG5HZUp1NnFhcXFSZlNDbDk2el9COWtSX0Y1Y2hOQmxfY1oycUthUDJSNndkU3VMUld3VWFZaWk3RVhmYnYzUUl3?oc=5"
     },
     {
+     "title": "Minimum Salary Changes Announced",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
+    },
+    {
      "title": "UK–EU Freedom of Movement: Can Burnham Restore It Without Rejoining?",
      "source": "Diplomacy and Law",
      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiakN0MzJDc3U3aUpCcTRoTnhvMUdoT0RKUDlGa0NaVWxueWtrd3JJRG54MTRpSGJ6Nk03V2pEa3F6bXFfMURpTFNweENOWTVNaEZ4ZWlQZWg5RE5QT01UWnc3MnVWTWZsTkMwMW0tNA?oc=5"
-    },
-    {
-     "title": "Krise in Altstätten? SEM reagiert auf die Forderungen von Regierungsrat Hartmann (Abo)",
-     "source": "Vaterland online",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYWlaS194cWExWkNlaGNTLVlwQWVHQUgtem9ocHZzOTdfSGpFRFY4YXpnV1k1UC1FNy1JZk4tN25rSjcxMldHZlZJN2xqazg5MC1SUFJnSnM3aFRvX1RiX0FCcEtBQm1oRjhFd0syNVh6LVlnbjJiRjNNUngxVDJwM0hJMFpKbUtfbGphYWJVS2s3d0hWTDhMSDdDZDdCYXRSNktOeXRMTmpIT0NyUl9zRW01cnNsWTlsRnN2dVNsNHMwdk5DRmc0?oc=5"
     },
     {
      "title": "Bundesasylzentrum Altstätten: SEM reagiert auf Hartmanns Forderungen",
@@ -175,14 +175,9 @@
      "title": "Gericht stoppt Ausschaffung eines Afghanen nach Kroatien",
      "source": "www.bote.ch",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWFsOVNzbm5mcUV4LVl2azdtbVhtN3lGa3daM0lBMjRRdUVneTVJYWxGNElFTGdMZVMxUU1EUkxFNW1HTVp3NFdpcDlRN0NUVk1NVmNZT2dUeC12Q09lOEdPSHU2OXZvNmhLWU0tdUl5MDQtRENNLU4tLTBsMm9UT3BzVF9FYnZWLWE0TlQtQ3RMS1E2MWdVRVhiVDZpTkd0WkMtX3pvY0JlS0xwTVR0dmZ3ZlN5Z1VBb0dBM3RfU2RQZ05oa0NhNGt3?oc=5"
-    },
-    {
-     "title": "Vorfälle mit Asylsuchenden: St.Galler Regierung fordert hartes Durchgreifen vom Bund",
-     "source": "wundo.ch",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdURGa0tsV3JGeEkzZVBKQ1B0Qzlkc0xHZG5pb1huZXJFeDBxcWUxcVBBQ2JkeG9VYXBxb3RTVnFLNmYxZG1lSXhZcnhfd0hoRV9oQmxOVFhQRXAzMkpDakg5eUV1OTlCNmFxcHJYX21aLWN0eHRCU0VVR2NLc1c5VlNUQ3gtRTB4TmZZZ3RUOE9BSmJRZXg1MmR1cTVFSEJRU3F4RHlCMEJpMGJqRnJiQWwtMA?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 8 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 7 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
@@ -218,6 +213,6 @@
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 5 Google News headlines"
   }
  },
- "asOf": "2026-10-31",
- "generatedAt": "2026-11-02T06:00:02.292697+00:00"
+ "asOf": "2026-11-01",
+ "generatedAt": "2026-11-02T07:00:02.280360+00:00"
 }
