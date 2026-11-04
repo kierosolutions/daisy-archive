@@ -2,13 +2,18 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-02",
-   "news": "El Bundesrat ha adoptado el paquete de relaciones Suiza-UE y lo ha remitido al Parlamento, según eda.admin. NZZ analiza los costes ocultos de la libre circulación de personas, mientras Watson informa de que los nuevos datos sobre los Bilaterales III muestran obstáculos mayores de lo previsto. Pressenza destaca que los detalles de los textos contractuales son críticos, y Aargauer Zeitung señala que el paquete europeo se ha estancado, haciendo casi imposible una votación antes de las elecciones. Swissmem subraya la vía suiza para una industria fuerte en el marco de los Bilaterales III.",
+   "asOf": "2026-11-03",
+   "news": "El Consejo Federal suizo aprobó el paquete de relaciones con la UE y lo remitió al Parlamento, según eda.admin el 27 de octubre. Sin embargo, Aargauer Zeitung informó el 29 de octubre que el paquete se ha estancado y una votación antes de las elecciones es casi imposible. Watson publicó el 31 de octubre nuevas cifras sobre los Bilaterales III indicando que los obstáculos son mayores de lo previsto, y Luzerner Zeitung señaló el mismo día que un 55 % de votos a favor podría no bastar.\n\nNZZ analizó el 29 de octubre los costes ocultos de la libre circulación de personas, mientras que Pressenza advirtió el 26 de octubre sobre la importancia de los detalles contractuales. Swissmem destacó el 30 de octubre la vía suiza para una industria fuerte mediante los Bilaterales III, y Luzerner Zeitung añadió el 31 de octubre que más tiempo no aporta nuevos conocimientos sobre los tratados UE. Estas novedades afectan a titulares de pasaporte UE por su impacto en la libre circulación y los acuerdos bilaterales.",
    "sources": [
     {
      "title": "Bundesrat verabschiedet das Paket Schweiz-EU zuhanden des Parlaments",
      "source": "eda.admin",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yMGdBOGw4MGxndUlGRWZncm1IZDdnaUljR2tqbnRHX1NNV1RJSzhNTVNFRzgtNUhkVWoxWW5rZWV6S2N1ZkFpb3RnZ3pJaUNqckpqVlQ4dXc4TG1lUXpmNVc5V25YbzVveFlyczhfQlhyWEU1M3lz?oc=5"
+    },
+    {
+     "title": "EU-Verträge: Warum noch mehr Zeit keine neuen Erkenntnisse bringt",
+     "source": "Luzerner Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3YwMWxLUFhoeHpWT3BxMTM0d2NoV1kxT1d1N2FOUklPSkkwQmxHTHFxbEdFd0xrMnVEX2VIcm91QURpc0dkbnNKV2xhRHh3YWFPTUE2NGxOZlBiTmN1YzJERlJnV0wzZ3VUT3NwNVE2ZDY2c1g2dVV3NVZBZkJEajZVanlRaGZ6ckctUGM3WmhfUjFVTUN4QmZHQnFvZFRjcDJOdktYY1ViWVI0cXl5NmgwQnRKdw?oc=5"
     },
     {
      "title": "Zuwanderung und Politik: die versteckten Kosten der Personenfreizügigkeit",
@@ -21,29 +26,19 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeEg0Vldva0hBNzA3cUNMM01TTmVTanAwNW10SDdnQVdUbGpMbE12TjdVT3o4VUhDd2lzWml0MUI0RU9tblR1U2FFRHhGR2tLNTZHLVFhemdiUTZqODFtOXJLRmdoYVJDNWp1UVIxVzJBd2lPVHBTeFhZOVNFUHNvUk1NTVQ5eG5sejZ2Si1vUWF0bmZtaFdqbXJGeFpEc1NZR0pGUFdWUUdYeU9uYS1sYmkwaENEQQ?oc=5"
     },
     {
-     "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
-     "source": "The Guardian",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcUJldmFnN2R5akRuUHoxR2c0SDFiZnE3WkVmcmJTZVdKTVF2V3c4Vmw5UEJOZkRhQ3dwcWh3NklubXZ6SGdJZlVYb3M4M09sekJ2RWNjVW8yVkZRdjF1TGxZamgzYzFrTW9DMXpuRkxsS1l2U3BwTzAxd09zeE9LdUd3V1NxVW95anJoQUFpQnBtVWpFdGc?oc=5"
-    },
-    {
-     "title": "Schweizer Milliardär fordert Ausländer-Abgabe – Familien könnten 4000 Franken erhalten",
-     "source": "Tages-Anzeiger",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSm04OHkzWE9vdkRHa2V0R2xoTmhFZy1RbnROWW41ZGs3UGlzMHAwRkE0aUszdGI2SGVfVUUwRHp1YVlJN0xPaFB5TG1fRUY5WnFUeWhTMEtxUlNnYnRuV2Z2ODZmazR0ZDRYc0E5MnpqUThrcDBEbEVaZFgwM2ZsRGxOa2V3TmNWZmNjNzFaaWtzTi13dTFCeVFyTQ?oc=5"
-    },
-    {
-     "title": "Bilaterale-III: Der Teufel steckt in den Vertragstexten",
-     "source": "Pressenza - International Press Agency",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFQyRDVpdWE2MDBwTktNZkpKNThjOHNiLWtJQ0lCZl8tQmNjbzlYVHhCRjY0R1MxZm9VOWEwd3ZFalI0a043OU9HSjNEMFA2MHcxdWktd2dDckp6bzdJZy1STUU1YkVhWXY0eVFYWlpITDdmRHZKWWhJUjM1VDE0QXNrRk15Mjl6aWJnOTdwZVZpS01ReWs0?oc=5"
-    },
-    {
      "title": "EU-Paket gerät ins Stocken – Abstimmung vor den Wahlen fast ausgeschlossen",
      "source": "Aargauer Zeitung",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXprN0VtZ3lnRURJT1RDZ1MxX0owbHFiV3VqVm9YSEFlTjZvTHM2UmNTZWZfcm9iQlExMGNKSW9jVFM5cFRVTjZVdVlVZmdQQUZtMlptV0VZamRzNG9ISmR5MG03QkpkRkdZX0V2LVQwaUJsZ29xVWhPUm5tbFUtVmIyVG8yNlc0Mi1jX1ExRUZuOEhOZFFzemNoOU9CSU5mM3BsZFR3?oc=5"
     },
     {
-     "title": "EU-Verträge: Warum noch mehr Zeit keine neuen Erkenntnisse bringt",
-     "source": "Aargauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjNGVkFheUJLSk82bGR3WmwwT2dVQjR2S3NkeFFTV2s0VW81YURiMGI4VU1wU2ZGdWZUQmNnZXBUMWladno1RlNXOER0ZHo2bTBuZXpuMlc1c2E0OXExTU8wYjlYV19ISXliU2dkUGtwX0xMWmhmSVRSTVBtU0tiSDZIYmYtNlQxVFp2NVhVUFdLUkVTVGthbFBnX0FLaFhXUzdKREVHVFNSTU16cHU5Wk43TTBFQQ?oc=5"
+     "title": "55 Prozent Ja reichen vielleicht nicht für die Bilateralen III",
+     "source": "Luzerner Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0Z6Nl9jZVRzMnN5NWJ3QllNVGFXbW5GOXlqLWc4UnZ0cF8tUF8zdGFhTlY0TUQ5X1JraS00Njd4bWUwaUdNQjNvb3dOV0Nod090YlZzV0pLczdzdzFBWWc3T1NyejY0eEZSMlZGSFRsZ255ZWFGMlBLN09vcEU3RklBcXc2dE91U1JScUloeUo2TE5QMTN0c2xhYy0teFpzOHBvaw?oc=5"
+    },
+    {
+     "title": "Bilaterale-III: Der Teufel steckt in den Vertragstexten",
+     "source": "Pressenza - International Press Agency",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFQyRDVpdWE2MDBwTktNZkpKNThjOHNiLWtJQ0lCZl8tQmNjbzlYVHhCRjY0R1MxZm9VOWEwd3ZFalI0a043OU9HSjNEMFA2MHcxdWktd2dDckp6bzdJZy1STUU1YkVhWXY0eVFYWlpITDdmRHZKWWhJUjM1VDE0QXNrRk15Mjl6aWJnOTdwZVZpS01ReWs0?oc=5"
     },
     {
      "title": "UK–EU Freedom of Movement: Can Burnham Restore It Without Rejoining?",
@@ -64,14 +59,19 @@
      "title": "Wer besonders auf Sozialhilfe angewiesen ist",
      "source": "www.zh.ch",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQzJoajdycGp2ODA1d3QzX0pTZEdMS1p0ZFRsMU1ZNHFoOGgzbGNTVXFLWGVFNkRHNEVxZ1YyM1FBcWlLMUwyTUZZYTI1a29CRnF5VWxKOGJXODl3NUo1MDZVZDVUcU5oUkV4WUEyTUNFblVKeTRTWUZ3TFdXd1h2VE1ESHZreDkwSG1zZDNILXhsM2k1YUpxTjBrbDZRVVdWMW9GZWVibWkyZ2lJSlR2LUtXZDluZGI0clAyWWxZNHZHLXZFNVY4emQtR0dYUQ?oc=5"
+    },
+    {
+     "title": "UK Prime Minister Andy Burnham wants 'honest discussion' on return to EU free movement",
+     "source": "Euronews.com",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVxUTFIMnA5c0FreWplYVR1d0pzVkU4eUtoeHQyNVRqdndzaGxCTVYzaTRWY2hZWEZydjVsS0tnQ0RPYkxvVU9KV1Z4ck5IcmY5RnhnWnlFbGZTSUpVRkpiemJMWFFucDFhZUo5Y25pQ3lhaXlwS3hjM3p5cmZxaEJaUDZ3d3YyWjNTdko1SlozUFV4X0Q5Rl9MVlROQV85ekl0NzBtM1ozbkRVQWVCamt1enVBdWN4UWUtVQ?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-02",
-   "news": "Según Shiksha.com, se ha publicado información sobre el costo de vida en Suiza para estudiantes indios en 2026. Por su parte, Education Times reporta que 50 estudiantes indios participaron en un recorrido de estudio en Suiza que incluyó visitas a la ONU y al CERN.",
+   "asOf": "2026-11-03",
+   "news": "Legit News informó el 28 de octubre que Suiza ha publicado las condiciones financieras que deben acreditar los extranjeros para obtener un permiso de residencia sin ejercer actividad lucrativa, un requisito que afecta directamente a quienes solicitan permisos de estudiante. Por su parte, Shiksha.com detalló el mismo día el coste de vida estimado para estudiantes indios en Suiza durante 2026, ofreciendo una referencia práctica de los montos que las autoridades suelen exigir como prueba de medios suficientes. Ambos reportes subrayan la necesidad de demostrar solvencia económica previa para residir en el país con fines de estudio.",
    "sources": [
     {
      "title": "Halloween-Demo in Zürich: Kostüm oder Vermummung – Polizei droht mit Busse bis 1000 Franken",
@@ -89,9 +89,9 @@
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkRhLXVJdWVIRVdFV3h0b0dwaEVEVktPWUFuaVpjQkhpOFRCcUQyZ2lTRXlJTVpNVWRjc3VRbUdRRDZOMnc4WXhmeFhrUk85MnF1VFRrS2VDbU40TDU1OEdnNXBZdzd4ODVqSkdGb21jbnpWTDRCUFNOWlBsYmFsRk9WZUJSazlNVDMxTGw4dWthSnZUUTBiMzdLeHFtREMwWG9Uek9vYkJGVTM3TzJYbjdJc0tZOVBXNkdGVA?oc=5"
     },
     {
-     "title": "£1,000 grants for poorest university students under threat because of visa crackdown",
-     "source": "The i Paper",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPazQ0X1g2UTd1QlhkWC1xNzY2UjZpakU4U1ZvanF5STU1S2xBQlg2aFZFd0xMQnQzTnBrdlBlQWh2U3FHd211QzlGOVZpX0FUR2ZrMkwzUmo0dUVMdG5ha01rWVF2NW9HUGM4ODVKQ2dqckh3RVJNRFMxVldrTFdnOVFlZnJLQUNtRkZpa0d5U0lQaHduRGw3WjM2cjVpNEZj?oc=5"
+     "title": "Minimum Salary Changes Announced",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
     },
     {
      "title": "Australia consults on student visa overhaul as refusals hit key markets",
@@ -99,29 +99,19 @@
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWRrNzRLSVhicGk5TzlFektxZE8zaWxfb1U4OXVhSFFZU0dFTGQ4cHZsTlRIUkZrNVZiZjg0d3hrTnRCS0VtX0VPVnk4ci1vbWJLd0ExX3ZXMzVhZEVkMEhjZHluZ0Q3aEduRlB0MUc1Ql8zTDRZTkEyNVZGMF8yRUt5MDlTQk9ZNXljMEJqOHRrNk1Mbkxoak9qQQ?oc=5"
     },
     {
-     "title": "Ryan McInerney Finally Gets Visa a Path Into China’s Domestic Card Market",
-     "source": "Observer",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnZYemdsQmFac1lkWVd4YUFuSEpQWFdtMUZIZm9ENDZPTnRrU2F0RS1QdmVYOXZYSkVZenYyYXN0elBRdkdSUDcwZ3ZUMXVmY0F0LTNkQlE5N0hhMVY3QzZ6d21MWnhueGlFSTNtVVlJQmkyRkNVSVJHaUwzbGxvelFIenlsTVZq?oc=5"
+     "title": "Worldwide/Ukraine: Temporary Protection Status - Country-Specific Updates",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2lrZ05XcGppYVo2SzVYY3BXUWVDdlRzTm1UZFdPS1ZRUER5VjVsdWxWbzlDUGdoSW4xRHRXYnFnWGE3Ri0tTFV2Ry1jUDhyckZFWVd6VDJPWnJBMmt2THRiZmNLRU1ULWNTRVF0X2s1Rl9JTWd2U1VObUNaYXpwa29ERV9ST2dPUW5LQnMycjI2NWotakpqYU41NzVfZGVmRThjWjRJZTkzenI0WHdqWVY1bw?oc=5"
     },
     {
-     "title": "UK to hike proof-of-funds requirement for international students from Nov 30",
-     "source": "VnExpress International",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlhIV0VDeVRMdy0wSzYySENGZF83RnZfS2U5eDFKSnJSUnJRY0xyZWVCd3MtOTNvcG1DdjNZdFo1ZmRMWks3aHRFSnNsbUdkNng4Zzg3WHhwMV84YktfTVB4dHZxYmZtMjdGQjRBcEJpaU9ZQzlEcnVYMUFLcFFteDRZTDJHeHliV0VhSUExRF9DUWZsdWItbW1EMVU1LWRQRS00OWtBZGptLVFkM1FLTDFPcndCdVItMnpXUlowZElUcTM1Ui1fSkxWckVzUQ?oc=5"
+     "title": "Future Diplomats Forum 2027 in Geneva, Switzerland – Fully Funded International Conference",
+     "source": "Global South Opportunities",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNk9pTkxqZ1JCYk5NWEh2ZzBOTmdrRnBqWk1Ca09aRGZ0X2FSTUVCNzdRU1JXb3d4Q3IweVJxcmhFYTJTNURfYXpPSE1zVGx3NUZlemFkbFUyQ1YxREpSX19PMEx5LUZxa1BhTENn?oc=5"
     },
     {
-     "title": "Switzerland Study Tour: From the UN to CERN, 50 Indian students experience global learning",
+     "title": "Australia tightens student visa rules: 5 changes Indian students must know before studying abroad",
      "source": "Education Times",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDVuaXM4XzJyelZ1bXo5NER5S3lyLVhfcEN5SFFad29ud1Y0VG9hd2dUdHdYQ09FUHhQOURjSFhmS1hnU015X0k4ckVyRm15Ukg5Smx3dDMzWXZWdnRkSlFjam9GXzdzQjY1bmpOTVRZTGVGSTlhVXctUjdGX3NHWFNaN08wVGJYSmFVUVF2akpUbTBSUzdGRHpVOUtDXzRTMVRwTm1GSmNUdU9JZGJKME5LUlFJSXd3cHVPdkNYUHBucE1HZEU3QmUtSzBybjV0bUtNcnloM1NpWDh4eUJ1ZXpjRTRsQ1c1aGtyNG82TQ?oc=5"
-    },
-    {
-     "title": "'Dress Torn, Was Bleeding': Ex-Miss Switzerland Accuses Trump Of Rape",
-     "source": "NDTV",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk1Zak1rQ3VYUmZraV9PdnBILTM1XzRBWWJlcUpsTHhuTGVOaW80TnJvWXN0WXYycjBFTndneldQQUxsSjV6UWxOTVFzcGVsQXBPdVVHRmZDZzY3Vnppa1lGV296QzAzN3VUV19BMDJCRjEySjlvTTJIQlNaZWxsTXZsZjJ3SV96bktYODg5UzlfNHVBd2lwRlozLWthX05RTDFlblljUFc0QdIBsgFBVV95cUxPQjJhajBmY3RtXzNyZVpxMVM1Tnh4TXBhMGRCQmJlTFdpLWNmOExGRVVfTDZ2OWRxelJYRTAzNktVNWlrUk9pNnd2akdaazhlbHRSSl9GVUxBMDlBSF9ucW9IcDdqZjVQWmJxSXhRUHcxaUw1M2hZLXFmM3NObEgxcWpMZjlJajk5eW9YZ1BYR3pMZXloSUdqbkJoNUg5Q01JZVA0c2g0blZQWEJLTU8tT0RB?oc=5"
-    },
-    {
-     "title": "Former Miss Switzerland accuses President Trump of rape — RMF24",
-     "source": "UA.NEWS",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGE0d2ZuMUs4dllXZERlaXdKbGNvbEZNSjhsSWJFd1NSb3QyU2pqYmpNenVnd2ZJT05mNFJUUEp5SVdfaDQ0VGZ4TldRZGZOWTJVakdXQUFlWkZjWGp6bnQ3cFZzUWwtZ01rMXRDUTNzMmtFSWFqdVRFX3ptc09WUVZXWUZaU2xUemJEQU41c3pCalhrdjZjVVRxUQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdDAtWE1uaV9iNnJiaXROQUdJOFcwZXI0SVJ1cDVTaXM0R1lpMkpVb3FsN0VmZWItZmMtUWE5Znd3Umcwd0xuLUZDbTJ4dDJvQ2ZHYV9QX3lxcDd2c0dJc3pVNjVUdjdEVGVkcUh4cFcxRWVnY183NTJiOVF6RnR3VXBwNG9EYXc4Ul9JT05xdGxIZ0NvNDczNkdUWjRsaTA1b29vZnVNbUI3Qk5EcF9rdjFFS3Y1WEY5SDNoMXAxbzVQdHZEMkhJQUtGM1V2eFpmYzB3UzVkcWFwaXQwT2pkYXdacXltQUR0ZV9yLXFDSzUzS2VlQzZCcENR?oc=5"
     },
     {
      "title": "Cost of Living in Switzerland for Indian Students 2026",
@@ -129,23 +119,28 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMXFqQ1hDYzFZOWJrWnNjbHZjNmlISHJoQ0Y3Y2ZKQThJYlJ2Mm4xWTJNSlpwWlJ1ZUE2Tkd4MW1jYTZSSjhtMktmeEVqc2pmNS1oWUpJQy1zaTdNenhndGlyODlsLUZJTUo1Ui1ZT1lDMGpXakFfNllDTWotb3d6dG5ReXF2RGdsOEJzTjh6Ynp2Wm9TTjM4d3Qwbi0xbU1BRmxSaGphVQ?oc=5"
     },
     {
-     "title": "Nigeria Loses 20 Visa-Free Destinations In Latest Passport Ranking",
-     "source": "LEADERSHIP Newspapers",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUg1cGJGSUJaVGp1eUdYakE0dG1iaG9lU0ZQUDZKSGdVVkFRSmtuT3M1MUk3cjJKUlpVN01FemtaXzcybnFobTc0YmNTZzNBQ0Z4cUtnX3VIa0NVMjdNSjVXdWxMQXJWYUtQSms4NHdRQi1nWE9ia0E4eEhQVzFjVVVJVGctc3MtZFJjcnJBNExyMFk?oc=5"
+     "title": "Top 5 Fully Funded Scholarships to Study Abroad in 2027",
+     "source": "Shiksha.com",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDNaRUFucWpoQkp0MFM3SkRULTltRjRtTE9MUkxCTG1KVjVFQjBDLU1GMmpLVUdxWlk2YnBhdGthcHN5cUplajJmU1pqaFRjVHR3LXJvUFFsYllrbTBPZklKWkVwSVRQcDU3ZTl2ZEZLUGhvZjZaaUdjLXV3cXdBN3hmSjlBdElaR2ZjVzJOV2tRVzlPLUVfdVVJSm5UQTNmbmMwT19LUmdrd2RjOWllTXhLVEctM2NsUm5RZA?oc=5"
+    },
+    {
+     "title": "Trump Allegedly Offered Swiss Beauty Queen US Visa, NYU Admission to Silence Rape Claim, Epstein Report Says",
+     "source": "International Business Times UK",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMGc5a1lRNWQzQUtZdXFYX3h3c2JPb0Z4Y202cU9xMDl0a2R4R2s5cXJVcUVqOEIyT3NCMWtuWGRmU3NTTjN1amx3QWhqZTN4eklaZ1RLOHRHNkFjb1diVVQwUkpjN1JxV0t3VEl5Y1lSbUw3ek9PRmx2Rms4X0JON01DTHJ4R2IyN2Y0WU9qeGQ?oc=5"
+    },
+    {
+     "title": "Switzerland Releases Financial Conditions For Foreigners To Get Residence Permit Without Working",
+     "source": "Legit News",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelFFMmhuZ25fOU1hdVJJVDRvbDNsWjhMaUwwUDc5UGo1dTBvWFhxQkpZVklDVjNzZ1E1UGhYQU9LUFNSSlZaa1JSa0NRQjJyRlBYQzQwN1pXZTJEbERRUkFpWWdrUERIYU9hRE5vY3YxdlRQZXllXzN1UFVpeWhGYnM3OGlSS0JMTHVoTnM5YkZla091b1o2M3ZZZG51cmxiLUg1UE9zXzVnZVMtSUdaVlNpckw?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-02",
-   "news": "SRF informó el 26 de octubre que las medidas de ahorro del gobierno federal han puesto bajo presión el proyecto informático de las autoridades migratorias suizas. Watson señaló el mismo día que la explosión de costes en el nuevo sistema de migración ha alarmado a la supervisión financiera. Fragomen anunció el 30 de octubre cambios en los salarios mínimos.",
+   "asOf": "2026-11-03",
+   "news": "SRF informó el 26 de octubre que las medidas de ahorro federales ponen bajo presión el proyecto informático de las autoridades migratorias suizas, mientras Watson alertó el mismo día sobre una explosión de costes en el nuevo sistema de migración que preocupa a la supervisión financiera; el 27 de octubre, muula.ch señaló que otro proyecto informático federal se descontrola.  \n\nFragomen anunció el 30 de octubre cambios en los salarios mínimos que afectan los umbrales para permisos de trabajo de ciudadanos no comunitarios, y wundo.ch reportó el 25 de octubre que la Secretaría de Estado para la Migración (SEM) respondió a las exigencias de Hartmann en relación con una crisis en Altstätten.",
    "sources": [
-    {
-     "title": "Bundesasylzentrum Altstätten: SEM reagiert auf Hartmanns Forderungen",
-     "source": "Luzerner Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVpKUi1OOE8zbl96a0U5Nmg4ci14QnoxaGh4NFZ2U1NGdXA3V1hiU3dvU0VvRHBaZFlWNmhOUHlCSl9vZHhqd2o2dE0tOGMwaDlUYkM4QndsSTlqaFRwSi1vUzZrVkN5OEh0MWNCYVVpeS0yVnNSS1VKck1CU1hYZ1Vvb183eXoyUENmdVZydlNrMnBnMExHSWpxVXRBYkxGbG5aMGxVazQ0U3BQT2l2cVZCeVREVy0tdXNLX3RZeTZ4d3VYVkd5VVFQY2x4WGg1eXZFREdBdTdVNFJT?oc=5"
-    },
     {
      "title": "Sparmassnahmen des Bundes - IT-Projekt der Schweizer Migrationsbehörden unter Druck",
      "source": "SRF",
@@ -180,20 +175,25 @@
      "title": "Gericht stoppt Ausschaffung eines Afghanen nach Kroatien",
      "source": "www.bote.ch",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWFsOVNzbm5mcUV4LVl2azdtbVhtN3lGa3daM0lBMjRRdUVneTVJYWxGNElFTGdMZVMxUU1EUkxFNW1HTVp3NFdpcDlRN0NUVk1NVmNZT2dUeC12Q09lOEdPSHU2OXZvNmhLWU0tdUl5MDQtRENNLU4tLTBsMm9UT3BzVF9FYnZWLWE0TlQtQ3RMS1E2MWdVRVhiVDZpTkd0WkMtX3pvY0JlS0xwTVR0dmZ3ZlN5Z1VBb0dBM3RfU2RQZ05oa0NhNGt3?oc=5"
+    },
+    {
+     "title": "Nächstes IT-Projekt läuft beim Bund aus dem Ruder",
+     "source": "muula.ch",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0NZZ19fLS1RMDFDTmw0LXdkNWlvMjJCVXRpMWJoMGhieVlFNkpLQVNHTXkzVkF4VUcyVjBUVWZjNEx6cFhZajZKMzJLTDAyU3N2TjRBdzRWX0lUN2RnV3RMVTF3NTJZeUY0Q3lEME9NUGNGUDlEbEJhbW9fUUN1eDhWdkNpOXdSWjhRdUUzRWJvb01zWHF2YlRvbWFZYzY1NWhWSDNneko?oc=5"
+    },
+    {
+     "title": "Ewige Rivalen: Wie sich Ueli Maurer und Simonetta Sommaruga bekämpfen",
+     "source": "Schweiz heute",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekVkU3B0ekZwRklteElOUkpHeUZ3M19pZF9JMEpKT1dFUmJEZzN0U3NRcGZDc3ExZldIU0lWVzkwV2RISElDRjJNaUIzcVpiTU5KOWRKQ0IyekEzb1JTNlVmNnppWjBIVGRkRjdNTlRGb193RjFtWU1WeU9zMm9sN1MzcEx2RThSN1V3eVQ5MzdUTE9ESHJKVW54eXVmSkRMYnBoNDd0ZU5OaElqS0o2REFsT3FmQQ?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 8 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 9 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-02",
-   "news": "No hay novedades relevantes para este caso en los últimos días.",
+   "asOf": "2026-11-03",
+   "news": "Según SRF, Watson y muula.ch, los proyectos informáticos de la Secretaría de Estado de Migración (SEM) sufren retrasos y sobrecostes que han alarmado a la autoridad de supervisión financiera y han quedado bajo presión por las medidas de ahorro federal. El portal wundo.ch añade que la SEM ha respondido a exigencias políticas en el contexto de una situación tensa en Altstätten. Estas informaciones, publicadas en los últimos días, afectan a la infraestructura técnica que gestiona los trámites de migración, aunque los titulares no detallan consecuencias concretas para la reagrupación familiar de cónyuges de ciudadanos suizos residentes en el extranjero.",
    "sources": [
-    {
-     "title": "Bundesasylzentrum Altstätten: SEM reagiert auf Hartmanns Forderungen",
-     "source": "Luzerner Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVpKUi1OOE8zbl96a0U5Nmg4ci14QnoxaGh4NFZ2U1NGdXA3V1hiU3dvU0VvRHBaZFlWNmhOUHlCSl9vZHhqd2o2dE0tOGMwaDlUYkM4QndsSTlqaFRwSi1vUzZrVkN5OEh0MWNCYVVpeS0yVnNSS1VKck1CU1hYZ1Vvb183eXoyUENmdVZydlNrMnBnMExHSWpxVXRBYkxGbG5aMGxVazQ0U3BQT2l2cVZCeVREVy0tdXNLX3RZeTZ4d3VYVkd5VVFQY2x4WGg1eXZFREdBdTdVNFJT?oc=5"
-    },
     {
      "title": "Sparmassnahmen des Bundes - IT-Projekt der Schweizer Migrationsbehörden unter Druck",
      "source": "SRF",
@@ -218,11 +218,21 @@
      "title": "Gericht stoppt Ausschaffung eines Afghanen nach Kroatien",
      "source": "www.bote.ch",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWFsOVNzbm5mcUV4LVl2azdtbVhtN3lGa3daM0lBMjRRdUVneTVJYWxGNElFTGdMZVMxUU1EUkxFNW1HTVp3NFdpcDlRN0NUVk1NVmNZT2dUeC12Q09lOEdPSHU2OXZvNmhLWU0tdUl5MDQtRENNLU4tLTBsMm9UT3BzVF9FYnZWLWE0TlQtQ3RMS1E2MWdVRVhiVDZpTkd0WkMtX3pvY0JlS0xwTVR0dmZ3ZlN5Z1VBb0dBM3RfU2RQZ05oa0NhNGt3?oc=5"
+    },
+    {
+     "title": "Nächstes IT-Projekt läuft beim Bund aus dem Ruder",
+     "source": "muula.ch",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0NZZ19fLS1RMDFDTmw0LXdkNWlvMjJCVXRpMWJoMGhieVlFNkpLQVNHTXkzVkF4VUcyVjBUVWZjNEx6cFhZajZKMzJLTDAyU3N2TjRBdzRWX0lUN2RnV3RMVTF3NTJZeUY0Q3lEME9NUGNGUDlEbEJhbW9fUUN1eDhWdkNpOXdSWjhRdUUzRWJvb01zWHF2YlRvbWFZYzY1NWhWSDNneko?oc=5"
+    },
+    {
+     "title": "Ewige Rivalen: Wie sich Ueli Maurer und Simonetta Sommaruga bekämpfen",
+     "source": "Schweiz heute",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekVkU3B0ekZwRklteElOUkpHeUZ3M19pZF9JMEpKT1dFUmJEZzN0U3NRcGZDc3ExZldIU0lWVzkwV2RISElDRjJNaUIzcVpiTU5KOWRKQ0IyekEzb1JTNlVmNnppWjBIVGRkRjdNTlRGb193RjFtWU1WeU9zMm9sN1MzcEx2RThSN1V3eVQ5MzdUTE9ESHJKVW54eXVmSkRMYnBoNDd0ZU5OaElqS0o2REFsT3FmQQ?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 6 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 7 Google News headlines"
   }
  },
- "asOf": "2026-11-02",
- "generatedAt": "2026-11-03T07:00:00.733847+00:00"
+ "asOf": "2026-11-03",
+ "generatedAt": "2026-11-04T06:00:02.369929+00:00"
 }
