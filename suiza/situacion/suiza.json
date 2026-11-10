@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-08",
-   "news": "St. Galler Tagblatt informó el 31 de octubre que un 55 por ciento de votos a favor quizás no baste para los Bilaterales III, mientras Südostschweiz advirtió que el Ständemehr supondría un obstáculo elevado. 20 Minuten relató el 6 de noviembre un incidente en la Kanti Reussbühl donde Thomas Aeschi abandonó el podio durante un debate sobre los Bilaterales III. Swissmem presentó el 30 de octubre la perspectiva de la industria suiza sobre ese paquete. El mismo día, St. Galler Tagblatt señaló que más tiempo no aporta nuevos conocimientos sobre los tratados con la UE. Por su parte, Luzerner Zeitung preguntó el 4 de noviembre qué implicará el acuerdo marco UE‑Suiza, y Schweiz heute citó el 6 de noviembre al consejero Rösti afirmando que no hay margen para una señal de tranquilidad en materia de inmigración.",
+   "asOf": "2026-11-09",
+   "news": "Los medios suizos informan sobre el avance de los Bilaterales III entre Suiza y la UE. Según St. Galler Tagblatt, un 55 % de votos a favor podría no bastar para aprobar el paquete, y Luzerner Zeitung pregunta qué implicará el acuerdo marco. Economiesuisse y Südostschweiz advierten que el requisito del Ständemehr —mayoría de cantones— supone una barrera alta, mientras SP Suiza lo califica de inconstitucional. 20 Minuten relata que Thomas Aeschi abandonó un podio de debate sobre el tema. Los titulares no mencionan cambios inmediatos para titulares de pasaporte UE, pero el resultado de la votación y el Ständemehr definirán la futura relación bilateral.",
    "sources": [
     {
      "title": "55 Prozent Ja reichen vielleicht nicht für die Bilateralen III",
@@ -11,9 +11,19 @@
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEtiT1R4aVZhVnlGc0d1aXF3NklvQmUycEFodi1DS29vUDhfZG9yN2thdFhlT01ncFFPSUwyMkl1QlNkckt6a0hxV0NzLW5BM1RXRld3UzVRNkh6cEIwbzVVWDdfWmw0Q1FUYms1bEp2ZnZaX1lkQXlBcTVfZFdweHg4VExTa2g5S1laWHlMVkx3R0NfWDNjSDh3UQ?oc=5"
     },
     {
+     "title": "EU-Verträge: Warum noch mehr Zeit keine neuen Erkenntnisse bringt",
+     "source": "St. Galler Tagblatt",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFUdkdzZ0lCWVRSOGFCS3EyQkFNM0RJcjV1QzFGUWNiSksyNEx3VWV1OVdYS3NUSnJzbU5PZmRabE45Rm85YXBEMno3aG9jdjJDLXNFWlZ4OXNfd09zTHpTT01YanVhR1VRX1k2U3pZUno5bW95c3hCNzB1N0xjY3kwQi0tM00tVWY4MktQbkpwYWF0anY2ZEY1am1YYm5pbzViejJiOXZQYmo5?oc=5"
+    },
+    {
      "title": "EU-Rahmenvertrag - Was kommt auf die Schweiz zu?",
      "source": "Luzerner Zeitung",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0xaeGdYUWp5Mk9EMjk1NTFVazNHZlFBTWNHSmF4ckFFamkzY1F3Yzlua2VLTm5veFJmU3ZpaE1yZEdibExoal9uTnhySXplMDF1M0Z6ZG13Q1E1anN2UEVRVTJJMGliVFlxWllSTW5ETkpnOVluLTB6WWgxenlndk5uMFNuVU9VWm9FVC1IaExISHNOMGFBMlhKLV9zQmxEOGlsMzBn?oc=5"
+    },
+    {
+     "title": "Ein KMU-Unternehmer als Economiesuisse-Präsident: was er will und wieso er sich das antut",
+     "source": "NZZ",
+     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONmxEbkNzVVRFLXZBZl9LcEZNVk5oWHNNVl9fRWJJU1ZGS1ZXOUJyeFNQbGNuaVB4dmhpV29rOGROcWNGM0xRMUwzMVRsNHVzaFB6a0VtektwT3VYMENITDltbWxfWC15T29qNWtaU2V0SEhydTRHYUJhVHllMTEwaUlZSEVqOUZXZDBqa3BSZm0wOGxVbkl3MzlYMzhZRFpQclRmRWt1YTNMLUFZZTNfUFBMMzhXX1U0QVEwUUNiQ0tuYzVMeC15dThXc29WRGlUalZHYnJwYmlHd1pFMTBpcDdIQ3lTdG0wMmlnQzFKc0NCVndvcFUzbHRXV2NjU25Hc1Z5dWhJaw?oc=5"
     },
     {
      "title": "Eklat an der Kanti Reussbühl: Thomas Aeschi verlässt Podium zu den Bilateralen III",
@@ -36,14 +46,9 @@
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaG84Sm02SHRlMTM1emdwb3pPRm1TbWVBYjAtWUxiVFc1R0JTaWNtY2lHVERSRWduT0QtWW1lcWdkUTYtTzYtV1NUMFIwZ1Mtekx4TWJDMVZuUGc4SThCLW9mWU5lb1VkeG5UbXlMbEw5Q3hQSUhERWpuXzJpallVZnZUX04xSTdkRHNFUmxuSnpwTGxNUjVTdl9wMFFCdngwZ3FWbA?oc=5"
     },
     {
-     "title": "Bilaterale III: Der Schweizer Weg für eine starke Industrie",
-     "source": "Swissmem",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWm5oTTdSNjJoMXR1RlVmRk0zcFdMaDZfS2hBcC1SYzRfMGxWSHVpQTl2OXZRODhQdkFlWUZiRDh0eFowUGdwM2VZV0tmeFZEQU90d2NlT2xZWjFvVERLUDYwXzI1MzNJTF9GZTZnUHFnczltOGplNmJReXdiY1VyWTd4X3lwOUJENFZPRnZCRzJUZVZWSjkwaGJLa05kM2U0cmlUMXB6NnNad1FHNnZVc3hodHdMcVQ1QlVRVXR3?oc=5"
-    },
-    {
-     "title": "European Union: Market Profile",
-     "source": "HKTDC Research",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3NGxlTlN2X0luNFA2VVFZZFpMN3Z2VU9BVHBFV2RwZTg1ZjFGU3ByVDRZRjhaSURQTnNsNUlHQVJNdVhWVnBuNjBEN1FWcmI2TThfNThHQ0VJdGN2Umkw?oc=5"
+     "title": "Ständemehranalyse zu den Bilateralen III",
+     "source": "Economiesuisse",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHVBbUlaX2JjbHFxUnhzRXhlOUpMMXlJR0ZGNkltNFZ1RDVYRjllZ3VzbUdtYXVVd2NfVU4zaFVkVjNoTDhoODlmSFc1b1RvalU1UzdVUjk2eWFqd2RTRUUtX0pUU1NWd0l4dF8tQ3JkYlZhMUM3ZW9BNVBHS0t6VXFXODB1dml6SWc?oc=5"
     },
     {
      "title": "Bilaterale III: Das Ständemehr wäre eine hohe Hürde",
@@ -51,26 +56,21 @@
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUdJSHNHNzQ4MDhJMlVzbVMwMGphMEFhY0d4Y2VtQ181LVZBZnpSckU2MzFQQ2tSUGMxeHZIcjJjaWo1UGs0NXlVVXNwOHBWeTNjSkVHUzVHWUNNblJpM0JVZHg2MmpIeFhEcXY2RjJ4a05aNi1CSzlmOUdobjhnMUFzY01MQUdWcDB5QzZrZXMwWlh4cWZ0eXZ1ZlN5bENpS0Zodk1GRkpMZHU2?oc=5"
     },
     {
-     "title": "Rösti zur Zuwanderung: «Von einer Entwarnung kann nicht die Rede sein»",
-     "source": "Schweiz heute",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjNxVm9CWVp1cTEzc29QSjlKYlE2WTlRV1JLMjBWbV95bVhZSnBWWXM1ckp3SE83MTdVV1MxeHJaT01ZWFU4UUl1cmYtcU1BdFowMS00a1dQUE1RV0ZPSkdfTmxsT3dLZXFVVm5PUG1USF9TcGo1UEd6N01qenY4ZnpGbjF4X3pxWWFGZEViOXVqc01VRWsycG55cDhSSzB0Zkh4WDc3VjVnWGtZY1NmTmRacw?oc=5"
+     "title": "Verfassungswidriges Ständemehr gegen Bilaterale",
+     "source": "SP Schweiz",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOWQ4ZHFjb1gtVDFDUC1RRmRESHNwQmVKNFJmS0RHcU9pcHh5V0tqY210V2FvNFh6dUR0b0VCbzZrTmlwemNiRlRpamwwTDhFZG5LWVFGckJ4R29jRUJkMzhLVnVSTU03RDNuc2hiZVpyQ0VpeEpRWEtfdXJoWEt0M0VqSWU?oc=5"
     },
     {
-     "title": "'Why I support the return of freedom of movement for everyone in Britain'",
-     "source": "The York Press",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU4ya1VkcVp4Rnlaczl4UEZFTDNpdlhOT0dqamVOSTBCZDZCX00zNUpfMlBoV0FBZUVERXpJVUFMUGl5QmdTTVl4OVh4NnhKVVlGeF9Dd05ucXp6TGdVcFd2SnhLQUFqbW9aczNjN1J4bjZVVXhGbkFYdFVnTzg3RWFBWFVUbGVT?oc=5"
-    },
-    {
-     "title": "EU-Verträge: Warum noch mehr Zeit keine neuen Erkenntnisse bringt",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEFUdkdzZ0lCWVRSOGFCS3EyQkFNM0RJcjV1QzFGUWNiSksyNEx3VWV1OVdYS3NUSnJzbU5PZmRabE45Rm85YXBEMno3aG9jdjJDLXNFWlZ4OXNfd09zTHpTT01YanVhR1VRX1k2U3pZUno5bW95c3hCNzB1N0xjY3kwQi0tM00tVWY4MktQbkpwYWF0anY2ZEY1am1YYm5pbzViejJiOXZQYmo5?oc=5"
+     "title": "European Union: Market Profile",
+     "source": "HKTDC Research",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3NGxlTlN2X0luNFA2VVFZZFpMN3Z2VU9BVHBFV2RwZTg1ZjFGU3ByVDRZRjhaSURQTnNsNUlHQVJNdVhWVnBuNjBEN1FWcmI2TThfNThHQ0VJdGN2Umkw?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-08",
+   "asOf": "2026-11-09",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -82,11 +82,6 @@
      "title": "Minimum Salary Changes Announced",
      "source": "Fragomen",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
-    },
-    {
-     "title": "Australia consults on student visa overhaul as refusals hit key markets",
-     "source": "The PIE News",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWRrNzRLSVhicGk5TzlFektxZE8zaWxfb1U4OXVhSFFZU0dFTGQ4cHZsTlRIUkZrNVZiZjg0d3hrTnRCS0VtX0VPVnk4ci1vbWJLd0ExX3ZXMzVhZEVkMEhjZHluZ0Q3aEduRlB0MUc1Ql8zTDRZTkEyNVZGMF8yRUt5MDlTQk9ZNXljMEJqOHRrNk1Mbkxoak9qQQ?oc=5"
     },
     {
      "title": "Spain Visa: BLS Rabat Permits Filing Without an Appointment for Certain Categories",
@@ -109,6 +104,11 @@
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PbWdtV2ZNV0VReEd3RTJyZTV2MVRPWkZoM0Mtb3FVV1BVOGJPNmlfLWV2Y3J0OGJkdU5NeDA4bnFNU1ExN1hnTjRKaWNYaGFzYktYSHJyVXpVMFh6MkhRa0hPc2NPWnY4YXpSekNtcVkwVWxyNjFENy1BQWc?oc=5"
     },
     {
+     "title": "Filipino visa applications rise 20% in first 8 months of 2026",
+     "source": "Interaksyon",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2hmLWVBekZXTFIwUEVxdUFkbFUyN0xlSUdnaHBDdWo3WUpVN0hsaGxqOHM3QlQxNlA4YnlzSVNTdWQ5RHZibGlTMS1OanVHcXdfRVRPNEUxQk02a1pyOUU2bVFyRFgwejBMa2RyZ0I3SVQwc1pONmZ3YzlQU2ttMmQwSmpLUzhNOEN3WDJaMHdEZ3hfWTdRcks5eEVhM202azhOUDBWTXNRU3BfTGZORjBNZW1lbS12MlpYd254czdDcVZFeExhSG1R?oc=5"
+    },
+    {
      "title": "\"No university from Africa included\": UK names 82 schools for 2026 HPI visa",
      "source": "Legit News",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU1d2bGZSNVZFY2FxTDNua1U0V0tDeGlzM2pmdk1neTNOcS1xMUltSFNwVWJ3RGE0ZUFkVjA3dFQ5X0NNQTNySDQzQ3BqNXJTcWlrbTB4SHBUU2FiNFg4SmRUenhsbkVQYUNKS3NRaV9WX3hCaGFRTWsxOVhtbXJWSGlSZnluM1dsRGZBTHdQRXlWYUNtWUVwMkpWTkdxOVNaeTZKMjlkQ2tCWEI1WkR5YWI3Y1J3am5mSk5PcEl3dFRGUQ?oc=5"
@@ -123,8 +123,8 @@
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-08",
-   "news": "Fragomen anunció cambios en los salarios mínimos; Y-Axis Overseas Careers publicó los empleos mejor pagados en Suiza para indios; LEADER Digital analizó la escasez de mano de obra cualificada y el alojamiento de temporeros. Nau informó que los eritreos pueden solicitar el permiso B sin papeles de embajada y que la Confederación denegó el estatus S a 286 ucranianos occidentales. El Tribunal Administrativo Federal frenó la expulsión de afganos a Croacia, según Luzerner Zeitung, e Italia garantizó por escrito a Suiza la revisión de casos Dublín. En materia de asilo, SWI swissinfo.ch y Rheintal24 reportaron patrullas reforzadas en el centro de Altstätten y en el Hotel Fleuben, mientras el cantón de San Galo admitió necesidades de actuación en el centro federal.",
+   "asOf": "2026-11-09",
+   "news": "Luzerner Zeitung informa que el Tribunal Administrativo Federal ha frenado la expulsión de ciudadanos afganos hacia Croacia. Fragomen anuncia cambios en los salarios mínimos. LEADER Digital destaca la escasez de mano de obra cualificada y cómo las empresas pueden gestionar el alojamiento de trabajadores temporales. Nau reporta que el Bund denegó el estatus de protección S a 286 ucranianos del oeste. ACT by Campax promueve una petición para detener la expulsión de Dilan Pınar, exigiendo protección y derecho de residencia.",
    "sources": [
     {
      "title": "Behörden verstärken Patrouillen beim Asylzentrum in Altstätten SG",
@@ -162,6 +162,11 @@
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY2NpZmFPTzV1Mm9QVmtiUkVjX1ViQWlkdFk5RThSSDlBSmJxdWFKLUt6NzJIZXpUYVMxeHp0VlhsOVZ6N3pIWVB2cTJwQkR4WlBieUlLOW9Wd2R1dmVWeDFpX0dmN1lqeFhWWkZvOEZpeEJJVU9NYk5qMHJ6SmpSX1NNbWNCMFZCZElxb29lV0w0YUw3TVRydHJCSEc2Z3pncXN1eE1RblR6Q1hXcWItM0VlVjluZDN5ekNnVmhEamdkcm5mN1RiLUl6VHA3MUkxTEZDXzkyUGFQUVE?oc=5"
     },
     {
+     "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
+     "source": "ACT by Campax",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGhGMDBvbEtGbl9PYjFzSklnbUg4YTJQVU1xcTFaT2xKTHlQa3hYVENPTElRakNJbkgxdmJrLXM4ejV6QUxZTXJadjF4cFk3dmt5aWtEREhFOVNYdVJOMXd0MUlCd3VRS0RDMlRvN2Rsa1k1QTZGMGc2RG04RjlhUWxlX1N3bUIxU3JDeWwySnpWMkkzZGlxNXJIQjRtSlJ2ZmdHMW1yd2YxZnVESnpGX2FwSm9RVHhCUVlqM1VrOU8?oc=5"
+    },
+    {
      "title": "Italien sichert Schweiz schriftlich Prüfung von Dublin-Fällen zu",
      "source": "Nau",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFo0dURQN2szQ0xvNXdNS0wtUlZyMzhKTkRPejV2b3c2N1dxT1BkZi16S2tTM1RKS0xGZkYtaTJmam14QUdDMGJIX3lTWmptOGstSk5mWFRiM0xUNHJQY2ZZb2trNnhGM3FiTDFuOFBKWi1GLVZacVU5cFZBT2hYTm0taWZKNHFhcjBpTjRoZ0xhQXdra05GNjltb2dHQm1UemZBWW4yeTEwMzgwZnBFNVZIVmY?oc=5"
@@ -180,19 +185,14 @@
      "title": "Ukraine-Krieg: Bund verweigerte 286 Westukrainern Schutzstatus S",
      "source": "Nau",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2Jyd0FqeVNZd1FySlM0Y1VJejcwUi1QLWpMRXJjLWJHcTRlZXp0Y2J5d3ZibF9fdVVQLVI3emYyRHM5UWh1eEFUeWYwbkUybF9CNGp5bm5GUHpxM3c0V0VaME91bEZ2SHprUVo3bG4xT3VQUkNlWmpiTm0zeG1yNkVVaUdvNnNxNmF4RFFxVmhid19xRnl3YTh3ellEVHc3OUphS0htRVJscU1zcEUw?oc=5"
-    },
-    {
-     "title": "Eritreer können B-Ausweis ohne Botschaftspapiere beantragen",
-     "source": "Nau",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJxa3hrS002U2JnTXVSWWpvQmFfNWJpTkJxQmNvZXRzTUJRVXhQWkZHT3pHdFVBTTZSbi13SER3NGRVcEJ0QmhNOUlIcjcyOTYzTU83MEsxUzIzY24zRWE3b1pYd0g4RWU1Skx2a3JJcUNVUGUtai1tMl9yQ3hNU1Q5M05PdmlCWkhmYU9xb1gxVVBXQnVUZDFWSnFDb3BjQ0E?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-08",
-   "news": "No hay novedades relevantes para este caso en los últimos días.",
+   "asOf": "2026-11-09",
+   "news": "Según Legit News (8 de noviembre) y Yen News (9 de noviembre), Suiza ha publicado una lista de 31 países cuyos ciudadanos pueden patrocinar a familiares para que vivan con ellos. La medida, anunciada por las autoridades suizas, establece qué nacionalidades tienen la posibilidad de reagrupar a sus parientes en territorio suizo. Las informaciones no detallan los países incluidos ni los requisitos específicos, pero señalan que la lista fue dada a conocer en los últimos días.",
    "sources": [
     {
      "title": "Behörden verstärken Patrouillen beim Asylzentrum in Altstätten SG",
@@ -215,9 +215,19 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3hXNzZlbC1yZ3A5MGl4cUlLLTlRQUk1VXBGcEpIblVhV2dMbVJqV18zLW96V1pCUFJLTzVXU1BqUXpFT3lPQTBRc1NhakFlcXB4V2tzUEhfdnZsWjJVT3NSa21taDJvcjdSZGlWcHpUMmJzZ2VlTzFoN2prODJNTWZQaWJWc1JkTGM0TFhFN0RxRmhGeGRyRkk1SlppMFZESE9NTm9YU29WaUJxeDhGZ0F1WQ?oc=5"
     },
     {
+     "title": "Switzerland Releases List of 31 Countries Whose Citizens Can Sponsor Relatives",
+     "source": "Yen News",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTJheXVaT3JySTJxd0JsQnJCb3BobHV2Y0VSM1NyRGFhM2xYMXNrbk9mYU5VQnRKSzZRTXItSG1ZUzFJclZYMVJYR1JvekFnM3FMaXJTTHdmdTAzcEpRMjJUT2tybENMM0RSM1dVMXVxblhfVFM5S2VnUzlyR0F4YXVvXzFNZm9MeTNOZDdqWWtQci1tTHNjZHFqSW5hWGNL?oc=5"
+    },
+    {
      "title": "Bundesasylzentrum Altstätten: Handlungsbedarf erkannt",
      "source": "Kanton St. Gallen",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXBZeWsxNzJxaUtxdW1SV0RWUWdqOGdUVkZ6SnFnN1hjVDNCWTFjNHBhUHFwa2RaYnRmdGFLa2xYOGZIdmt2STVXR29ZdzNFYXh4Sm9yUThmNTE0S3JyUUxPUmZYVEtXcDQ0a2xvc2cyN2pXTnFEcWhfZU1UenJwNzd5c0NncERLdUZ1aFJnejdZZVdoOWhJNlVycUpmSVNVd0k0d3FtWWk?oc=5"
+    },
+    {
+     "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
+     "source": "ACT by Campax",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGhGMDBvbEtGbl9PYjFzSklnbUg4YTJQVU1xcTFaT2xKTHlQa3hYVENPTElRakNJbkgxdmJrLXM4ejV6QUxZTXJadjF4cFk3dmt5aWtEREhFOVNYdVJOMXd0MUlCd3VRS0RDMlRvN2Rsa1k1QTZGMGc2RG04RjlhUWxlX1N3bUIxU3JDeWwySnpWMkkzZGlxNXJIQjRtSlJ2ZmdHMW1yd2YxZnVESnpGX2FwSm9RVHhCUVlqM1VrOU8?oc=5"
     },
     {
      "title": "Italien sichert Schweiz schriftlich Prüfung von Dublin-Fällen zu",
@@ -243,21 +253,11 @@
      "title": "Eritreer können B-Ausweis ohne Botschaftspapiere beantragen",
      "source": "Nau",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJxa3hrS002U2JnTXVSWWpvQmFfNWJpTkJxQmNvZXRzTUJRVXhQWkZHT3pHdFVBTTZSbi13SER3NGRVcEJ0QmhNOUlIcjcyOTYzTU83MEsxUzIzY24zRWE3b1pYd0g4RWU1Skx2a3JJcUNVUGUtai1tMl9yQ3hNU1Q5M05PdmlCWkhmYU9xb1gxVVBXQnVUZDFWSnFDb3BjQ0E?oc=5"
-    },
-    {
-     "title": "Eritreer benötigen für ein B-Gesuch keine Reueerklärung mehr",
-     "source": "imTicker",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeC0xWjZ5N1M4aWIwUGVwNnNsQUpTd2lVR1lhTmFnaWRZTkxYSVJXWm5UbHY4bGd4a1Q3S2JZOEV3OGlJaE1odmRUV19SRm1xa1pxOEpDVWNtZXpoMG5JbGNwdzFqVktyQ01BcC1DeXFqRF95N3FxWEtwTlgwQVB4TVVwSWU4SVdhb19QQQ?oc=5"
-    },
-    {
-     "title": "Schweiz bereitet Dublin-Rückführungen nach Italien erneut vor",
-     "source": "imTicker",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN0NLaDg3U0EzVElWclV1bTNtakZLZV9DdWZ5dEhXazhCbHlJRzYxOENOWUhldjBMallYdmp6eGhxRTZwQXFSMUZrMnV2UEdDR0I5S0dud3VHTllFMHdXTUJTLXR4YmdnVEZHb1lHMmU5WXBDZ2UwTE9ENHpoN3NTbTZFUU11amNjODhueQ?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   }
  },
- "asOf": "2026-11-08",
- "generatedAt": "2026-11-09T07:00:01.428543+00:00"
+ "asOf": "2026-11-09",
+ "generatedAt": "2026-11-10T06:00:03.094269+00:00"
 }
