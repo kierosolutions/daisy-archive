@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-15",
-   "news": "Los medios suizos informan que la votación sobre el nuevo paquete de tratados con la UE se retrasaría hasta 2028, según SRF y Tages-Anzeiger (14 de noviembre). Mientras tanto, SWI swissinfo.ch y Nau señalan que Suiza afrontará costes adicionales por las nuevas normas europeas de prestaciones por desempleo y la reforma social de la UE (12 de noviembre). En el debate sobre los Bilaterales III, 20 Minuten, Tages-Anzeiger y BauernZeitung recogen discusiones sobre protección fronteriza, indicación de origen y efectos económicos, con preguntas abiertas (6, 15 y 13 de noviembre). NZZ aborda además la inmigración en un contexto social más amplio (15 de noviembre). Estas informaciones afectan a los ciudadanos de la UE residentes o interesados en vivir en Suiza, ya que marcan el calendario y el contenido de las futuras relaciones bilaterales.",
+   "asOf": "2026-11-16",
+   "news": "Según SRF y Tages-Anzeiger (14 nov), la votación sobre el nuevo paquete de tratados UE‑Suiza (Bilaterales III) no se celebraría antes de 2028. Watson (16 nov) indica que la comisión del Consejo Nacional exige doble mayoría popular y cantonal para los bilaterales, y Le Temps (16 nov) señala que en el Consejo Nacional se perfila un referéndum obligatorio, con una consulta popular tampoco anterior a 2028.  \n\nTages-Anzeiger (15 nov) informa que los empleadores debatieron el impacto de los Bilaterales III en la economía suiza; BauernZeitung (13 nov) destaca cuestiones como controles fronterizos, indicación de origen y numerosas preguntas abiertas; y Thurgauer Zeitung (13 nov) recoge que empresarios de Turgovia advierten que «lucharán por cada extranjero».",
    "sources": [
     {
      "title": "EU-Vertragspaket: Abstimmung wohl frühestens 2028",
@@ -16,14 +16,14 @@
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFdMQ3BmZ2NnM01LbWRKTlJMOXB3Wm03eHd2eVZSLVYzNXp0bTBVMkMwOV9lUkZYdGtYSUpJUy1Fa2JDaW5iZGEwZFFVWmN5aHpyVjJJRU5fYm9CeVpNbk8zTmlfUzJYZTl3cVdvZ0t2eThWUjZPX25FbmpKVUlhM2hIek9TOTZBdHh1c0p3dmVvVWs?oc=5"
     },
     {
-     "title": "Switzerland faces extra costs under new EU jobless benefit rules",
-     "source": "SWI swissinfo.ch",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2FHZzd5V0tLcE82bUZJVnF6SkhEYTJ3U01oTENiQWVIZ1FPVnEyQzRsd3gwWWRpWGVWSjRmRFlWdW5TbXNIdzNIU1NfbGR5ckRyTjRtTEJuN2ZDUmV2NmRBaUVMNTRaQ2sxY3AzdkZfOTZuc2owMVV2NE9CaEgtbjRXNUt0dmhIRWhKeHZ0LVpiNVAyS1E1cGQtQmpkbGRSU2dkbmVvb1JUeWc5bi1j?oc=5"
+     "title": "Nationalratskommission will Volks- und Ständemehr für Bilaterale III",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWctczR6MjFhX3c3TXBEaU8wSG12LVdvc2J6TG12R0V3TlJqWjAxRC1TS2JoSzVDMHhkbTJSMXRQbEVKYlJNdGRKSkJuOWU3azRNcmdmRDE2U3Z2NUtoNEtoOTZYMHB1ZXlZZ0RSOEcxb2EydlhEamJsZVg1Y2lNTDRqRVU4U0FpWkxUdHJjYjBWS3l4UGZEQi1zakJIOHR4N3AydWlES1NVOWxSbXhqVUln?oc=5"
     },
     {
-     "title": "Eklat an der Kanti Reussbühl: Thomas Aeschi verlässt Podium zu den Bilateralen III",
-     "source": "20 Minuten",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNVd6by1SaFlnYXZpa3NPZnJpQThLMzE5OVl5UXRiWko0TG9ud0dsclNpU0J4VFQ2dmNaQ0pwNXJ2UjlhRGQzNnpHd3Y3X2c1VlZqWTMtblh5ZV9MRDFBYVRjd1R3QjNXN1Zpa0FmUHdyR0NwR05Edms3QTZwUUwxN2J0VVJDSFJmWFhZeFFrX05GY2twTk05YWl3R0l6T2JzZDRCcC0zTHZBanl6ZnE5NFVfYTlLRUpBXzlnbGlCdDdjUDQ?oc=5"
+     "title": "Obligatorisches Referendum zum Paket Schweiz-EU zeichnet sich im Nationalrat ab, Volksabstimmung nicht vor 2028",
+     "source": "Le Temps",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRTdOd1l1UDVWck5aeGY3MGlObUhOOUhxdmF3bno1dXZzOG9kLTI3bE9KRW04ejFNaXpJNUtuUnpZam1McE1jNVZHbXJiX2Nsb1d4VmZaVnpaZFcwd01CM2pXNDlmOGxEOEhwWlhhMGdFcER3bmlESVZzRnhZS2ZkdDhlYkExMDlWdXY1VGxGeHAtWmc5SnpiaFFwWTNPZEdlXzlyOWwwa05TWEtpbElGcEx0Y0piLVlBOHY5WVk1X3dGdzc3ZUNIOEhlWDFyMWFyYzFHSjVuTldxdXZl?oc=5"
     },
     {
      "title": "Dorfleben: Flughafen Zürich: Bilaterale III: Arbeitgeber diskutieren Auswirkungen auf die Schweizer Wirtschaft",
@@ -36,24 +36,9 @@
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUpqNG5OYzhlZy02OFVJVG13U211NHNOV0ZMWXhHcy1ZYmFaS0ZhOTVBQUs2ZXBWQnNlalJVX1VrLTkxUFdRRy1EUm8yd2dORlhKOW1MRkhnbHN1MWIwcXZsZ091ajdEMjJhS1BIc2cwcU5QdVRELXlzendDY1FTOTg5WEp6RGdLU054aTZjZl9jMVhGeFVCbk5R?oc=5"
     },
     {
-     "title": "Brejoin? Ten reflections on Britain rejoining the EU",
-     "source": "Centre for European Reform (CER)",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRKQkVYNU1KZ0ZBWnBia3pSNFMxcGhFbWZkVk5WUVdTOFhxMzVsWVZCMlpfZUY0UFNmTlQ1QW1ISm5fUGZQNFVxb1pMVmEwekwxdE4xMGN0QWNaUnhBb0FnVjRmX3kyQlB4S1VhNTVaNTFyS0h4ZTg1VzBONEJKbl9QUXl0MDJ0M3J4ZFZ1dW1fTDdoeFA0d1J0SQ?oc=5"
-    },
-    {
      "title": "«Fremd im eigenen Land»: Rolf Dörig über Gesellschaft, Zuwanderung & Swiss Life",
      "source": "Neue Zürcher Zeitung",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS25iN2xVSU1rRnA5Z2h1emdsUnBQcndnRjRxQVJtTExNZmVrX3V6SkVEMXFTczJWeXZ1T3lRYmJnWTAyZlhDSjYxQ1ZfVTU5RWNMbDNMekZKVHg1WWZwck1IQ1VFUW5SY3FOUXNFN0hhLVlKNkxyRDZtdUJXUno3dkZZTlhMYXRVS2hYVHR6cElLbm9ac1NlNzJGcDdrS2tnQlR5ODlJeVR5aGZFUThqUzd0YlBrTWxiRV9wSXhCdFhoTWs?oc=5"
-    },
-    {
-     "title": "Removing sanitary and phytosanitary checks at EU borders",
-     "source": "House of Lords Library",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn?oc=5"
-    },
-    {
-     "title": "Switzerland prosecutes first journalist under banking secrecy law",
-     "source": "Follow the Money - Platform for investigative journalism",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWG5jNFFib3JMLXhSQ3VqRkhxcXNnbURwTk5Zd1JTZ2tTQXBsN2RLcEpNZGhPN25oNDlyM2RPaXV2QTRMY1pPOGd6a1RKOHFrTUhJdTQtSDV5dnVSSmFvZlBhTmZ0akY1bF9pZHJaWXFwTEllVnRxdlZTSTAzb1ZjNVBocFdmX3Q1OFE?oc=5"
     },
     {
      "title": "FDP-Nationalrat Marcel Dobler tritt zurück",
@@ -64,6 +49,21 @@
      "title": "Bilaterale III: Grenzschutz, Herkunftsangabe und viele offene Fragen",
      "source": "BauernZeitung",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWpHRVhsaTVQVkhPZmpSTTBrem95ajFaVHJYSVpONl9uLThkZFhsd1hPbUxudUtqVGJoS1o2N2pqcXVmZkhSQV9HNTVjNmdxU2tpME5jTXI4eXIwOUVQZG56c3MtMGhRQ1Y3Ri1fcmZGUDNHZkN3anE4WlJEclczZzdpVDJ6cTVPY1AydU9pNnowUF83b0lzcXRMRDdlSk9YRjYydDA1OHFZNnR6c3FjNnNYR0RyUUotQ3dCQ1J0UXhJbmU5TElWWXphSXdtaE0zOW13dkZhbk03ZUxjekRWSXJaNmdzRkdhUjJiSl9xV195bmQxVUE?oc=5"
+    },
+    {
+     "title": "EU-Regeländerung bedeutet für Bern hohe Mehrkosten",
+     "source": "GMX",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmhOZmFJcnRpbkk1OFU5T0VsWTM1ZnlnOFdhYl9sYTdmTUp0LS1pRW9uYlN1cTlCdjhRalEzeHphajNvc0J3bHAyaWJFQm0wdWREdFhUeWJ5dlZoblhWTk1SeG1qVHJ2UUhGQTd5T2VSVkhGNko5djhsaUQwVjI0RlVuTjlXUUM3dlhNbG9GanlqdjJVNnZr?oc=5"
+    },
+    {
+     "title": "IHVO-Herbstversammlung 2026",
+     "source": "Olten.ch",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TGFKTldzY3NreGk5bEl0eVlfRGVEVHJwMkw0bVRpV3JrX2k2ekl3UElMOVhCM2d2X1k3UER0b1J3VUFnQlVjVHRQTkhtSjJYRGlIMEQ2dVNXZw?oc=5"
+    },
+    {
+     "title": "«Werden um jeden Ausländer kämpfen müssen» – so stehen Thurgauer Unternehmer zu den Bilateralen III",
+     "source": "Thurgauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU5Fc1dOUVoyT1JZbHZoYTlldkhZeENndkxBS0lSV0hlcUJPakpOT2xRaWt6NUQwcFVyRGZLTFRyVjFXYndnSWp1eEFuaUdBNkd5UU9PR0ZldjF4T1pvMEtkbXNfcldUQmtva0lxNFRocEhQUEMxa0xmZDFQMVozRlQ4T2pjazl6M2NEOEZSMk80M19qOThGTXBGc0ttZ1BRdXZtRk1IdzBsRlU1bUNjWUN5M01BLVp3dlVTRA?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
@@ -263,6 +263,6 @@
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   }
  },
- "asOf": "2026-11-15",
- "generatedAt": "2026-11-17T06:00:02.666906+00:00"
+ "asOf": "2026-11-16",
+ "generatedAt": "2026-11-17T07:00:01.733639+00:00"
 }
