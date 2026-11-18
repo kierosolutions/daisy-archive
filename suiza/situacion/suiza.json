@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-16",
-   "news": "Según SRF y Tages-Anzeiger (14 nov), la votación sobre el nuevo paquete de tratados UE‑Suiza (Bilaterales III) no se celebraría antes de 2028. Watson (16 nov) indica que la comisión del Consejo Nacional exige doble mayoría popular y cantonal para los bilaterales, y Le Temps (16 nov) señala que en el Consejo Nacional se perfila un referéndum obligatorio, con una consulta popular tampoco anterior a 2028.  \n\nTages-Anzeiger (15 nov) informa que los empleadores debatieron el impacto de los Bilaterales III en la economía suiza; BauernZeitung (13 nov) destaca cuestiones como controles fronterizos, indicación de origen y numerosas preguntas abiertas; y Thurgauer Zeitung (13 nov) recoge que empresarios de Turgovia advierten que «lucharán por cada extranjero».",
+   "asOf": "2026-11-17",
+   "news": "Los medios suizos informan que la votación sobre el nuevo paquete de tratados con la UE (Bilaterales III) se retrasaría hasta 2028, según SRF y Tages-Anzeiger; la comisión del Consejo Nacional exige que la decisión requiera doble mayoría popular y cantonal, y el presidente del Centro, Gerhard Pfister, busca rebajar la tensión en torno al Ständemehr (Watson, Aargauer Zeitung). En paralelo, SWI swissinfo.ch, Nau y GMX señalan que un cambio de normativa europea en prestaciones por desempleo y seguridad social generará costes adicionales para Suiza, lo que podría afectar la coordinación de sistemas para ciudadanos de la UE que residan o trabajen en el país.",
    "sources": [
     {
      "title": "EU-Vertragspaket: Abstimmung wohl frühestens 2028",
@@ -21,14 +21,24 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWctczR6MjFhX3c3TXBEaU8wSG12LVdvc2J6TG12R0V3TlJqWjAxRC1TS2JoSzVDMHhkbTJSMXRQbEVKYlJNdGRKSkJuOWU3azRNcmdmRDE2U3Z2NUtoNEtoOTZYMHB1ZXlZZ0RSOEcxb2EydlhEamJsZVg1Y2lNTDRqRVU4U0FpWkxUdHJjYjBWS3l4UGZEQi1zakJIOHR4N3AydWlES1NVOWxSbXhqVUln?oc=5"
     },
     {
-     "title": "Obligatorisches Referendum zum Paket Schweiz-EU zeichnet sich im Nationalrat ab, Volksabstimmung nicht vor 2028",
-     "source": "Le Temps",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRTdOd1l1UDVWck5aeGY3MGlObUhOOUhxdmF3bno1dXZzOG9kLTI3bE9KRW04ejFNaXpJNUtuUnpZam1McE1jNVZHbXJiX2Nsb1d4VmZaVnpaZFcwd01CM2pXNDlmOGxEOEhwWlhhMGdFcER3bmlESVZzRnhZS2ZkdDhlYkExMDlWdXY1VGxGeHAtWmc5SnpiaFFwWTNPZEdlXzlyOWwwa05TWEtpbElGcEx0Y0piLVlBOHY5WVk1X3dGdzc3ZUNIOEhlWDFyMWFyYzFHSjVuTldxdXZl?oc=5"
+     "title": "Britain and Brussels Should Both Aim Higher This Time",
+     "source": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTQ1SFJ2Z1pvMEpxb0dNbnNid2hwaHdCQWJyWEl5dTB2REVKR08yUmVfelNiNGktUTlOZGswRlpPbWtZNUtIejNBY1RsWmVUU21NYlcwTzV4Z1lqc0FNUS1JUzA1TUlNOVBkT3dXc2R5ZDN1NDdiUklHWHNtd3oxWkRoN0dUNnZIazZOUzhwX1o0dE9uVG4tem9EY19TS0dQR1FlVURpWHFzSVkyem1fZw?oc=5"
     },
     {
-     "title": "Dorfleben: Flughafen Zürich: Bilaterale III: Arbeitgeber diskutieren Auswirkungen auf die Schweizer Wirtschaft",
-     "source": "Tages-Anzeiger",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWFGMzhmUy1hRGc3d0x5YVFxSUh1M191RFJXZjJJLWxXYVlCVG0tdm1yVzlWZzdnZEN5bm5PRFdJaWlaT3pHdWpsbkIydDdKTnRxaFhrTFZIY3hvVGVmZVRqWWxWT0s5LWZmV3RMWWkzUmR1SVp5T0JCYTNUekFQdEpzYlNnS2ZnNGtiWHVHQ3VDZjZyMGJLOWpkcVQ?oc=5"
+     "title": "Gerhard Pfister will den Streit um das Ständemehr entschärfen",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeEJrZkp2TjJwNkNEbFAwclpRdDJ6UjVFNzAyekhuSTNDT21uUV9SOWV3a1UtVzBnMWlXYVg4Z2RKeHlmTGRzZzFremoyN1QwWURlYk01TzEzcTBUWjdyZXQzcTVkX1BYWVRuWTJvaVFkbjIwMHNjZXFSanZkUW5oWkVJUkF3eUpDTlo2RWpVc1BmeVdDMGtUNjkzT2YyT3c3SHNfSXF3?oc=5"
+    },
+    {
+     "title": "Switzerland faces extra costs under new EU jobless benefit rules",
+     "source": "SWI swissinfo.ch",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2FHZzd5V0tLcE82bUZJVnF6SkhEYTJ3U01oTENiQWVIZ1FPVnEyQzRsd3gwWWRpWGVWSjRmRFlWdW5TbXNIdzNIU1NfbGR5ckRyTjRtTEJuN2ZDUmV2NmRBaUVMNTRaQ2sxY3AzdkZfOTZuc2owMVV2NE9CaEgtbjRXNUt0dmhIRWhKeHZ0LVpiNVAyS1E1cGQtQmpkbGRSU2dkbmVvb1JUeWc5bi1j?oc=5"
+    },
+    {
+     "title": "Removing sanitary and phytosanitary checks at EU borders",
+     "source": "House of Lords Library",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn?oc=5"
     },
     {
      "title": "Finanzielle Folgen der EU-Sozialreform für die Schweiz",
@@ -41,37 +51,27 @@
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS25iN2xVSU1rRnA5Z2h1emdsUnBQcndnRjRxQVJtTExNZmVrX3V6SkVEMXFTczJWeXZ1T3lRYmJnWTAyZlhDSjYxQ1ZfVTU5RWNMbDNMekZKVHg1WWZwck1IQ1VFUW5SY3FOUXNFN0hhLVlKNkxyRDZtdUJXUno3dkZZTlhMYXRVS2hYVHR6cElLbm9ac1NlNzJGcDdrS2tnQlR5ODlJeVR5aGZFUThqUzd0YlBrTWxiRV9wSXhCdFhoTWs?oc=5"
     },
     {
-     "title": "FDP-Nationalrat Marcel Dobler tritt zurück",
-     "source": "Bock, Schaffhausen",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTFjc0I1ZWVTV1dSRm16d3NLZFk4bEpVYnpuTWd4MTgtZWxsYzNJenhEZlFiTEJPR2pCY0hsS0xfaUFZMkE5Umd5emJTc1E0Mjg4cXA1aWdycEYwcFBadVBBWWozQk52TVBoTVZ0RkhBZEo2emRqQWhSODdTT21ZVjRYbFhoSGwxVDRUM3JR?oc=5"
+     "title": "Brejoin? Ten reflections on Britain rejoining the EU",
+     "source": "Centre for European Reform (CER)",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFRKQkVYNU1KZ0ZBWnBia3pSNFMxcGhFbWZkVk5WUVdTOFhxMzVsWVZCMlpfZUY0UFNmTlQ1QW1ISm5fUGZQNFVxb1pMVmEwekwxdE4xMGN0QWNaUnhBb0FnVjRmX3kyQlB4S1VhNTVaNTFyS0h4ZTg1VzBONEJKbl9QUXl0MDJ0M3J4ZFZ1dW1fTDdoeFA0d1J0SQ?oc=5"
     },
     {
-     "title": "Bilaterale III: Grenzschutz, Herkunftsangabe und viele offene Fragen",
-     "source": "BauernZeitung",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQWpHRVhsaTVQVkhPZmpSTTBrem95ajFaVHJYSVpONl9uLThkZFhsd1hPbUxudUtqVGJoS1o2N2pqcXVmZkhSQV9HNTVjNmdxU2tpME5jTXI4eXIwOUVQZG56c3MtMGhRQ1Y3Ri1fcmZGUDNHZkN3anE4WlJEclczZzdpVDJ6cTVPY1AydU9pNnowUF83b0lzcXRMRDdlSk9YRjYydDA1OHFZNnR6c3FjNnNYR0RyUUotQ3dCQ1J0UXhJbmU5TElWWXphSXdtaE0zOW13dkZhbk03ZUxjekRWSXJaNmdzRkdhUjJiSl9xV195bmQxVUE?oc=5"
+     "title": "Associate Membership of the EU: What Does Europe’s Offer to Canada Mean?",
+     "source": "India's World",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdzZxQmxpeGFhMExKZ3RwX3hsVnVfWS11WEZnRkZ4aEVLMnFaMmUzdU1MZEQtc0h2TzZSTEM4UElLUVR3N1VOYU85QUx1aEo5YW9TVkxFSTA5VXI4d1g4cW54VWJEcDFkenJ3d0F6bmVEamR4b1c3RmpTalRLS2ZCTk1fTGo0bmxvVnhXUUFtZ3NlLUh0MmVFTQ?oc=5"
     },
     {
      "title": "EU-Regeländerung bedeutet für Bern hohe Mehrkosten",
      "source": "GMX",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcmhOZmFJcnRpbkk1OFU5T0VsWTM1ZnlnOFdhYl9sYTdmTUp0LS1pRW9uYlN1cTlCdjhRalEzeHphajNvc0J3bHAyaWJFQm0wdWREdFhUeWJ5dlZoblhWTk1SeG1qVHJ2UUhGQTd5T2VSVkhGNko5djhsaUQwVjI0RlVuTjlXUUM3dlhNbG9GanlqdjJVNnZr?oc=5"
-    },
-    {
-     "title": "IHVO-Herbstversammlung 2026",
-     "source": "Olten.ch",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TGFKTldzY3NreGk5bEl0eVlfRGVEVHJwMkw0bVRpV3JrX2k2ekl3UElMOVhCM2d2X1k3UER0b1J3VUFnQlVjVHRQTkhtSjJYRGlIMEQ2dVNXZw?oc=5"
-    },
-    {
-     "title": "«Werden um jeden Ausländer kämpfen müssen» – so stehen Thurgauer Unternehmer zu den Bilateralen III",
-     "source": "Thurgauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLU5Fc1dOUVoyT1JZbHZoYTlldkhZeENndkxBS0lSV0hlcUJPakpOT2xRaWt6NUQwcFVyRGZLTFRyVjFXYndnSWp1eEFuaUdBNkd5UU9PR0ZldjF4T1pvMEtkbXNfcldUQmtva0lxNFRocEhQUEMxa0xmZDFQMVozRlQ4T2pjazl6M2NEOEZSMk80M19qOThGTXBGc0ttZ1BRdXZtRk1IdzBsRlU1bUNjWUN5M01BLVp3dlVTRA?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-16",
-   "news": "No hay novedades relevantes para este caso en los últimos días.",
+   "asOf": "2026-11-17",
+   "news": "The Times of India informa que la Geneva Academy ha abierto las solicitudes para sus programas LLM que comienzan en septiembre de 2027, con detalles sobre elegibilidad, tasas y fecha límite. La academia, con sede en Ginebra, ofrece así una vía concreta para quienes planean cursar estudios de posgrado en Suiza y deben considerar los costes asociados.",
    "sources": [
     {
      "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
@@ -89,6 +89,11 @@
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWkwNE02RHlQQUhpYmxKTE0tMFN6S0JqSmpxZUp2UnZJaUdNVXJMWTFYbDlvSEJ2V1FQbmxtRjJrSjc5bS1SU2pTNFpSR0QycXJQbEFYRWNYaXpmNkViNl9iQU8xT09PSFNxZ1RhRnhLR2lKbWtaUllDQnhnSU1mS3BXSGwtWHBocjZRWDluZDB3N3FjTGFIS3BjS0J6Zw?oc=5"
     },
     {
+     "title": "Breaking news: US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+     "source": "ICEF",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5"
+    },
+    {
      "title": "5 bizarre reasons international students have been refused visas",
      "source": "The PIE News",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONDJhOWd6QktzLTFlS0F6TFY3ZURaVWdVUElqZndiYk9wdXFrT1FUQmpCbzhBbnAtU0k0MVUzcTNFaEk3ZzZDLVJORFJFX1dVVTh5bzQzR2haQkdQZUZNVFpsX0k0TkZlRTc2WEU3MG00X2RSVDd0MWlZdWVuc1RraGpVOHB0TmFkdVc5OGJzMEg4QQ?oc=5"
@@ -104,47 +109,42 @@
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RzZ0xnWEFFb3dsOFg5bGptM0ZjUGlNWEc3Z0t5QkZBTDBVQW1qQUpnMjhyMi1iRGRlQXhkTDBNeHRSSnh6UW43S3ltNlc2Y21GYnVaTmlwZ2NWM0JiNU8xcjJYVXB3SzJMX3V5LVdIeEtyMzVleEoxVFB1V0FzVXZfUDFHMUFsaTFOZkc4SWlIbURfa2Nzc21wXzhvaUtBZ2pNSA?oc=5"
     },
     {
+     "title": "Australian universities consider job and course cuts amid financial pressures; what Indian students shoul",
+     "source": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQnFVTTNPR21ZREwtei16TkFJZjNJRm84dWlsYnhVNjYxd2RkTlEtTlZUSTdlamp4Yzc0UUhZLWVIeUpnSFBDdGZ0TEN0OThoSHB2aV9XbS1SODRzdFNySzBRZ1piMnE4MG1oS0RuZGRvbzY5Q0xUbFlXMlhFdHBQaWhQd3ZuVWhQXzhLX1FhVktzc21Ldl9CREUzbFZwcm5mRS1rZGtvYmlMQzVhMUJtZHVPcWEzT2FPajdsdFNtWmc5SzNBdTJqTVM5amF5dThPYmdXNWpRdmxxM3Uxc0dMMkQxNjFyNFQwdXpsM0hqZ2NPLTFSOHk3aGlIMkN5aG5xSzNlVnZnTUxjSk8wUXJfa0xQNmhkOFRoZk9qQTVMR3hqOGFVZ2R4Q1hra1U1YXFCazhDSDFrMEtXNHJHdWlUdTZWVdIByAJBVV95cUxOWUd6WnA4V1JlWDg3aFFrWWg1NTZvX0ktM1dpVFM0dHNBNTUzNmRRRVdUd1ZOY3Zha2VlOEJ6WDJ0bW9BNmZ3MWd0OHNuQlZ0cC1QZ1o1UzVEOEszLWRpTlR4VEJyT0FNQ2I4SkhqM2Q0VnItckhIbm1VZFRqSFlJcU1DbEJZQTZaaTdxaUtQbXo2M0ZEQm85bkpOcHN5TzhrRmlCWFpwek9IY0VCamIwN2RqMzZFRTEwNEdOT1ZYdlc5Y0NYRU5sV2pyNEtHNHM1TmhBTXhUZlBsSzg0NkVwOVBRSk5DQjA5bThneFJhb2ZYMHZzUEExZ2tJMkhudy1oWjZsVnlZWDFwTWRrczF1M0VKMDlPaHpTRWRKOGhyMGNwS0xIOTVEMjdOeFl1OVNVQUNIM2ZkeVRjQ19QaGFwbFhiVzQweGpa?oc=5"
+    },
+    {
+     "title": "Paid to relocate: Seven countries offering cash, grants and tax rebates, and the rules you must meet",
+     "source": "Education News",
+     "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSzVfVGprMVpsVVhFX3dqSTFxTUJSYm1CbjRQRlVLeVVHd0dXOWVlaEZaY1B5bE95aUNsby15WEJ0a3FoaWxkRmY2enJqeTRELU9vUzB2bW9sRjV4N25NRHRuNVJvSk5lamFsUm5QVXgtX080Z3Z0dEJ6Q0M1OHVwb2FwYUVCZXBkejhFRjhlMnY2UUFfbzVyR0JyVlU3dF9BdnNIZmtDMGo1ZXZuWjhwa2JfN2ptS0VpZ1VQQTdaWXpCcjhRZkNGMXNDcHlpSkNGVTU1MENMWjNOSi1STGVxRWdkOVQ3NGJzYjMyZnBET3dtWHg1VVpFa1pmVnBycTRtR0gydEJNU0Z0ZFBwU0RaaHFTNy0tN2N4bElLcl9TZE94N1cybnhnWjdHaVpmd2c1QWVUQ2xOdEg3WkdZWGYtN0VfV1dQdw?oc=5"
+    },
+    {
+     "title": "Kenyan students get relief as US court blocks Trump’s tougher visa rules amid declining foreign enrolment",
+     "source": "Education News",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSG5KeDlvZ0xJQTNkdEdzSWFDX2lhQjhnUWxva3g4Uk9hRVNGUlBkWnR4aWIzMnhiVHg4UjdJQ25KT0gzM0ozTHFzSEx2UENNYm1mYV91WXpISkY5X2k1UmlTRmpCMmpGRDdYZE5xaHhCVGFSU2tiTEJLMGxBYkNCOXhyOUxzVUN3Z3d1VHJEc3lYaWQyX2hwVXNzSXVFaDV5YUtuS3VXX1Vrd1p0ZTFqaWRxMFFMTGQ4MnBpeGp2cjR3YXFNWThENEs3dDVJcThocUww?oc=5"
+    },
+    {
+     "title": "Geneva Academy opens applications for September 2027 LLM programmes; check eligibility, fees and deadline",
+     "source": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNaVlkRWZ2c3hPMXVEU2NiQkpvOWlYS3dxRm9PQkxxVmxpdzJvRTc0d29uSm5xNUVFbGdhTC1LZ0drZ3dYSWwtT3lTTVZFeFpjei1BUHJuZnh3QkYzeXg4OUl0RENZZmV3ZkZBTm9XcjBlNUo0M05RYmZUb0JUdDRqRFlIbzVfLWZ3U2l6akxzNWhScXF0MEpfQ1J6bWhYaGRwcWdNQ25DZTVFNi01VTl5QjlvRFBiRG9zVnVYN09iS3JNb3dmd19LZWV5LXNvUEQ2Z1BuSENSNEh2aWdseFNhaEotZ0NCODFBTE55VHVSYldJT21yWHQ1OTZiaVZtQjhLZ1EyRVM0OWYtSW96WF8wdGVoeGxWMGVu0gGeAkFVX3lxTE9jTkZ1TmhsVGlPSGVld0dfOTdYeUJTOG1HZ1JxUGZJYUxJT2dDLXF6RTNzSXlHMWd3TVJUc0FKUm5yMWlRRFhac1FWdzZid2UxSElaSDMtUWxWX0piQ3VnblkwVWtpZVZLLTFwVTdTakYxNno1UElBMTNXa1BDQmFNVTNWNzR6bmkyTXpVQ2ZWZ0xjMnZjWGxGY21aX0huWkc2NldIZ09Md2xDR3hickhIYmQ2VFJicWJ0cVE0WmZEQllpWl8zdmVIOWktQkFFMWRMWXd4dFptVE54eVhPRkJGZ1JHMTlTQ2pVMW5SS3RCRGxNdFl6OEZIOXJJWGVvZGdzLTVWV2RWZnBsUFdSTkg3U2Joa3ZnUHpTTmhGcmc?oc=5"
+    },
+    {
      "title": "Visa Ban Prevents Russia from Participating in the U-20 World Cup",
      "source": "blue News",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWF5aHhDblV0UVdRamJHUV9sRXBLNjdzWFduRWRmaGliSEZZaW91UXhfWTYzTnNMSVBYQjhoLWZrRHpCUlZ3V1FoQ2xMcjdpNFZPcVhkSHpHRkhxSDh6RzRfM2Z5SEZxeWpVNEg0R25GSG1SMTF5RFdnTTkweFpPMVdXNDVmcW4wemFIT29EWHRQUlFrMGs5Nm84endLMUk3b1BsRFhmaW85U2hI?oc=5"
-    },
-    {
-     "title": "In-Demand Jobs in Luxembourg for Indian Professionals",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03LVJSSUpVT3Y1OThGS3ZLR1BnRDNQM2VMVkVfOTJQTDZjNnZVTTlyQV9udGpwYjAyUWkwR1o3WG5hUkV1M190VGN0UU1kVmtKYmhCRm5aMl9QNHBQa3pRcE5YaWhzU1ZjUGtxNlZiMi13SXhBVlZYRnFkRQ?oc=5"
-    },
-    {
-     "title": "Malta Work Visa 2026 for Indians – Work Permit, Eligibility & How to Apply",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rd1RzYWQ5cEZ6MXVpY0R5am1wNmpCY0lmdHZlUHdac2czMmN3eDdyZmMzV2w0ODE2LTZnWnA1cHR0VnpHU1gzOWh2Nkl4SHdz?oc=5"
-    },
-    {
-     "title": "Study in Canada for Indian Students: Universities Study Visa, Costs & PGWP",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mem9jd2hQM1J4bTBJZWlNNDU2NHdjUzNfX1hkLW94M2x2aHBZVTNtNU9OLWYyRlAyUzF4WF9tNk1IQ09GdUxUV3A3eFJneURxem9Z?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 10 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-16",
-   "news": "El cantón de Solothurn ha presentado el programa Perspecta, dirigido a personas cualificadas que desean establecerse en Suiza, según informó el Kanton Solothurn el 11 de noviembre. Por otra parte, Nau informó el 8 de noviembre que los ciudadanos eritreos pueden solicitar el permiso B sin necesidad de presentar documentos de su embajada.",
+   "asOf": "2026-11-17",
+   "news": "Nau informa que los ciudadanos eritreos pueden solicitar el permiso B sin presentar documentos de la embajada y, según imTicker, ya no necesitan una declaración de arrepentimiento para el trámite. St. Galler Tagblatt señala que Suiza observa el plan de la UE para centros de retorno en Ruanda. Nau también reporta que el gobierno federal denegó el estatus de protección S a 286 ucranianos de la zona occidental. Las estadísticas de asilo de octubre muestran 2.210 solicitudes, un 16 % menos, según imTicker y la estadística oficial de admin.ch.",
    "sources": [
     {
      "title": "Asylstatistik Oktober 2026",
      "source": "www.admin.ch",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRTBnUXFjZFMzdU5XOFpUa0VxZkpsdTFnUjY2X0g1Z0ZtOHJxQ0dkZ0QyMmdVLVRXelpxX1c0VGY0NUlFamtScWQxYVJwbkx6Ql9tbnh3?oc=5"
-    },
-    {
-     "title": "Bundesrat will Ukrainer mit Status S weiter ins Ausland reisen lassen",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGkxamotN2pSMmhaRHdHZUhFVEM4NEZIWHBpVkN2NVVxMDJHaXhZeElWOXFOc0JVSnlGTlhLblVSNGI1Q2RYSDBxMWhlazNIRV9LQk1qRkx3amNjU3g4YVZYOFl0N002VTJCaGRxTkp2NmMxTHJiR04zRnZUTlFhRTZqS2J3ZXZEM3ZvbEJ4bXBCX05rbUxYajB2aXVJSUU1MTlLVkhXRW5iU2o4YzBDMFRlUTFveTd3M3ppRHZlcE4?oc=5"
-    },
-    {
-     "title": "Jans lässt umstrittene «Lex On» intern untersuchen – die Sonntagsnews",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3kzNFBPRXBlUkIwOFh2RGNTRTEtUHdoeXZfQlIzVkNuUU1iS3dzdXE5T25MckpjNUZNN3o5U1dUdklXbDNaemdOU2VTMU1vdHpRT3pCdHEyTkpxdE5CY0IxaEw1Y05jNlJrVWV6bnd2SUMzTFBpV1pzZDVQTE13OXU3aEtZNEVSb3dDNkN2YzY1R25kZEFMYTVPT1hYNVJkNDdURUZxQmZpb2NMUHZDek14WU9nV1E?oc=5"
     },
     {
      "title": "Denmark Work Visa for Indians: Process, Requirements, and Fees",
@@ -157,19 +157,9 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hZ0k0MUhCWlUzZ3A1dFM5MTBmbVRvX2wyeVJENGdxN3poRktxY0FxblBaR0ZPQ0tCSkwxUVBxMERBRWU2T1RvbzU3Rm9hQkNTalE?oc=5"
     },
     {
-     "title": "Perspecta – Perspektiven für qualifizierte Zugewanderte",
-     "source": "Kanton Solothurn",
-     "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXpUYTlVWHpMQzlNbk1tWnhnWnJSUGNlLVlYanhoQXRkX29pSC1UOFhGUzVYOWRwQUpBT21fc1lvVVI1cTBGdS13RWF3MTYzOTh0OVNVbVE5S1E1MXFVbDUtQjRPXzdXalA4M2sya2FwVDZYMnN3eHBxbGRlR1MtalZkWDJxcGItYXZWRGpCdW5CWnJ1X0ZzUXRYVHFRcWRtT3RENGpkSVpNOFVfbzFFNnFzWHp1VzE1NWdxX3VteFhfaGc5dUFmNzVoSTZTcHYzd0FvWDFIdDNkOUdsVEtpMmYzOTVIMVZXYVMtTjVidngwdy02Y0MxYlRELV8wT0JBTWtrX0kxRXJMbXc0V0xHMnN6QVRabHkxYVA4Q051RE5iZUVZV1Y3VDk1RzVIZEZwM0lR?oc=5"
-    },
-    {
-     "title": "Krieg in der Ukraine: Schweiz verwehrt 286 mal den Status S",
-     "source": "ref.ch",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZNlVyZkdBQTJQNk45RG5EMlF6R2JzUmxKU3Z1SGxSS1YzMG1keDVkM0pDNE1WdE1EbnZfeEFyMnFJaUxUV1VBemFvcnVtUnB6aHBNRVphRGw3WWk4NUNhU0pfWnFDWGhndlE?oc=5"
-    },
-    {
-     "title": "Behörden verstärken Patrouillen beim Asylzentrum",
-     "source": "St. Gallen 24",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORlNrd0Eza0VaZDBIaGg5TzlBcG5yTHZ0Vk1WMi0zNExWcl9BTjVGUGJqS0JrMUN1TVU0Qm9JYkdoWEZFVDRPV3liRGcyTGZ4OUJVaUtQcDkwSnBSb3dIUFlMRXdMVHZIYmpNZHZzTkpHRFpJNEhpZFByTjZ2bkVjQlZKWVl1VHMzcjkyc1ZxZ3JvQQ?oc=5"
+     "title": "Rückkehrzentren in Ruanda: Schweiz beobachtet EU-Plan",
+     "source": "St. Galler Tagblatt",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWpuT3Y3V2l4TkJBMVV0SENsbzdPZzNJek1VYldyVXN1RVR5Zm43eXZyN0QyMFlpLXpfOUtSX3VMd3V5QW5QRVBpVEo0aVFXLXBJVldSbkRQNXRRWm85YjdhOXZiSXJLVXdCWFFxSjVQeTFiYUZwMTJDZ0ZMX3FRVXF5YndyeE1PUXhjcWhEVVdMTnktRVFVb3ZtRDQ?oc=5"
     },
     {
      "title": "Ukraine-Krieg: Bund verweigerte 286 Westukrainern Schutzstatus S",
@@ -177,9 +167,14 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2Jyd0FqeVNZd1FySlM0Y1VJejcwUi1QLWpMRXJjLWJHcTRlZXp0Y2J5d3ZibF9fdVVQLVI3emYyRHM5UWh1eEFUeWYwbkUybF9CNGp5bm5GUHpxM3c0V0VaME91bEZ2SHprUVo3bG4xT3VQUkNlWmpiTm0zeG1yNkVVaUdvNnNxNmF4RFFxVmhid19xRnl3YTh3ellEVHc3OUphS0htRVJscU1zcEUw?oc=5"
     },
     {
-     "title": "«Würden Schweizer so leben, gäbe das auch mal Streit»: Auf Patrouille mit dem Sicherheitsdienst",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclkwU3JrRE5ybmdiakZXU2UtMnZCcHl6NnpDM0ViZld2eThNdlBHOWkxY0Nmb1F3eU9DN0luTmVia2FkVUdaOVYwYWV5SWREb1dYelR2XzZfZGI5QVNmNlVMamMwb09iQmE0c3A3NUthTTVmSENIWFVsYk5GX2dHb2paZkhBSjVfVGFVekFzUHN5eE1iajNDbUJ0LURCM3NtQy1MV0FNUzg1NFBhRlNKYl9KZWxIbi1yQWpzZ3BzdEJSeFZSNzloTGFKVXRNLU9a?oc=5"
+     "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
+     "source": "ACT by Campax",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGhGMDBvbEtGbl9PYjFzSklnbUg4YTJQVU1xcTFaT2xKTHlQa3hYVENPTElRakNJbkgxdmJrLXM4ejV6QUxZTXJadjF4cFk3dmt5aWtEREhFOVNYdVJOMXd0MUlCd3VRS0RDMlRvN2Rsa1k1QTZGMGc2RG04RjlhUWxlX1N3bUIxU3JDeWwySnpWMkkzZGlxNXJIQjRtSlJ2ZmdHMW1yd2YxZnVESnpGX2FwSm9RVHhCUVlqM1VrOU8?oc=5"
+    },
+    {
+     "title": "Brand im Bundesasylzentrum Zürich: Polizei nimmt zwei Männer fest",
+     "source": "Limmattaler Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhpc3ZJVnh4c3JmX0xGOVBhMXZmY0VsMFV0bklwbVV2U1dZN210QnpiVjVTNFB0VUtrc05CcU1iR2lXMklXRC16R2hndEpPYmYxVzBvamNBZ09BemM0MmV0bmZaNmYwWV9vRU41WWZGaVd3M2pTTm1wTE1QdnczWEQ1REJscGttUXBOX3VMLUlIY0xsQlpiM3l6VElkU0VLWGwtREh6RHpPQW1JeE9CTVpkdjR0YlZuYnV5U1JtcUVIQQ?oc=5"
     },
     {
      "title": "Eritreer können B-Ausweis ohne Botschaftspapiere beantragen",
@@ -187,32 +182,27 @@
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJxa3hrS002U2JnTXVSWWpvQmFfNWJpTkJxQmNvZXRzTUJRVXhQWkZHT3pHdFVBTTZSbi13SER3NGRVcEJ0QmhNOUlIcjcyOTYzTU83MEsxUzIzY24zRWE3b1pYd0g4RWU1Skx2a3JJcUNVUGUtai1tMl9yQ3hNU1Q5M05PdmlCWkhmYU9xb1gxVVBXQnVUZDFWSnFDb3BjQ0E?oc=5"
     },
     {
-     "title": "Finanzielle Folgen der EU-Sozialreform für die Schweiz",
-     "source": "Nau",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUpqNG5OYzhlZy02OFVJVG13U211NHNOV0ZMWXhHcy1ZYmFaS0ZhOTVBQUs2ZXBWQnNlalJVX1VrLTkxUFdRRy1EUm8yd2dORlhKOW1MRkhnbHN1MWIwcXZsZ091ajdEMjJhS1BIc2cwcU5QdVRELXlzendDY1FTOTg5WEp6RGdLU054aTZjZl9jMVhGeFVCbk5R?oc=5"
+     "title": "Eritreer benötigen für ein B-Gesuch keine Reueerklärung mehr",
+     "source": "imTicker",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeC0xWjZ5N1M4aWIwUGVwNnNsQUpTd2lVR1lhTmFnaWRZTkxYSVJXWm5UbHY4bGd4a1Q3S2JZOEV3OGlJaE1odmRUV19SRm1xa1pxOEpDVWNtZXpoMG5JbGNwdzFqVktyQ01BcC1DeXFqRF95N3FxWEtwTlgwQVB4TVVwSWU4SVdhb19QQQ?oc=5"
+    },
+    {
+     "title": "Schweiz: 2210 Asylgesuche im Oktober – Rückgang um 16 Prozent",
+     "source": "imTicker",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pINFFCYmRWNV8yVjZOaE1YWnd5NS1qemlhRDdNV0JnQUc0WlNIMmdoLTd4blN0WXV2dFZWRWhwbDJVbm16M2FrOTRuS2FvWHgwRFBmejcydXNBejA3NGpnbTZNY2Z0TGt0OWFTYnhmVlBkOXVHTmpJNGdnNFZhbks2T1JFZ00?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 10 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-16",
+   "asOf": "2026-11-17",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
      "title": "Asylstatistik Oktober 2026",
      "source": "www.admin.ch",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRTBnUXFjZFMzdU5XOFpUa0VxZkpsdTFnUjY2X0g1Z0ZtOHJxQ0dkZ0QyMmdVLVRXelpxX1c0VGY0NUlFamtScWQxYVJwbkx6Ql9tbnh3?oc=5"
-    },
-    {
-     "title": "Bundesrat will Ukrainer mit Status S weiter ins Ausland reisen lassen",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGkxamotN2pSMmhaRHdHZUhFVEM4NEZIWHBpVkN2NVVxMDJHaXhZeElWOXFOc0JVSnlGTlhLblVSNGI1Q2RYSDBxMWhlazNIRV9LQk1qRkx3amNjU3g4YVZYOFl0N002VTJCaGRxTkp2NmMxTHJiR04zRnZUTlFhRTZqS2J3ZXZEM3ZvbEJ4bXBCX05rbUxYajB2aXVJSUU1MTlLVkhXRW5iU2o4YzBDMFRlUTFveTd3M3ppRHZlcE4?oc=5"
-    },
-    {
-     "title": "Jans lässt umstrittene «Lex On» intern untersuchen – die Sonntagsnews",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3kzNFBPRXBlUkIwOFh2RGNTRTEtUHdoeXZfQlIzVkNuUU1iS3dzdXE5T25MckpjNUZNN3o5U1dUdklXbDNaemdOU2VTMU1vdHpRT3pCdHEyTkpxdE5CY0IxaEw1Y05jNlJrVWV6bnd2SUMzTFBpV1pzZDVQTE13OXU3aEtZNEVSb3dDNkN2YzY1R25kZEFMYTVPT1hYNVJkNDdURUZxQmZpb2NMUHZDek14WU9nV1E?oc=5"
     },
     {
      "title": "Switzerland Publishes List of 31 Countries Whose Citizens Can Sponsor Relatives to Live With Them",
@@ -225,19 +215,9 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTJheXVaT3JySTJxd0JsQnJCb3BobHV2Y0VSM1NyRGFhM2xYMXNrbk9mYU5VQnRKSzZRTXItSG1ZUzFJclZYMVJYR1JvekFnM3FMaXJTTHdmdTAzcEpRMjJUT2tybENMM0RSM1dVMXVxblhfVFM5S2VnUzlyR0F4YXVvXzFNZm9MeTNOZDdqWWtQci1tTHNjZHFqSW5hWGNL?oc=5"
     },
     {
-     "title": "Perspecta – Perspektiven für qualifizierte Zugewanderte",
-     "source": "Kanton Solothurn",
-     "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOLXpUYTlVWHpMQzlNbk1tWnhnWnJSUGNlLVlYanhoQXRkX29pSC1UOFhGUzVYOWRwQUpBT21fc1lvVVI1cTBGdS13RWF3MTYzOTh0OVNVbVE5S1E1MXFVbDUtQjRPXzdXalA4M2sya2FwVDZYMnN3eHBxbGRlR1MtalZkWDJxcGItYXZWRGpCdW5CWnJ1X0ZzUXRYVHFRcWRtT3RENGpkSVpNOFVfbzFFNnFzWHp1VzE1NWdxX3VteFhfaGc5dUFmNzVoSTZTcHYzd0FvWDFIdDNkOUdsVEtpMmYzOTVIMVZXYVMtTjVidngwdy02Y0MxYlRELV8wT0JBTWtrX0kxRXJMbXc0V0xHMnN6QVRabHkxYVA4Q051RE5iZUVZV1Y3VDk1RzVIZEZwM0lR?oc=5"
-    },
-    {
-     "title": "Krieg in der Ukraine: Schweiz verwehrt 286 mal den Status S",
-     "source": "ref.ch",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZNlVyZkdBQTJQNk45RG5EMlF6R2JzUmxKU3Z1SGxSS1YzMG1keDVkM0pDNE1WdE1EbnZfeEFyMnFJaUxUV1VBemFvcnVtUnB6aHBNRVphRGw3WWk4NUNhU0pfWnFDWGhndlE?oc=5"
-    },
-    {
-     "title": "Behörden verstärken Patrouillen beim Asylzentrum",
-     "source": "St. Gallen 24",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORlNrd0Eza0VaZDBIaGg5TzlBcG5yTHZ0Vk1WMi0zNExWcl9BTjVGUGJqS0JrMUN1TVU0Qm9JYkdoWEZFVDRPV3liRGcyTGZ4OUJVaUtQcDkwSnBSb3dIUFlMRXdMVHZIYmpNZHZzTkpHRFpJNEhpZFByTjZ2bkVjQlZKWVl1VHMzcjkyc1ZxZ3JvQQ?oc=5"
+     "title": "Rückkehrzentren in Ruanda: Schweiz beobachtet EU-Plan",
+     "source": "St. Galler Tagblatt",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWpuT3Y3V2l4TkJBMVV0SENsbzdPZzNJek1VYldyVXN1RVR5Zm43eXZyN0QyMFlpLXpfOUtSX3VMd3V5QW5QRVBpVEo0aVFXLXBJVldSbkRQNXRRWm85YjdhOXZiSXJLVXdCWFFxSjVQeTFiYUZwMTJDZ0ZMX3FRVXF5YndyeE1PUXhjcWhEVVdMTnktRVFVb3ZtRDQ?oc=5"
     },
     {
      "title": "Ukraine-Krieg: Bund verweigerte 286 Westukrainern Schutzstatus S",
@@ -245,9 +225,14 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ2Jyd0FqeVNZd1FySlM0Y1VJejcwUi1QLWpMRXJjLWJHcTRlZXp0Y2J5d3ZibF9fdVVQLVI3emYyRHM5UWh1eEFUeWYwbkUybF9CNGp5bm5GUHpxM3c0V0VaME91bEZ2SHprUVo3bG4xT3VQUkNlWmpiTm0zeG1yNkVVaUdvNnNxNmF4RFFxVmhid19xRnl3YTh3ellEVHc3OUphS0htRVJscU1zcEUw?oc=5"
     },
     {
-     "title": "«Würden Schweizer so leben, gäbe das auch mal Streit»: Auf Patrouille mit dem Sicherheitsdienst",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclkwU3JrRE5ybmdiakZXU2UtMnZCcHl6NnpDM0ViZld2eThNdlBHOWkxY0Nmb1F3eU9DN0luTmVia2FkVUdaOVYwYWV5SWREb1dYelR2XzZfZGI5QVNmNlVMamMwb09iQmE0c3A3NUthTTVmSENIWFVsYk5GX2dHb2paZkhBSjVfVGFVekFzUHN5eE1iajNDbUJ0LURCM3NtQy1MV0FNUzg1NFBhRlNKYl9KZWxIbi1yQWpzZ3BzdEJSeFZSNzloTGFKVXRNLU9a?oc=5"
+     "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
+     "source": "ACT by Campax",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGhGMDBvbEtGbl9PYjFzSklnbUg4YTJQVU1xcTFaT2xKTHlQa3hYVENPTElRakNJbkgxdmJrLXM4ejV6QUxZTXJadjF4cFk3dmt5aWtEREhFOVNYdVJOMXd0MUlCd3VRS0RDMlRvN2Rsa1k1QTZGMGc2RG04RjlhUWxlX1N3bUIxU3JDeWwySnpWMkkzZGlxNXJIQjRtSlJ2ZmdHMW1yd2YxZnVESnpGX2FwSm9RVHhCUVlqM1VrOU8?oc=5"
+    },
+    {
+     "title": "Brand im Bundesasylzentrum Zürich: Polizei nimmt zwei Männer fest",
+     "source": "Limmattaler Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhpc3ZJVnh4c3JmX0xGOVBhMXZmY0VsMFV0bklwbVV2U1dZN210QnpiVjVTNFB0VUtrc05CcU1iR2lXMklXRC16R2hndEpPYmYxVzBvamNBZ09BemM0MmV0bmZaNmYwWV9vRU41WWZGaVd3M2pTTm1wTE1QdnczWEQ1REJscGttUXBOX3VMLUlIY0xsQlpiM3l6VElkU0VLWGwtREh6RHpPQW1JeE9CTVpkdjR0YlZuYnV5U1JtcUVIQQ?oc=5"
     },
     {
      "title": "Eritreer können B-Ausweis ohne Botschaftspapiere beantragen",
@@ -255,14 +240,19 @@
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSzJxa3hrS002U2JnTXVSWWpvQmFfNWJpTkJxQmNvZXRzTUJRVXhQWkZHT3pHdFVBTTZSbi13SER3NGRVcEJ0QmhNOUlIcjcyOTYzTU83MEsxUzIzY24zRWE3b1pYd0g4RWU1Skx2a3JJcUNVUGUtai1tMl9yQ3hNU1Q5M05PdmlCWkhmYU9xb1gxVVBXQnVUZDFWSnFDb3BjQ0E?oc=5"
     },
     {
-     "title": "Finanzielle Folgen der EU-Sozialreform für die Schweiz",
-     "source": "Nau",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUpqNG5OYzhlZy02OFVJVG13U211NHNOV0ZMWXhHcy1ZYmFaS0ZhOTVBQUs2ZXBWQnNlalJVX1VrLTkxUFdRRy1EUm8yd2dORlhKOW1MRkhnbHN1MWIwcXZsZ091ajdEMjJhS1BIc2cwcU5QdVRELXlzendDY1FTOTg5WEp6RGdLU054aTZjZl9jMVhGeFVCbk5R?oc=5"
+     "title": "Eritreer benötigen für ein B-Gesuch keine Reueerklärung mehr",
+     "source": "imTicker",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeC0xWjZ5N1M4aWIwUGVwNnNsQUpTd2lVR1lhTmFnaWRZTkxYSVJXWm5UbHY4bGd4a1Q3S2JZOEV3OGlJaE1odmRUV19SRm1xa1pxOEpDVWNtZXpoMG5JbGNwdzFqVktyQ01BcC1DeXFqRF95N3FxWEtwTlgwQVB4TVVwSWU4SVdhb19QQQ?oc=5"
+    },
+    {
+     "title": "Schweiz: 2210 Asylgesuche im Oktober – Rückgang um 16 Prozent",
+     "source": "imTicker",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pINFFCYmRWNV8yVjZOaE1YWnd5NS1qemlhRDdNV0JnQUc0WlNIMmdoLTd4blN0WXV2dFZWRWhwbDJVbm16M2FrOTRuS2FvWHgwRFBmejcydXNBejA3NGpnbTZNY2Z0TGt0OWFTYnhmVlBkOXVHTmpJNGdnNFZhbks2T1JFZ00?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 10 Google News headlines"
   }
  },
- "asOf": "2026-11-16",
- "generatedAt": "2026-11-17T07:00:01.733639+00:00"
+ "asOf": "2026-11-17",
+ "generatedAt": "2026-11-18T06:00:03.247119+00:00"
 }
