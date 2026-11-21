@@ -2,9 +2,14 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-19",
-   "news": "La comisión competente del Consejo Nacional ha vuelto a pronunciarse sobre el procedimiento para el paquete de acuerdos con la UE, conocido como Bilaterales III: según Watson y SRF, la comisión pide que la decisión requiera doble mayoría popular y de cantones (Volks- und Ständemehr), mientras que Radio Central informa de que la misma comisión se habría opuesto a ese requisito en otra votación. Los medios SRF, Tages-Anzeiger y SWI swissinfo.ch coinciden en que, por el calendario parlamentario, la votación popular no tendría lugar antes de 2028. Por su parte, el comisario europeo Šefčovič calificó positivamente el resultado de las negociaciones, según Aargauer Zeitung. En paralelo, SWI swissinfo.ch señala que Suiza afrontará costes adicionales con las nuevas normas europeas sobre prestaciones por desempleo, lo que afecta a la coordinación de seguridad social para trabajadores transfronterizos y residentes de la UE.",
+   "asOf": "2026-11-20",
+   "news": "Según Watson, SRF y Tages-Anzeiger, la comisión del Consejo Nacional debate si el paquete de acuerdos Bilaterales III con la UE requerirá doble mayoría popular y cantonal (Ständemehr) en la votación, prevista para 2028 como muy pronto. SWI swissinfo.ch y SRF confirman que los nuevos tratados no se someterán a referéndum antes de 2028 debido al calendario parlamentario. Le Temps señala que los parlamentarios discuten el tipo de referéndum antes de la sesión. Aargauer Zeitung recoge que el vicepresidente de la Comisión Europea, Šefčovič, calificó positivamente el paquete. SWI swissinfo.ch informa además de que Suiza afrontará costes adicionales por nuevas normas europeas de prestaciones por desempleo.",
    "sources": [
+    {
+     "title": "Federführende Nationalratskommission gegen Ständemehr beim EU-Paket",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMmlfU01URklrd2NJVnZBYkF0X0I2RTc1eERtUXFiWEpwQ3c4NUJFTWd4LVdpcEhpTTlxaTdLU3ZwRWNuV2JLNGtvUF92dmhfMEowMkZkTTd1X0Yxd1p1X2w4WFZuTThrVDhPOE5NZVcydTEyYjZLYXgzVWRBRTZpb2tYYTdnLWlweURXNkdOZFluRUozcE04cmdocTFqNEx6dm03eUJ0UUxjTkU?oc=5"
+    },
     {
      "title": "Nationalratskommission will Volks- und Ständemehr für Bilaterale III",
      "source": "Watson",
@@ -31,14 +36,14 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWNOdUNUVGt4aFhXb0VHZVdUNjN6ZDFvQjB2S0NUU2ZLZHByZVlibmg1b09GOXlGTV9ucGw3SXpQVE9udXhURUVIQ05kX0d2dVp5enFJSGFESk4xR2ZzSWpwOXVxUGVpa1MzZWNZRm52VEtjVFJ5cW5QcExIek83Z0lQNjdWMXdyN3lWSlhCZVRwVTlYYWtvTy1NOEw1NGlnYmdfREJta1pGcVA4QW9LTnBaZXpIQQ?oc=5"
     },
     {
+     "title": "Bilaterale: Vor der Session streiten sich die Parlamentarier über die Art des Referendums",
+     "source": "Le Temps",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbE1QREJpYmNCZEFIQWZFVS1jOHVPOWd4cnB5SUJOZTJubzYwbThram12WGZmd0lBMFFvTzlmci1SNFhuM3F2X1dWTHZCV0FhMjRGazBxNEM0M21oSUY1dktwTUdPb3d3blozTHI4cVJJTUIxRGJjUWFRc2tzNVNTMFRNV21jTzFFQjRlYXFvaW5SQkpYVnBLeHRmMWtKQ19IMFY1dWktaVhuZFVxZzdDZjdwTmI3TjJzOUpxWFBUZw?oc=5"
+    },
+    {
      "title": "Britain and Brussels Should Both Aim Higher This Time",
      "source": "Bloomberg",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTQ1SFJ2Z1pvMEpxb0dNbnNid2hwaHdCQWJyWEl5dTB2REVKR08yUmVfelNiNGktUTlOZGswRlpPbWtZNUtIejNBY1RsWmVUU21NYlcwTzV4Z1lqc0FNUS1JUzA1TUlNOVBkT3dXc2R5ZDN1NDdiUklHWHNtd3oxWkRoN0dUNnZIazZOUzhwX1o0dE9uVG4tem9EY19TS0dQR1FlVURpWHFzSVkyem1fZw?oc=5"
-    },
-    {
-     "title": "Switzerland faces extra costs under new EU jobless benefit rules",
-     "source": "SWI swissinfo.ch",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2FHZzd5V0tLcE82bUZJVnF6SkhEYTJ3U01oTENiQWVIZ1FPVnEyQzRsd3gwWWRpWGVWSjRmRFlWdW5TbXNIdzNIU1NfbGR5ckRyTjRtTEJuN2ZDUmV2NmRBaUVMNTRaQ2sxY3AzdkZfOTZuc2owMVV2NE9CaEgtbjRXNUt0dmhIRWhKeHZ0LVpiNVAyS1E1cGQtQmpkbGRSU2dkbmVvb1JUeWc5bi1j?oc=5"
     },
     {
      "title": "EU-Vertragspaket: soll Volk zuerst über Ständemehr abstimmen?",
@@ -46,33 +51,33 @@
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ZMeTBicEpwYXJDRUNkdktvdG5pbmVwSEcyeTJFVGM2NFRCQ0VNMjVta3I5NlUtWnhFMVlnUnc1ak5oWGc5TnJxb2syc3VJUngwd3BVbWp5YVJ2RWJRTE56S0NfbEF6cmxLZllXQzBMOVMyaC1rZHFYQ09SXzdMbEZTLTROdGFWMzY2T3VzTEM5UlN6eUFvT0NBU1RpWFR0OEh2Nl8ybU5oQThMRVpMZGpMRmE?oc=5"
     },
     {
-     "title": "Federführende Nationalratskommission gegen Ständemehr beim EU-Paket",
-     "source": "Radio Central",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2NYT3Q0SVVNT0hwa09zekJ4aFpwZ29NTktSV1VGZWFCY3Fqczg4ZWFBVUFad2dEaHRpQzBrVnZ0czJSNkFqWVF0RUxRNWo5aDJuT0l0SndRaGhmTGZQUjBTSVhSX3FZNWtfODNpS0xBbU96dUNEcHdvOERoRnhHM2JzR1VhLTBvemZYVjB6SDhVQlZLVDFRaUdSaVkzVTdqSnU3eGh3elZPczJSOG5CbTVmNVhMekoxLU1KWg?oc=5"
+     "title": "Switzerland faces extra costs under new EU jobless benefit rules",
+     "source": "SWI swissinfo.ch",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2FHZzd5V0tLcE82bUZJVnF6SkhEYTJ3U01oTENiQWVIZ1FPVnEyQzRsd3gwWWRpWGVWSjRmRFlWdW5TbXNIdzNIU1NfbGR5ckRyTjRtTEJuN2ZDUmV2NmRBaUVMNTRaQ2sxY3AzdkZfOTZuc2owMVV2NE9CaEgtbjRXNUt0dmhIRWhKeHZ0LVpiNVAyS1E1cGQtQmpkbGRSU2dkbmVvb1JUeWc5bi1j?oc=5"
+    },
+    {
+     "title": "Dorfleben: Flughafen Zürich: Bilaterale III: Arbeitgeber diskutieren Auswirkungen auf die Schweizer Wirtschaft",
+     "source": "Tages-Anzeiger",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWFGMzhmUy1hRGc3d0x5YVFxSUh1M191RFJXZjJJLWxXYVlCVG0tdm1yVzlWZzdnZEN5bm5PRFdJaWlaT3pHdWpsbkIydDdKTnRxaFhrTFZIY3hvVGVmZVRqWWxWT0s5LWZmV3RMWWkzUmR1SVp5T0JCYTNUekFQdEpzYlNnS2ZnNGtiWHVHQ3VDZjZyMGJLOWpkcVQ?oc=5"
     },
     {
      "title": "Nationalratskommission will Ständemehr für EU-Vertragspaket",
      "source": "SRF",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlYUUxZeVFIZWxxdnlEOERoWUZpR2VSOTZDSFF4enFpczFSX19OQlJYQkppZDhsY0lXZ0k0TjBWdHBIaVRwZ1VLS0h3ZDBpVkh6blJTYWVkU2tuM0tXV1hVS3R2UjVnZWZWNnoteVdxQjVqSVRjVmZtUy1Xek12dFBoblExOGlNb2pDQnpsTWJNOGFtM3VlX3FlT1FHaTl3empRa0EtYTZNdGxMcG4w?oc=5"
-    },
-    {
-     "title": "Removing sanitary and phytosanitary checks at EU borders",
-     "source": "House of Lords Library",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1JBalRhNHpkY192YnUyRkI0MDBxeWFkVmd4SnFKR1dZYmhyU2YxVTZLUTN0cXAweW96OTQzZ09JR19US1B4cWY3cFRTNUg5MHpZMjBmWXQwTkZxSkNOR3dkazFpazJYYjVuT0ZhdmRLVGhJVjNZQWwxTmhxZkhzQWw0WFdacHBPZ2MtQ0pvQ0xMSVNzcUtn?oc=5"
-    },
-    {
-     "title": "Stella Creasy backs Swiss-style relationship with EU",
-     "source": "The Telegraph",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkZObHdadmxWRWtZU19MLW5HeTB5SjFSZUVIOG1Fc0RGSkZkN014cW4tWXcyOGw5Z0FYcGtORTA5MXVQRFYxTVVhMUx1TFZLVHhKNVB1cnNhdFdGSmRxR2JXalJkLVRkU2dKSVBXcm1tQWdTNU5oQjVRM29Fa0JTbUZKNlI2V0tRei15Ul9jQnlISG9vWmJqZThQdmUzT3RyYThMTndubFJxZw?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-19",
+   "asOf": "2026-11-20",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
+    {
+     "title": "Bundesrichter kippt Visabeschränkungen für Studierende und Journalisten, Trump-Regierung legt Berufung ein",
+     "source": "Le Temps",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZjJVR0UzMEhCem1rLUt0dVVIejR1czRGdmpybHExSWdPcVI5a3NLdVFEdUF6QTBXUDRpbnJpYjhVQzBTb0hTaFNELXlEQ2ljX1ZvOUVaU3MzQ0pHUnRidFhnQ3pxSXBNV2dpejJYQTRaQi04NFQ2WFhmZUNoQTJwWHg3cFpSNmJ2YThYLUxPcTZXTjRMWTU0dWtCN1F3SWxocGVkai1xemJGRXllQ0dKVDBuTTZMbWtYcFRZZFlGYl9FVDRoUTJaQ0pqLXJqak5fM3c?oc=5"
+    },
     {
      "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
      "source": "BBC",
@@ -84,19 +89,24 @@
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS3pCaklaa0FZTmZvV29mbDNsZk1WQUFzXy1GcWFyeWN5WWxoTlBOdWRaWlZDYmQzd21qVUpTUDVjMFg4QUd0eUd1R3lXd281S3RFeVBFNUNDN2EyWXBITVhBWkNzNldQeDdfNnJYWlhNUGJTVGtzdFcxcVdib1Q2SlJGZzk?oc=5"
     },
     {
+     "title": "Federal judge strikes down visa limits for students and journalists; Trump administration appeals",
+     "source": "Le Temps",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1Z2WGpMa1ZISm42R29pNWRMQkIxRWlaWVA0SzN5aG9qbkNnVjBLMUlPQ2xrYm9aenRXWXNIX2owanFfVWl2dXFNdi1mczN0RVdXRXNxb3JKTDUzWUVDMHV3SFFuOUdoRW5ELUxfUzJ0UW5ETGNFc0lITjF0akcyenlkNnd3eF9DOEZXQm53U1VvTk9ETjc4YkdjSHRmU1RlT0ROXzFuSWQwVTRNUkNPUmN5UVdUbE9JR2FCRXJhUnNWOFJmQ3lj?oc=5"
+    },
+    {
      "title": "UK student visa applications down 31% as Russell Group warns of volatility",
      "source": "The PIE News",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWkwNE02RHlQQUhpYmxKTE0tMFN6S0JqSmpxZUp2UnZJaUdNVXJMWTFYbDlvSEJ2V1FQbmxtRjJrSjc5bS1SU2pTNFpSR0QycXJQbEFYRWNYaXpmNkViNl9iQU8xT09PSFNxZ1RhRnhLR2lKbWtaUllDQnhnSU1mS3BXSGwtWHBocjZRWDluZDB3N3FjTGFIS3BjS0J6Zw?oc=5"
     },
     {
-     "title": "Breaking news: US court strikes down rule that would have ended Duration of Status (D/S) for international students",
-     "source": "ICEF",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5"
+     "title": "Minimum Salary Changes Announced",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
     },
     {
-     "title": "Worldwide/Ukraine: Temporary Protection Status - Country-Specific Updates",
-     "source": "Fragomen",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc2lrZ05XcGppYVo2SzVYY3BXUWVDdlRzTm1UZFdPS1ZRUER5VjVsdWxWbzlDUGdoSW4xRHRXYnFnWGE3Ri0tTFV2Ry1jUDhyckZFWVd6VDJPWnJBMmt2THRiZmNLRU1ULWNTRVF0X2s1Rl9JTWd2U1VObUNaYXpwa29ERV9ST2dPUW5LQnMycjI2NWotakpqYU41NzVfZGVmRThjWjRJZTkzenI0WHdqWVY1bw?oc=5"
+     "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+     "source": "ICEF Monitor",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5"
     },
     {
      "title": "5 bizarre reasons international students have been refused visas",
@@ -122,29 +132,34 @@
      "title": "Kenyan students get relief as US court blocks Trump’s tougher visa rules amid declining foreign enrolment",
      "source": "Education News",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSG5KeDlvZ0xJQTNkdEdzSWFDX2lhQjhnUWxva3g4Uk9hRVNGUlBkWnR4aWIzMnhiVHg4UjdJQ25KT0gzM0ozTHFzSEx2UENNYm1mYV91WXpISkY5X2k1UmlTRmpCMmpGRDdYZE5xaHhCVGFSU2tiTEJLMGxBYkNCOXhyOUxzVUN3Z3d1VHJEc3lYaWQyX2hwVXNzSXVFaDV5YUtuS3VXX1Vrd1p0ZTFqaWRxMFFMTGQ4MnBpeGp2cjR3YXFNWThENEs3dDVJcThocUww?oc=5"
-    },
-    {
-     "title": "US proposes tougher Green Card sponsorship rules; what Indian graduates seeking EB-2 and EB-3 visas shoul",
-     "source": "The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPbVpBamVnQ08yR01WSXJIeDFTTzFjdlZoby1jR0hIeE5LdnJ1YmxSLVozRGlzVm5qM0t4d2tNN0hWY19qcDY5OHlXU3dKUHEtT0pPRTdSOWxOdUJqVkVoZy1ZV2FEM0ZsZE5VQUJCTjB2bGdlNjFHbngxRzJjWElOdmRaeXEyMEJMYkQwWTNUVlJvVzJoblM4TEFCLXlLM21seUIxVEdHUTI2M0MtMEtwSUZ2dVF5QzdFVWVyNEpRRXFjTTNNYUNlT3k4Y29vVkVweEo4c3NrNENackpnTmdaNzZQWDlFM2U1a3R2SlNFYUwxZlB4NDZ2SnZDZzdzbXhOWnpJWHEweTJvM3ZDeXc0d0Y5OFZSdWs4b294SzZJRkrSAaYCQVVfeXFMTVhmS25iaEx3MDBnOTNlUHMyczU2aTVxX0VNSTd5T0NuNld1VW5teExlRnd5b2NXOEJNNEVYcE05OEh6ejFkcE40WWN4dWE5UmFRUTI3M3pOOUpGVlVMNWE3cmtndWd2RHN5eHRZdHlZbktidXM5dzBNV1VVeDZQWll4X1ZNcGtyZlB1TEdDNERxZHJ2R0lhLXpQLWJWOUctWmFLbFJxZ2hiZk5BdnQ1aDRRYldHLUNvamsxSU5GR2JKVHBHcGNFdElyYWFzWFEtZF9BMzI4X2NVdjVOMkhkM1VZYUFqR09jWG9EZ2F2TUZYSktXYzRZd3FjalgyNnlfeFlzajNtZGgtV21NUC1oNm5iVlB1aGROaWEwLU1fVFYyWXRfSE5B?oc=5"
-    },
-    {
-     "title": "Malta Work Visa 2026 for Indians – Work Permit, Eligibility & How to Apply",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rd1RzYWQ5cEZ6MXVpY0R5am1wNmpCY0lmdHZlUHdac2czMmN3eDdyZmMzV2w0ODE2LTZnWnA1cHR0VnpHU1gzOWh2Nkl4SHdz?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-19",
-   "news": "No hay novedades relevantes para este caso en los últimos días.",
+   "asOf": "2026-11-20",
+   "news": "Fragomen publicó el 19 de noviembre un anuncio sobre cambios en los salarios mínimos. Legal 500 difundió el 18 de noviembre la Alerta de Movilidad Global CONVINUS 43.2026. Crown World Mobility emitió el 19 de noviembre su actualización semanal de inmigración correspondiente al 19 de noviembre.",
    "sources": [
     {
      "title": "Asylstatistik Oktober 2026",
      "source": "admin.ch",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRTBnUXFjZFMzdU5XOFpUa0VxZkpsdTFnUjY2X0g1Z0ZtOHJxQ0dkZ0QyMmdVLVRXelpxX1c0VGY0NUlFamtScWQxYVJwbkx6Ql9tbnh3?oc=5"
+    },
+    {
+     "title": "Rückkehrzentren in Ruanda: Schweiz beobachtet EU-Plan",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdy1tUC1LMGtzWE5hcjRsVFRSc1ppWVplbWowTnpWOXdSQkFLQU42aXRNR0FoczJma2hJZnA0a21qU0VyblR0S0tEVTE3MzZvc1NVZHJrbV9uSklWTUlIUldPcGxCWFpXWk5tY2luX3JnblEzaEg0NjhwTk1TbThFMldGT3Yyb2F6cUdiSFI1VEo4NEdQdFF5aDdqSGo1ZXlDOTZZUUln?oc=5"
+    },
+    {
+     "title": "Minimum Salary Changes Announced",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
+    },
+    {
+     "title": "CONVINUS Global Mobility Alert 43.2026",
+     "source": "Legal 500",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHo0WlkyYjh6QTZXVDUtM3pPMnQ1YnZIT1RncndIeUkzY1diU2VLTFNmeTF1R2d6Zi1zVjBlbXNTdWlxdFB6amlleTl5cXI4ODBrNzczbmVrVzVRa0IxazFkM3d3TTJfOGx3Q2lPampZRV95NE4yOHk1NG5sYVAtUmlZTERadk1sa1FjTUZuYVI5OXZ2bjFyZFZ3?oc=5"
     },
     {
      "title": "Immigration weekly update: November 19, 2026",
@@ -157,24 +172,19 @@
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oRkFBT3NaRDlCRFNQOTRtejRTX3QxRzlqaUdhOWtOMmZGM0VUa1VMTHllYXpLX0I5MW04STU5T25DaGNTMURNb3FGSGV1WFNCMFhhQ2JrdVM2Q29LRjJmbVprODRFdTI0NkVpZWs4bXdVT3lGN1RPdUVxeUU?oc=5"
     },
     {
-     "title": "Rückkehrzentren in Ruanda: Schweiz beobachtet EU-Plan",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWpuT3Y3V2l4TkJBMVV0SENsbzdPZzNJek1VYldyVXN1RVR5Zm43eXZyN0QyMFlpLXpfOUtSX3VMd3V5QW5QRVBpVEo0aVFXLXBJVldSbkRQNXRRWm85YjdhOXZiSXJLVXdCWFFxSjVQeTFiYUZwMTJDZ0ZMX3FRVXF5YndyeE1PUXhjcWhEVVdMTnktRVFVb3ZtRDQ?oc=5"
-    },
-    {
      "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
      "source": "ACT by Campax",
      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3lwVTJicXJMYkp5M3BqVU1JMU5Wam5SdHhjM0NqU3g3MzFmLTVwVUpYMmJqZWtMWGVzLXJHeHZNbnRKZGdfYmRKWnhpaFhHY3I2VnJFZnZCcm5XNTlQVmZwSHV3Sk55Y0Z3OEUwSnJFR1hJNEFYTThuTkVkZFBaZ2s5ZVRwU0FHX3h2LVd5eUtOWll0VkFKOFJ5YzktTGl1QzF6TnpCRlNCaGdpUnZ6Uk0yamxUSEdoUEREbldDckI1dGNVdzZXZGlDUGZOMFZ5cVlwU3dQbTN4cHMwQWRURzFkM1gyNWQ2N3l0d0tOcHNRbjNqWmI0bXYzQkktWXlicG12TkVTdkZQZC1XcUtkWnRlTzdyTmIyaWVjZWhPUVZvT01Da3BV?oc=5"
     },
     {
-     "title": "Mangelhaftes Asylzentrum in Arlesheim BL soll umgebaut werden",
-     "source": "Nau.ch",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmtxUllFM0tTRWhqa2VyYWNlaU1UTUN4Vzd4dTZJTjNqMUx6MzQxeDBBX0R1OEVlUVlMYnAwMC0yX3IxQVR0RHJDR0hDd0ozdWIydFlVSkpfQUIzdzNxTTZtR1ZYZXdtdFVjRlBuaUFpY1JXbmY2Tk4yb3BmQkZMcVlFeThMcGdGNUVMUHlqNlFSaU4xQ0hYdjBxWXRvVUE4LXRuVA?oc=5"
+     "title": "Altstätten SG: Stadt fordert mehr Sicherheit beim Bundesasylzentrum",
+     "source": "Nau",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHNUcFB4TzdiMFhzRmZIVXVNRkN5djlxZUJIdF80MDFFRHdKR21abnd2NFNsLWV5dmp0MllvdGxzaDRfTFZEenFfb016UE1OZzNxVVQ5VEoxQVMwcXRLOUZVeGJKSDZRSHhHX1hQci1nWXpzU3AxSi1XbTZEV1pqb3E0Y1g1TXlic01FcHZrdjJ4TzBqMENnNzZsWWRiekJQTHZHZnNsNzhrdUczUWc?oc=5"
     },
     {
-     "title": "Brand im Bundesasylzentrum Zürich: Polizei nimmt zwei Männer fest",
-     "source": "Limmattaler Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhpc3ZJVnh4c3JmX0xGOVBhMXZmY0VsMFV0bklwbVV2U1dZN210QnpiVjVTNFB0VUtrc05CcU1iR2lXMklXRC16R2hndEpPYmYxVzBvamNBZ09BemM0MmV0bmZaNmYwWV9vRU41WWZGaVd3M2pTTm1wTE1QdnczWEQ1REJscGttUXBOX3VMLUlIY0xsQlpiM3l6VElkU0VLWGwtREh6RHpPQW1JeE9CTVpkdjR0YlZuYnV5U1JtcUVIQQ?oc=5"
+     "title": "Sicherheit um Bundesasylzentrum: Stadt Altstätten fordert mehr Massnahmen",
+     "source": "bz Basel",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWFkRW5hQXQtTWt4YzNwRnBfVkdyb3k5RkdSVW93anhTRG9oZWZlbnVpTWtyazE5amlib0U1ekR3eUM2MlliLVJhYWozRnpPdWpzZkNGMmRXNmxIOF8wX3F3T3V0dTR1TGcwQVhGdkJhdmRaVWFkY2JoU2lpOXhWR01NY0lDMFBQNEE1QXVrbHhaNWI4Z296SjdNMWxDMmhyMXFoN2sxRnU5dVI5OXBnbkRTbjV3RENtbVJHMXRxYnFXY28tYTJKVzJyaTJUWWlvZkJCcHdzcVVvbnM?oc=5"
     },
     {
      "title": "Sonderregelung für Ukrainer - Bundesrat will Reisefreiheit für Schutzstatus S beibehalten",
@@ -182,9 +192,9 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yVVNIeXhiLTdEeDZPNzh5SDhQVUE5ZEI3QUhOZE9JZFBEZnN4cmJBdm9jRW1ucEl3eUdsc1JBM1BhNHdqWEg4alc0Z1U2NC1XdTh3?oc=5"
     },
     {
-     "title": "Nach Brand im Bundesasylzentrum Zürich: 24-jähriger Algerier in U-Haft",
-     "source": "Limmattaler Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRkNnc0eU9SOTNkcVV1SEtZLUdIbVJpcHh4aUxXSko1UW02LWhTUTlsMXJVS3hsNUZoX2g0dmx4VGJUcVBXVTNzLTNSWXJLRC1vTDhVQVkyZW4yenFNZDBWQWdsc0xONGlOaEMtSnVQaHk4OTctTWxhR0huRld0TENsTDQtODVpazg2SGxSb0d4OGxYLThxTnJtMHlEUFFsUk45YnF6QjdqTnRyQ1EtQVFBSGE2M28?oc=5"
+     "title": "Mangelhaftes Asylzentrum in Arlesheim BL soll umgebaut werden",
+     "source": "Nau",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmtxUllFM0tTRWhqa2VyYWNlaU1UTUN4Vzd4dTZJTjNqMUx6MzQxeDBBX0R1OEVlUVlMYnAwMC0yX3IxQVR0RHJDR0hDd0ozdWIydFlVSkpfQUIzdzNxTTZtR1ZYZXdtdFVjRlBuaUFpY1JXbmY2Tk4yb3BmQkZMcVlFeThMcGdGNUVMUHlqNlFSaU4xQ0hYdjBxWXRvVUE4LXRuVA?oc=5"
     },
     {
      "title": "Schweiz: 2210 Asylgesuche im Oktober – Rückgang um 16 Prozent",
@@ -192,11 +202,11 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pINFFCYmRWNV8yVjZOaE1YWnd5NS1qemlhRDdNV0JnQUc0WlNIMmdoLTd4blN0WXV2dFZWRWhwbDJVbm16M2FrOTRuS2FvWHgwRFBmejcydXNBejA3NGpnbTZNY2Z0TGt0OWFTYnhmVlBkOXVHTmpJNGdnNFZhbks2T1JFZ00?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 10 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-19",
+   "asOf": "2026-11-20",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -206,8 +216,8 @@
     },
     {
      "title": "Rückkehrzentren in Ruanda: Schweiz beobachtet EU-Plan",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWWpuT3Y3V2l4TkJBMVV0SENsbzdPZzNJek1VYldyVXN1RVR5Zm43eXZyN0QyMFlpLXpfOUtSX3VMd3V5QW5QRVBpVEo0aVFXLXBJVldSbkRQNXRRWm85YjdhOXZiSXJLVXdCWFFxSjVQeTFiYUZwMTJDZ0ZMX3FRVXF5YndyeE1PUXhjcWhEVVdMTnktRVFVb3ZtRDQ?oc=5"
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdy1tUC1LMGtzWE5hcjRsVFRSc1ppWVplbWowTnpWOXdSQkFLQU42aXRNR0FoczJma2hJZnA0a21qU0VyblR0S0tEVTE3MzZvc1NVZHJrbV9uSklWTUlIUldPcGxCWFpXWk5tY2luX3JnblEzaEg0NjhwTk1TbThFMldGT3Yyb2F6cUdiSFI1VEo4NEdQdFF5aDdqSGo1ZXlDOTZZUUln?oc=5"
     },
     {
      "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
@@ -215,14 +225,14 @@
      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3lwVTJicXJMYkp5M3BqVU1JMU5Wam5SdHhjM0NqU3g3MzFmLTVwVUpYMmJqZWtMWGVzLXJHeHZNbnRKZGdfYmRKWnhpaFhHY3I2VnJFZnZCcm5XNTlQVmZwSHV3Sk55Y0Z3OEUwSnJFR1hJNEFYTThuTkVkZFBaZ2s5ZVRwU0FHX3h2LVd5eUtOWll0VkFKOFJ5YzktTGl1QzF6TnpCRlNCaGdpUnZ6Uk0yamxUSEdoUEREbldDckI1dGNVdzZXZGlDUGZOMFZ5cVlwU3dQbTN4cHMwQWRURzFkM1gyNWQ2N3l0d0tOcHNRbjNqWmI0bXYzQkktWXlicG12TkVTdkZQZC1XcUtkWnRlTzdyTmIyaWVjZWhPUVZvT01Da3BV?oc=5"
     },
     {
-     "title": "Mangelhaftes Asylzentrum in Arlesheim BL soll umgebaut werden",
-     "source": "Nau.ch",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmtxUllFM0tTRWhqa2VyYWNlaU1UTUN4Vzd4dTZJTjNqMUx6MzQxeDBBX0R1OEVlUVlMYnAwMC0yX3IxQVR0RHJDR0hDd0ozdWIydFlVSkpfQUIzdzNxTTZtR1ZYZXdtdFVjRlBuaUFpY1JXbmY2Tk4yb3BmQkZMcVlFeThMcGdGNUVMUHlqNlFSaU4xQ0hYdjBxWXRvVUE4LXRuVA?oc=5"
+     "title": "Altstätten SG: Stadt fordert mehr Sicherheit beim Bundesasylzentrum",
+     "source": "Nau",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHNUcFB4TzdiMFhzRmZIVXVNRkN5djlxZUJIdF80MDFFRHdKR21abnd2NFNsLWV5dmp0MllvdGxzaDRfTFZEenFfb016UE1OZzNxVVQ5VEoxQVMwcXRLOUZVeGJKSDZRSHhHX1hQci1nWXpzU3AxSi1XbTZEV1pqb3E0Y1g1TXlic01FcHZrdjJ4TzBqMENnNzZsWWRiekJQTHZHZnNsNzhrdUczUWc?oc=5"
     },
     {
-     "title": "Brand im Bundesasylzentrum Zürich: Polizei nimmt zwei Männer fest",
-     "source": "Limmattaler Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjhpc3ZJVnh4c3JmX0xGOVBhMXZmY0VsMFV0bklwbVV2U1dZN210QnpiVjVTNFB0VUtrc05CcU1iR2lXMklXRC16R2hndEpPYmYxVzBvamNBZ09BemM0MmV0bmZaNmYwWV9vRU41WWZGaVd3M2pTTm1wTE1QdnczWEQ1REJscGttUXBOX3VMLUlIY0xsQlpiM3l6VElkU0VLWGwtREh6RHpPQW1JeE9CTVpkdjR0YlZuYnV5U1JtcUVIQQ?oc=5"
+     "title": "Sicherheit um Bundesasylzentrum: Stadt Altstätten fordert mehr Massnahmen",
+     "source": "bz Basel",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVWFkRW5hQXQtTWt4YzNwRnBfVkdyb3k5RkdSVW93anhTRG9oZWZlbnVpTWtyazE5amlib0U1ekR3eUM2MlliLVJhYWozRnpPdWpzZkNGMmRXNmxIOF8wX3F3T3V0dTR1TGcwQVhGdkJhdmRaVWFkY2JoU2lpOXhWR01NY0lDMFBQNEE1QXVrbHhaNWI4Z296SjdNMWxDMmhyMXFoN2sxRnU5dVI5OXBnbkRTbjV3RENtbVJHMXRxYnFXY28tYTJKVzJyaTJUWWlvZkJCcHdzcVVvbnM?oc=5"
     },
     {
      "title": "Sonderregelung für Ukrainer - Bundesrat will Reisefreiheit für Schutzstatus S beibehalten",
@@ -230,9 +240,9 @@
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yVVNIeXhiLTdEeDZPNzh5SDhQVUE5ZEI3QUhOZE9JZFBEZnN4cmJBdm9jRW1ucEl3eUdsc1JBM1BhNHdqWEg4alc0Z1U2NC1XdTh3?oc=5"
     },
     {
-     "title": "Nach Brand im Bundesasylzentrum Zürich: 24-jähriger Algerier in U-Haft",
-     "source": "Limmattaler Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeHRkNnc0eU9SOTNkcVV1SEtZLUdIbVJpcHh4aUxXSko1UW02LWhTUTlsMXJVS3hsNUZoX2g0dmx4VGJUcVBXVTNzLTNSWXJLRC1vTDhVQVkyZW4yenFNZDBWQWdsc0xONGlOaEMtSnVQaHk4OTctTWxhR0huRld0TENsTDQtODVpazg2SGxSb0d4OGxYLThxTnJtMHlEUFFsUk45YnF6QjdqTnRyQ1EtQVFBSGE2M28?oc=5"
+     "title": "Mangelhaftes Asylzentrum in Arlesheim BL soll umgebaut werden",
+     "source": "Nau",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRmtxUllFM0tTRWhqa2VyYWNlaU1UTUN4Vzd4dTZJTjNqMUx6MzQxeDBBX0R1OEVlUVlMYnAwMC0yX3IxQVR0RHJDR0hDd0ozdWIydFlVSkpfQUIzdzNxTTZtR1ZYZXdtdFVjRlBuaUFpY1JXbmY2Tk4yb3BmQkZMcVlFeThMcGdGNUVMUHlqNlFSaU4xQ0hYdjBxWXRvVUE4LXRuVA?oc=5"
     },
     {
      "title": "Schweiz: 2210 Asylgesuche im Oktober – Rückgang um 16 Prozent",
@@ -243,6 +253,6 @@
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 8 Google News headlines"
   }
  },
- "asOf": "2026-11-19",
- "generatedAt": "2026-11-20T07:00:03.321450+00:00"
+ "asOf": "2026-11-20",
+ "generatedAt": "2026-11-21T06:00:02.192058+00:00"
 }
