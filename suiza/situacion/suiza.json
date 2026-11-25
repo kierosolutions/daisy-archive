@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-23",
-   "news": "Según Watson, la comisión directiva del Consejo Nacional se pronunció el 18 de noviembre contra la exigencia de mayoría de cantones para el paquete de acuerdos con la UE, mientras que el 16 de noviembre la misma comisión había solicitado doble mayoría —popular y de cantones— para los Bilaterales III. SRF y Tages-Anzeiger coinciden en que la votación sobre el nuevo paquete de tratados no se celebraría antes de 2028. Le Temps informó el 20 de noviembre que los parlamentarios discuten el tipo de referéndum antes de la sesión, y SWI swissinfo.ch publicó el 23 de noviembre un análisis sobre la relevancia de los Bilaterales III. Por su parte, Aargauer Zeitung reportó el 20 de noviembre un nuevo roce con la UE que afecta a la industria de maquinaria, con intervención del consejero federal Parmelin.",
+   "asOf": "2026-11-24",
+   "news": "La comisión del Consejo Nacional debate si el paquete de acuerdos con la UE —conocido como Bilaterales III— debe someterse a doble mayoría popular y cantonal (Ständemehr) o solo a mayoría popular, según informan Watson, SRF y la Aargauer Zeitung entre el 16 y el 19 de noviembre; el presidente del Mitte, Gerhard Pfister, ha presentado una propuesta sorpresa sobre el orden de la votación. SWI swissinfo.ch señala que los tratados no entrarían en vigor antes de 2028 y analiza la relevancia del paquete para Suiza, mientras el mismo medio y la Aargauer Zeitung advierten que, incluso en caso de rechazo, el país conserva margen de maniobra. Por otro lado, la Aargauer Zeitung reporta nuevas presiones de Bruselas sobre la industria de maquinaria y una advertencia del director de Swissgrid: sin acuerdo eléctrico los costes subirán notablemente.",
    "sources": [
     {
      "title": "Federführende Nationalratskommission gegen Ständemehr beim EU-Paket",
@@ -21,9 +21,9 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTRkb2hpOTdveFRsdHVsY0M4cHFVSEJJbWVUOTNoN1BZOG5pdG5XVTZlT0FObXRJUjVCbE81VXVwYXpXQllUejVrWXZuRndpbVU5Z01ubXVRekZZc3ZydHp2OXg3QWZaOE5NSGEzdzZkbGZqa3c1MmQ5VHVYZ09CdjdmcWpWTUEyc0tDRElQa1hQcnVtWW9UdUZieHp5akFpYlUwNmdXcnkwRnlQUU1aWTJoNA?oc=5"
     },
     {
-     "title": "EU-Vertragspaket: Abstimmung wohl frühestens 2028",
+     "title": "EU-Vertragspaket: soll Volk zuerst über Ständemehr abstimmen?",
      "source": "SRF",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTQyZzB6Y0dVZkJuU3RsSG8zODdxeEVSdUN2NUc1RHdqU0I0UTBOQi1VSnZzeC11bS1VWlNvMDVheG5UalZLWmkya2FBTFVyb0d4eDlJcTV4UGRub0N5WkZmQTBTcmtTczlpdU42ajNlQ3FHVm9aeEV2eVJMYklkVFFoa3N5aGFtWi1GZlppYnhFNXRRQXMzWTNLNEJXYUZCMkEwZHUzX1c?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ZMeTBicEpwYXJDRUNkdktvdG5pbmVwSEcyeTJFVGM2NFRCQ0VNMjVta3I5NlUtWnhFMVlnUnc1ak5oWGc5TnJxb2syc3VJUngwd3BVbWp5YVJ2RWJRTE56S0NfbEF6cmxLZllXQzBMOVMyaC1rZHFYQ09SXzdMbEZTLTROdGFWMzY2T3VzTEM5UlN6eUFvT0NBU1RpWFR0OEh2Nl8ybU5oQThMRVpMZGpMRmE?oc=5"
     },
     {
      "title": "Streit um das Ständemehr: Mitte-Präsident Pfister macht überraschenden Vorschlag",
@@ -36,41 +36,41 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkdFT1Vld2NickVzbVFqRG00UUE2NlhrVHIwN2dLSDVaQjZJQk1BaG9YVUxBejl1VDJ4UjM0ZE8xb0dEMFZVdVJJV1JIVURiRl9RUkVJZUdncWJta1RZSVcybjQ2akEzSnZfam4zbWlMaHlvb2Q1bjNHb1V2Uk5tNjR1OG1FdXdtU0dvOG82MzlqZVZHVDc5b0tCUTNNRmh5bExHZy1B?oc=5"
     },
     {
+     "title": "Auch bei einem Nein zu den Bilateralen III hat die Schweiz Trümpfe in der Hand",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3VXQ3doZi1MZzVpYmxPallGZllzOHVHMnlyMEduWGVhWWF5M0N4RFhtaUZvUDI0VDRfYjZ6cng0R3ItbnZkalNmeTdqSzJseFFxczNzbE9vMENJb3dObGs5dmFrRE0zVmhhOHBMU2NfcVFuWWt3Y1JweGVNbjVhV04ybjBQY0xwYVJkVUUtdU1DNjdOVkxKTkZtWERWME81RUlJQUVmUjJWOTNwQlR1NXFIdXg4SDhPOVVr?oc=5"
+    },
+    {
      "title": "Britain and Brussels Should Both Aim Higher This Time",
      "source": "Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTQ1SFJ2Z1pvMEpxb0dNbnNid2hwaHdCQWJyWEl5dTB2REVKR08yUmVfelNiNGktUTlOZGswRlpPbWtZNUtIejNBY1RsWmVUU21NYlcwTzV4Z1lqc0FNUS1JUzA1TUlNOVBkT3dXc2R5ZDN1NDdiUklHWHNtd3oxWkRoN0dUNnZIazZOUzhwX1o0dE9uVG4tem9EY19TS0dQR1FlVURpWHFzSVkyem1fZw?oc=5"
     },
     {
-     "title": "Enger Kalender im Bundeshaus: Die Schweiz stimmt wohl erst 2028 über die neuen EU-Verträge ab",
-     "source": "Tages-Anzeiger",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFdMQ3BmZ2NnM01LbWRKTlJMOXB3Wm03eHd2eVZSLVYzNXp0bTBVMkMwOV9lUkZYdGtYSUpJUy1Fa2JDaW5iZGEwZFFVWmN5aHpyVjJJRU5fYm9CeVpNbk8zTmlfUzJYZTl3cVdvZ0t2eThWUjZPX25FbmpKVUlhM2hIek9TOTZBdHh1c0p3dmVvVWs?oc=5"
-    },
-    {
-     "title": "Bilaterale: Vor der Session streiten sich die Parlamentarier über die Art des Referendums",
-     "source": "Le Temps",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbE1QREJpYmNCZEFIQWZFVS1jOHVPOWd4cnB5SUJOZTJubzYwbThram12WGZmd0lBMFFvTzlmci1SNFhuM3F2X1dWTHZCV0FhMjRGazBxNEM0M21oSUY1dktwTUdPb3d3blozTHI4cVJJTUIxRGJjUWFRc2tzNVNTMFRNV21jTzFFQjRlYXFvaW5SQkpYVnBLeHRmMWtKQ19IMFY1dWktaVhuZFVxZzdDZjdwTmI3TjJzOUpxWFBUZw?oc=5"
-    },
-    {
-     "title": "EU-Vertragspaket: soll Volk zuerst über Ständemehr abstimmen?",
-     "source": "SRF",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ZMeTBicEpwYXJDRUNkdktvdG5pbmVwSEcyeTJFVGM2NFRCQ0VNMjVta3I5NlUtWnhFMVlnUnc1ak5oWGc5TnJxb2syc3VJUngwd3BVbWp5YVJ2RWJRTE56S0NfbEF6cmxLZllXQzBMOVMyaC1rZHFYQ09SXzdMbEZTLTROdGFWMzY2T3VzTEM5UlN6eUFvT0NBU1RpWFR0OEh2Nl8ybU5oQThMRVpMZGpMRmE?oc=5"
-    },
-    {
-     "title": "Neuer EU-Nadelstich: Jetzt trifft es die Maschinenbauer – Parmelin interveniert in Brüssel",
+     "title": "Neuer Nadelstich aus Brüssel: Jetzt trifft es die Maschinenbauer",
      "source": "Aargauer Zeitung",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnltQk9VTGROYXFJUnZuckRCZGU1a09BVzZvRDhDZEdoYVBHSFh6cF9halZFWmdxMzd2YWcwMVZYbk9pNk9DcXZ4bTNfU3llSDZWMUVzbmc5OVd2MU5jZ1RlR3VYSXItTW1wb294VVhDQ2dZWTVCNlpCT0JrMzFjVlB2QjBsS2JFRy0yMnAtMkZXSEl3WHJhTDJMVjFVa0szdVI3dDI5aG5xSkZJZlR0LWIzR20?oc=5"
+    },
+    {
+     "title": "«Ohne Stromabkommen wird es deutlich teurer», warnt der Swissgrid-Chef in Aarau",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFBCSnpGbkJQeGViS0YxLWtnRUZuTVJaWXcwLUE4cExlRFJZcVF6czdBNmthcDVwSDQwR0RYV1RrRTYwZlQ1LUxuXzdNNy1NYk9yWG5mT1VaZDlTR3R5ck1lQ1M2Y3pTTUlTaWhGd0RTd3JEZEpXX1NTYnAzSjdjZTdaM0xBRmFzU203WGIxNHBXOGhVckljcEV3WldOa1FNaDdOUWhkU2JJcFVmRUNhdGVIY01PT25vcnN2TTE3SGRVcVg4TVE?oc=5"
     },
     {
      "title": "Nationalratskommission will Ständemehr für EU-Vertragspaket",
      "source": "SRF",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGlYUUxZeVFIZWxxdnlEOERoWUZpR2VSOTZDSFF4enFpczFSX19OQlJYQkppZDhsY0lXZ0k0TjBWdHBIaVRwZ1VLS0h3ZDBpVkh6blJTYWVkU2tuM0tXV1hVS3R2UjVnZWZWNnoteVdxQjVqSVRjVmZtUy1Xek12dFBoblExOGlNb2pDQnpsTWJNOGFtM3VlX3FlT1FHaTl3empRa0EtYTZNdGxMcG4w?oc=5"
+    },
+    {
+     "title": "The UK and the European Union: What is the current relationship?",
+     "source": "Institute for Government",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qTEFHUk1YbDFtQndwUGlRMzU0Vkc1UVZxVkVFUHVSSTItSm5tc0p1cTJpbGhZS3hGZUtRbHI5QlJOWmVyRlVLRVprVEZFUWlxSTZ1NmdqX05PYU9RTkxOZXJXbHJvQzJRYUY3OUEzNml3eHo1QVY0T080YUY3QQ?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -84,6 +84,11 @@
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1Z2WGpMa1ZISm42R29pNWRMQkIxRWlaWVA0SzN5aG9qbkNnVjBLMUlPQ2xrYm9aenRXWXNIX2owanFfVWl2dXFNdi1mczN0RVdXRXNxb3JKTDUzWUVDMHV3SFFuOUdoRW5ELUxfUzJ0UW5ETGNFc0lITjF0akcyenlkNnd3eF9DOEZXQm53U1VvTk9ETjc4YkdjSHRmU1RlT0ROXzFuSWQwVTRNUkNPUmN5UVdUbE9JR2FCRXJhUnNWOFJmQ3lj?oc=5"
     },
     {
+     "title": "Visas, Sanctions, Money: How The EU Plans To Prolong Bans On Russian Athletes",
+     "source": "Radio Free Europe/Radio Liberty",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWxXamZaTmRkTWlEXy02RC10NFBvV0VZdmtwN2puVHlPOTc0WVdnTHZ3dkVXQnFrNldiVzdfM21nSjBZSm43UFlUNVpyQk5ZalNVcXRWakZ4YU1DMDJoV3FpS1B2bVVTdHFCZ2ZONE1xSGV5TG9haEU4WVE5TXR0UEozR0VXMjJHSzdQMGtNYmFjMFN0Z1RHS2NDbjJyLXJpeGlBXzFxQW94d3prQzduUjJR0gG0AUFVX3lxTFBfQWxhWjJkOVVwUDVhV3lMajd0Nk1LU0t2NTZtOUQ2WUtXenF3SmRCNjQ2SUtXZWVMYm1DSEZ1ZTRLQXpPQUk4d1pYVDlrb2gweTBiZDRzRW1KZDVoX09rUGpFcGlYTi1vUlJZTy1WS3htZXRfNUJ3cjRmZVNnSEgwamRzV3Zsc2huS0dzcDkwZ21UT1VZNVVNZDE4aUduQVh2dkZvMGJRUnc0UUxUZGp2dVFjcg?oc=5"
+    },
+    {
      "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
      "source": "ICEF Monitor",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5"
@@ -94,9 +99,9 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTQ2aV96TE83NkNZQzA0clNRZm92U01TVDRaWm5rUWM3a0QtYTY5Q2pfX1FfbWJIcnlsNDF5U29FNVF6SnpCaTVIdk03Y2Utb1owLWFDcEVDZllqU00xcWRKWnViQ0Rhai02cUlib3l3THFFTy1fVHB6ZzFMelRlU2pkdWZaRVlxVEw0VnVjQzBkd0NsVzFQYg?oc=5"
     },
     {
-     "title": "U.S. Court Overturns Visa Rules for Students and Journalists",
-     "source": "blue News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RzZ0xnWEFFb3dsOFg5bGptM0ZjUGlNWEc3Z0t5QkZBTDBVQW1qQUpnMjhyMi1iRGRlQXhkTDBNeHRSSnh6UW43S3ltNlc2Y21GYnVaTmlwZ2NWM0JiNU8xcjJYVXB3SzJMX3V5LVdIeEtyMzVleEoxVFB1V0FzVXZfUDFHMUFsaTFOZkc4SWlIbURfa2Nzc21wXzhvaUtBZ2pNSA?oc=5"
+     "title": "Top 10 Easiest European Countries to Get Citizenship",
+     "source": "Get Golden Visa",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNUg4MVBRSG53MHAwcUo1d3JZVHVKVDVkaFR3ZHFrcU1BX1JJMVRhVlVraHdMLTVaRkZUdEZlZlVFS2c1dEpvckNwZHRyenhpZmQ4OGlPLTRFSzIzNGswaw?oc=5"
     },
     {
      "title": "Kenyan students get relief as US court blocks Trump’s tougher visa rules amid declining foreign enrolment",
@@ -104,19 +109,14 @@
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSG5KeDlvZ0xJQTNkdEdzSWFDX2lhQjhnUWxva3g4Uk9hRVNGUlBkWnR4aWIzMnhiVHg4UjdJQ25KT0gzM0ozTHFzSEx2UENNYm1mYV91WXpISkY5X2k1UmlTRmpCMmpGRDdYZE5xaHhCVGFSU2tiTEJLMGxBYkNCOXhyOUxzVUN3Z3d1VHJEc3lYaWQyX2hwVXNzSXVFaDV5YUtuS3VXX1Vrd1p0ZTFqaWRxMFFMTGQ4MnBpeGp2cjR3YXFNWThENEs3dDVJcThocUww?oc=5"
     },
     {
-     "title": "Young protesters hit streets across Europe",
-     "source": "Cebu Daily News",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnZOc3YyZ0VDSWVTdUpvSU0xMU9Zb3A0XzZwUmttOFlUTHZiVWprNTBZR3BQRkZtb0xtd3BDc3ZiZU1RdDI5NmNrSXQtUnhoQ0FQRkQ4Qm9DWTBZY0hxR09obllzX1kwUFhVT3Y4SHRUdGhZMFhIWWZvS0tHNHZWaTlIa0NXdVhxLXZPUtIBkgFBVV95cUxNaHRIck5mbXdTUS14RUo3enZPTXNuSWs1SHRvLWd5Y1IweUFRNC1mblYzT2l4SlVDZnhRbk5KTF9RemxVOENDRE9FdkM3ZGdJelNpVjJ3NnRFRlNVWVRYTVVOYm5zNVozc2dCNkd2am1RUjNpWVdkbU5uOG9qdlVqdVhZSVdNdDlkNjVrRVJNdlY4Zw?oc=5"
+     "title": "Australia Introduces New Rules for Working Holiday Visa from March 2027. Check Your Eligibility!",
+     "source": "Y-Axis Overseas Careers",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZkFTNlZUb1lpTmlTR2w0VG1SODJqOG9wd01xdkxTQ0NFTDJXSFl5ZDN3N1I2dEJNZHhIOFdVM25xa09Yd1I5Y3lsTDhUN1hrOVd5cy00dWNWd2dvUFNRVW95Y05pOXNVeGdXWjR0a1JIRjV4cG9waWg1bTFGMFU?oc=5"
     },
     {
      "title": "Top 10 Countries to Immigrate from India in 2026",
      "source": "Shiksha.com",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanlvOFc4aTlyeDFPZll4WE5KYUxkRlN6Qjd1OFNoWW9DRzFNN2ZTeUdwWXpkUFF6Q0FONTk2bERMd3R5UHVHYzg0bjZUVnR6bDJrTjZJRTREaXdnT3hLNl84OTZZemxCZ1g3aUVqZ2VGbEx2a0p6U1ZyNTluclE2M3hWOG9tZFFlSmlfeDI2eGNLVWVHVXdDNg?oc=5"
-    },
-    {
-     "title": "Australia Introduces New Rules for Working Holiday Visa from March 2027. Check Your Eligibility!",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZkFTNlZUb1lpTmlTR2w0VG1SODJqOG9wd01xdkxTQ0NFTDJXSFl5ZDN3N1I2dEJNZHhIOFdVM25xa09Yd1I5Y3lsTDhUN1hrOVd5cy00dWNWd2dvUFNRVW95Y05pOXNVeGdXWjR0a1JIRjV4cG9waWg1bTFGMFU?oc=5"
     },
     {
      "title": "US Court strikes down four-year student visa rule: What Indian students and researchers must know",
@@ -129,28 +129,18 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82TjY3bG45NnpHMlNzanZ2TlZUQW41eTRWTmpmMXBtVmg0M2JtOTFfSGR6bGIxN1FNU3F1cV9XdXl1MHg2R1hGVFlPOXVBRHdjTFRhSU5n?oc=5"
     },
     {
-     "title": "Future Diplomats Forum 2027 in Geneva, Switzerland – Fully Funded International Conference",
+     "title": "One Future Conference Switzerland 2027: 100 Fully and Partially Funded Opportunities in Geneva for Applicants Worldwide",
      "source": "Global South Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNk9pTkxqZ1JCYk5NWEh2ZzBOTmdrRnBqWk1Ca09aRGZ0X2FSTUVCNzdRU1JXb3d4Q3IweVJxcmhFYTJTNURfYXpPSE1zVGx3NUZlemFkbFUyQ1YxREpSX19PMEx5LUZxa1BhTENn?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUFFFdlBsQ2dVdWw2dndCOU5fbkVUdVQyNlc2T2VwVTIwbzR1NnVPa3BVQ05IeFhwcGZ4SU1jMzFWWFNuUXE1a2oxSVl3Q3hKZktoUm1PNVdTTDVrVFh2bDFqMjVTV2FHWFMw?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
-    {
-     "title": "Asylstatistik Oktober 2026",
-     "source": "admin.ch",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRTBnUXFjZFMzdU5XOFpUa0VxZkpsdTFnUjY2X0g1Z0ZtOHJxQ0dkZ0QyMmdVLVRXelpxX1c0VGY0NUlFamtScWQxYVJwbkx6Ql9tbnh3?oc=5"
-    },
-    {
-     "title": "Vorfälle beim Asylzentrum Altstätten: Jetzt nennt die St.Galler Regierung Zahlen",
-     "source": "Aargauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzNaUEZ0UHZCSW1ldEtGaC1iaGhzTTNpNUk1UjRzVUJWcVJ0UnloMVp2ZE94TEpOV2lMY1lFX1MybjJmcTN2YTFoeTFTakVBNVY2dV9wV0FoWDlNRmpPNGNFVDEyb3RnV2ZqZnNWZHZGeU9MYmlrNzVnYnNjNkU4bS1BTi1xdHFIYnZMN1Jab0pnak1SUW04SUhqSWFWTlJQVGxVRy1HNEZFZklIT2FXMnRsZDROWThRMzlJX2M4cTZYR0Y2ejdOcS1ScUhNSmEyeHYzSjFTRzZHb2xUQnktQlBYUWFJc00?oc=5"
-    },
     {
      "title": "Romania: New Unified Work Permit System and Online System Implemented",
      "source": "Fragomen",
@@ -160,11 +150,6 @@
      "title": "CONVINUS Global Mobility Alert 43.2026",
      "source": "Legal 500",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHo0WlkyYjh6QTZXVDUtM3pPMnQ1YnZIT1RncndIeUkzY1diU2VLTFNmeTF1R2d6Zi1zVjBlbXNTdWlxdFB6amlleTl5cXI4ODBrNzczbmVrVzVRa0IxazFkM3d3TTJfOGx3Q2lPampZRV95NE4yOHk1NG5sYVAtUmlZTERadk1sa1FjTUZuYVI5OXZ2bjFyZFZ3?oc=5"
-    },
-    {
-     "title": "Immigration weekly update: November 19, 2026",
-     "source": "Crown World Mobility",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbmZ5djNVNzZ0eUNxWEpfZW95QU1zM0RSOVdvTVJiUGY1Qnk3NERoMGVaRlVfMFZoVWRiTzRRM1hkMmdpU2M2c09ldWlLZjRrelRFMC1lei1kV1pNSjd1QTVucnhjRkhwa2FvdTVfcXBCQmtWQVhTVGI1aGhtOHgtajNnSk5kRGRFTEpNOWlEdE8?oc=5"
     },
     {
      "title": "How to Hire Employees in Egypt in 2026: Permits, the 10% Quota and Costs",
@@ -180,33 +165,13 @@
      "title": "Highest paying job opportunities in Greece for Indians",
      "source": "Y-Axis Overseas Careers",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfeDdGbWVYdlFwOVhHdDIwTTdOZUNfZUhPaDg1NEVjTTlCb2dvMjJDR29mMTQ0YUFjbU5LUjFSZVNESGgwNm5Xa1NrOVljemdPd1Y0RXExLTg2X1RiNTdaTkl1Um8tWmpHcHdtdXdwVER1ZU5BN2c?oc=5"
-    },
-    {
-     "title": "Asylstopp für Nordafrikaner: Abfuhr für SVP-Forderung in St. Gallen",
-     "source": "Nau",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkwySHh3a1dwd05mVUtWMWJtNTF1V1ZGS3pNb0xNR1paSkxsVzU2ejY2QlYxTmt6QVhzMWhab0xmVWoxSGpjd190a0RhSVZJbHViSXVRQ2tLb24zU1ppdnp5ZlZQbEM4LThENm1GSUZGbzBEem0zUEw1ZTBycWUxYUQ1V3RsMDR0RnRUTFBUSFU4MFdSLWg0OUhqYlRQOC12MnNVdTV1akx0QUh6cWZB?oc=5"
-    },
-    {
-     "title": "Stoppt die Ausschaffung von Dilan Pınar: Schutz und Aufenthaltsrecht statt Lebensgefahr!",
-     "source": "ACT by Campax",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnpXdkZvMDVBeVBYUmJ6d2pFNGhudWZjV2xtN3RhcjZoamhXRUwyY2J2UXk0aktFWHFaTk5TWkxQbDlvcW5ZN0hpNlBoZVpaWEl6VlhpVjBTc1p2MTFhanBUR1hONXQ3bTNmaUxyc3hnNEhXMzlSejJRLUFteXhFNjR4WHJQMG9XQXFfeHpvbTNwRWF3cnhEYTNCWVRhSE1Sb09VbVIydWRGcHhQajJuMGg4akhGTi1oYW9n?oc=5"
-    },
-    {
-     "title": "Sicherheit um Bundesasylzentrum: Stadt Altstätten fordert mehr Massnahmen",
-     "source": "St. Galler Tagblatt",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2w1Um03NTlWT0pXMXd1TjRURkdJeGowUHRiRTZ1bTFuWGk5bUczam9xbEJpYk4xWVA1TnVwVndzQXFhTHZ1VEpQcm1GclQxUTFYbFNXSlU3S21wWEhxQmVsVXJMV3h5dTRtNmQzMFBDLUhlZ1J5WlBIenVtZE5aWHNDMG1BTVl6d185c2ZfLWJtUGZKLTUtckt0dlRiLS1NUHJEUk1yNFFqUllxNUpZUnA3REFzdWw0OGNsM3FrQ2owN1k2TVNLcFg2bGQtcEs2dHFTb21raXRrTHJX?oc=5"
-    },
-    {
-     "title": "Sorgenkind Bundesasylzentrum: Altstätten fordert weitere Massnahmen",
-     "source": "Rheintal24",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzlDSk80d1YxSGU3eHNTbS1LVW93dHRVdFZnQ1QyY1o4S1pjY0c4ZGxoOVVWNzYwd0Q2ODkzamE0REZyVnJrR25KZW5WZGJTaXBodk80S0hmSm9yMVVNT1ZTVlhwaTZsUUxxUlhLWTZzRlZzN2FtTmd0a0l6UVYxTE9iQ19DTllfeUdYaGFfQlRWTW9aTnhBMG12WTBkMmZXX2RPT21oMlM?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 5 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-23",
+   "asOf": "2026-11-24",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
@@ -215,11 +180,6 @@
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pRTBnUXFjZFMzdU5XOFpUa0VxZkpsdTFnUjY2X0g1Z0ZtOHJxQ0dkZ0QyMmdVLVRXelpxX1c0VGY0NUlFamtScWQxYVJwbkx6Ql9tbnh3?oc=5"
     },
     {
-     "title": "Vorfälle beim Asylzentrum Altstätten: Jetzt nennt die St.Galler Regierung Zahlen",
-     "source": "Aargauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzNaUEZ0UHZCSW1ldEtGaC1iaGhzTTNpNUk1UjRzVUJWcVJ0UnloMVp2ZE94TEpOV2lMY1lFX1MybjJmcTN2YTFoeTFTakVBNVY2dV9wV0FoWDlNRmpPNGNFVDEyb3RnV2ZqZnNWZHZGeU9MYmlrNzVnYnNjNkU4bS1BTi1xdHFIYnZMN1Jab0pnak1SUW04SUhqSWFWTlJQVGxVRy1HNEZFZklIT2FXMnRsZDROWThRMzlJX2M4cTZYR0Y2ejdOcS1ScUhNSmEyeHYzSjFTRzZHb2xUQnktQlBYUWFJc00?oc=5"
-    },
-    {
      "title": "Asylstopp für Nordafrikaner: Abfuhr für SVP-Forderung in St. Gallen",
      "source": "Nau",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkwySHh3a1dwd05mVUtWMWJtNTF1V1ZGS3pNb0xNR1paSkxsVzU2ejY2QlYxTmt6QVhzMWhab0xmVWoxSGpjd190a0RhSVZJbHViSXVRQ2tLb24zU1ppdnp5ZlZQbEM4LThENm1GSUZGbzBEem0zUEw1ZTBycWUxYUQ1V3RsMDR0RnRUTFBUSFU4MFdSLWg0OUhqYlRQOC12MnNVdTV1akx0QUh6cWZB?oc=5"
@@ -235,9 +195,9 @@
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2w1Um03NTlWT0pXMXd1TjRURkdJeGowUHRiRTZ1bTFuWGk5bUczam9xbEJpYk4xWVA1TnVwVndzQXFhTHZ1VEpQcm1GclQxUTFYbFNXSlU3S21wWEhxQmVsVXJMV3h5dTRtNmQzMFBDLUhlZ1J5WlBIenVtZE5aWHNDMG1BTVl6d185c2ZfLWJtUGZKLTUtckt0dlRiLS1NUHJEUk1yNFFqUllxNUpZUnA3REFzdWw0OGNsM3FrQ2owN1k2TVNLcFg2bGQtcEs2dHFTb21raXRrTHJX?oc=5"
     },
     {
-     "title": "Sorgenkind Bundesasylzentrum: Altstätten fordert weitere Massnahmen",
-     "source": "Rheintal24",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzlDSk80d1YxSGU3eHNTbS1LVW93dHRVdFZnQ1QyY1o4S1pjY0c4ZGxoOVVWNzYwd0Q2ODkzamE0REZyVnJrR25KZW5WZGJTaXBodk80S0hmSm9yMVVNT1ZTVlhwaTZsUUxxUlhLWTZzRlZzN2FtTmd0a0l6UVYxTE9iQ19DTllfeUdYaGFfQlRWTW9aTnhBMG12WTBkMmZXX2RPT21oMlM?oc=5"
+     "title": "Vorfälle rund um das Asylzentrum in Altstätten: Jetzt nennt die St.Galler Regierung Zahlen (Abo)",
+     "source": "Vaterland online",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2FZRTFBMnlrYzBzOEdieVh2ZzY4Z01PeEpTbkNrN3Z6eS14b0ZvNzg5Y002SFpfU194RFFmU1VxYkJISTN0SXBZS1VQVlpzcXpFVVB5QW9MbTZiNWZiZUVIWTNNMG13YTExTU9RQzJfaXNKZ3NMMU9mYTY1QllhN3hndFlDa3E3c3JZa3YxUklsMnAxM0c3NUt2cHdXT2RxSGxpVktVdlJtczV1VjdfM05nTmlGd3NlVFNXNngxLXNRVkZzUFhlVmFZeWpQUGRtWnc?oc=5"
     },
     {
      "title": "Europäischer Abschiebe-Deal – auch die Schweiz könnte teilnehmen",
@@ -250,6 +210,11 @@
      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPeS1CVzgtZlVXRmpQOTU4anRkemxBdjNxazZCZGZ2Qi1zTnNqWEdsWVgtcUptY192NXhCWXNwcFFDeEVHS294SFIybTljZUtOZTRzei1PY3BuZnpLT3BvSHRaOE1zNzcwMTJsVkRGUjF6SWJVSGxVQm1zVjFWVnl4NkJ2b3AzR2ZuWUFiNmlHVkcwNERqSDl4NXFmaGN5LWN5MzJFcEFxb3hkeEozY3hTYVFBLXp5dFhPQXg2U2lnVFNjUmlHRmlQQWZiQWRRVGNoaUlDOW5yMTNlbXBsSnQwS0M4eFE2NjFqeFl2QWstMDBwN2hORzJMMVItWndIOWw3QTJUSURHRU42Q2ZnaC1Rd2tMSUNLcU0xWTd4bDNjVE0wM2lXbm5Ka1VDSmRVVlVReWNvM2VhQmNWanRKZThDbjJ2OTMyMUw1ZERRR3A4ZTFxVWJYYlE0TEZaclBTWjhqcGZ6UVI0RWVrZ0lBOVlIMElpYU9DQWVlLVh4NUFYNU13bGZsUDRyUEkwam15SlRCeWJqbWpuRGJKM2k0Q0FkUUtyUWhSemNFaVlCRGN4eFVaRFBval94MldSUTBvc3FPZWdRLWFHbkRLTktjeExkZUxR?oc=5"
     },
     {
+     "title": "Altstätten SG: Stadt fordert mehr Sicherheit beim Bundesasylzentrum",
+     "source": "Nau",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZHNUcFB4TzdiMFhzRmZIVXVNRkN5djlxZUJIdF80MDFFRHdKR21abnd2NFNsLWV5dmp0MllvdGxzaDRfTFZEenFfb016UE1OZzNxVVQ5VEoxQVMwcXRLOUZVeGJKSDZRSHhHX1hQci1nWXpzU3AxSi1XbTZEV1pqb3E0Y1g1TXlic01FcHZrdjJ4TzBqMENnNzZsWWRiekJQTHZHZnNsNzhrdUczUWc?oc=5"
+    },
+    {
      "title": "Schweiz: 2210 Asylgesuche im Oktober – Rückgang um 16 Prozent",
      "source": "imTicker",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pINFFCYmRWNV8yVjZOaE1YWnd5NS1qemlhRDdNV0JnQUc0WlNIMmdoLTd4blN0WXV2dFZWRWhwbDJVbm16M2FrOTRuS2FvWHgwRFBmejcydXNBejA3NGpnbTZNY2Z0TGt0OWFTYnhmVlBkOXVHTmpJNGdnNFZhbks2T1JFZ00?oc=5"
@@ -258,6 +223,6 @@
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 9 Google News headlines"
   }
  },
- "asOf": "2026-11-23",
- "generatedAt": "2026-11-24T07:00:03.438952+00:00"
+ "asOf": "2026-11-24",
+ "generatedAt": "2026-11-25T06:00:02.620209+00:00"
 }
