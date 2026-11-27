@@ -2,8 +2,8 @@
  "cases": {
   "eu": {
    "label": "Tengo un pasaporte de la UE",
-   "asOf": "2026-11-25",
-   "news": "El Parlamento Europeo aprobó el paquete de los Bilaterales III con una amplia mayoría de 584 votos, según informan Blick, 20 Minuten y Le Temps el 25 de noviembre. La UE dio su visto bueno a los tratados con Suiza, un paso que afecta directamente a los ciudadanos de la UE que residen o planean vivir en el país. Sin embargo, SWI swissinfo.ch señala que los tratados no entrarían en vigor antes de 2028, tras una eventual votación popular. En Suiza, la comisión directiva del Consejo Nacional se opone a exigir una mayoría de cantones (Ständemehr) para la aprobación, mientras que SRF y Watson informan de un debate sobre si el pueblo debería pronunciarse primero sobre este requisito. Estas decisiones determinarán las condiciones futuras de libre circulación y acceso al mercado para los titulares de pasaportes de la UE.",
+   "asOf": "2026-11-26",
+   "news": "El Parlamento Europeo ha aprobado el paquete de acuerdos conocido como Bilaterales III con Suiza, con 584 votos a favor, según informan SRF, Le Temps, Blick, 20 Minuten y Tages-Anzeiger. La comisión competente del Consejo Nacional suizo se opone a exigir una mayoría de cantones (Ständemehr) para la ratificación, según Watson. Los acuerdos cubren diversas áreas de cooperación entre la UE y Suiza.",
    "sources": [
     {
      "title": "Federführende Nationalratskommission gegen Ständemehr beim EU-Paket",
@@ -11,44 +11,19 @@
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMmlfU01URklrd2NJVnZBYkF0X0I2RTc1eERtUXFiWEpwQ3c4NUJFTWd4LVdpcEhpTTlxaTdLU3ZwRWNuV2JLNGtvUF92dmhfMEowMkZkTTd1X0Yxd1p1X2w4WFZuTThrVDhPOE5NZVcydTEyYjZLYXgzVWRBRTZpb2tYYTdnLWlweURXNkdOZFluRUozcE04cmdocTFqNEx6dm03eUJ0UUxjTkU?oc=5"
     },
     {
-     "title": "EU-Verträge erst 2028: Was dieser Aufschub verändert",
-     "source": "SWI swissinfo.ch",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTRkb2hpOTdveFRsdHVsY0M4cHFVSEJJbWVUOTNoN1BZOG5pdG5XVTZlT0FObXRJUjVCbE81VXVwYXpXQllUejVrWXZuRndpbVU5Z01ubXVRekZZc3ZydHp2OXg3QWZaOE5NSGEzdzZkbGZqa3c1MmQ5VHVYZ09CdjdmcWpWTUEyc0tDRElQa1hQcnVtWW9UdUZieHp5akFpYlUwNmdXcnkwRnlQUU1aWTJoNA?oc=5"
-    },
-    {
      "title": "Bilaterale III: Die EU sagt Ja zu Verträgen mit der Schweiz",
      "source": "Blick",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2E1NjBjMGxfa18tVGE4NXBOUmFyd0Q4UXp4ODVBdFdERUNjdF9oY1ZGdlU1dVJQOTJHblJOZnlyLVJIN09wRTJZelZOTEZ2ZE5pNVB0b0N2Ykw0TEhNZ3hCZzlIdHZHdWVvcjNnUVBNSHpEa2kyUS1za3N1czBqaFdlRlJZMTBoblo1aFVTX25DaklFcjBUMUh0Yw?oc=5"
     },
     {
-     "title": "EU-Vertragspaket: soll Volk zuerst über Ständemehr abstimmen?",
+     "title": "EU-Parlament stimmt Vertragspaket mit der Schweiz zu",
      "source": "SRF",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ZMeTBicEpwYXJDRUNkdktvdG5pbmVwSEcyeTJFVGM2NFRCQ0VNMjVta3I5NlUtWnhFMVlnUnc1ak5oWGc5TnJxb2syc3VJUngwd3BVbWp5YVJ2RWJRTE56S0NfbEF6cmxLZllXQzBMOVMyaC1rZHFYQ09SXzdMbEZTLTROdGFWMzY2T3VzTEM5UlN6eUFvT0NBU1RpWFR0OEh2Nl8ybU5oQThMRVpMZGpMRmE?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1g5OXZBMGpkam9PYmxJN1FoeUlTUjUxdHJDOXVvSDBLT1kwQzFzVzhST2JSbWRlVmw5bWZ3MHIwWVRkNzgteFZpekU0cldhUTNIcHVTQmhTOGhsSXd0anFiLXR0cVRJZlA3eVBEYl9XSW9XdzUzS0tXdFl2d1hId2EtQVJrXzk1WklCUFRlUk8xV21NQ0hzTGxzb1ZScEg3MDFQUFl0UQ?oc=5"
     },
     {
-     "title": "Bilaterale III: EU-Parlament sagt mit 584 Stimmen Ja zu Schweiz-Verträgen",
-     "source": "20 Minuten",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjdLUFNJYUlFaFJyVjJzcllyS0NCdDhLdDhTVGVPX0pwckNEcVBnODdiemVsamk5M3gzTVl2TG1HZnFDUHdLcHk4YzZDLWdTZE9JamlTVDRycU9FX2NMVDZ6bFZtSHFfUUppVzg1RzlRVG5Yci1Ca3lFZll5SzlDYXpqc3VzOWIzc2R4NExHYmFKaWN4b3ZpOW5lQ3dqN0dGVE12XzVuN0l2alpsUV9HdUZB?oc=5"
-    },
-    {
-     "title": "Bilaterale III: Was das EU-Paket für die Bauern bedeutet",
-     "source": "BauernZeitung",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVI3OGtaTmtncDRUWndHWXVtSHVXOUdSanRZMzZ4aUZ0dXJtUmNNR2xnd1VlMF9YaW04aWNHRVg5OHJ5RTdjelljRVpLX20zS3NjN2xMckYtbkRVVlNwbFRaaHRESzliMWpoWVVHeDBZQjVaMFZ2Q242cmsyek9ZLTVlVk0?oc=5"
-    },
-    {
-     "title": "Streit um das Ständemehr: Mitte-Präsident Pfister macht überraschenden Vorschlag",
-     "source": "Watson",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWJIMU5JR3ZRbXp5V3RhM3FjUG96MTd5LWlTSnRCTkJubjRGU0pZenQ0NVE5Y3RpWUhXcUs4OW5sS2Z5YUNZNzZEcEttRHNVWEdnTFdrc0piRTVaY3AzR28xWjNBX2VjMklDUjFySzVfQWdQNlJSUExZMEdCaFlES1EyTDRnNjdlZUg2SFZZREZjT0RhV21N?oc=5"
-    },
-    {
-     "title": "Die Bilateralen III passieren das Europäische Parlament spielend leicht – mit einem massiven Ja",
+     "title": "Bilaterale III: Das Europäische Parlament genehmigt die Abkommen mit der Schweiz",
      "source": "Le Temps",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVAzZzFSSXY0SFZyM1dOUjZHdHUyS0hvTUQzakpmLWFiQkJxdjkzRGcyQ1NBbmV2ZkF1ZGZ0ZWdRTU1yQk44d0xQV0xYOHJEazd4dDlkTE4tM2pGZDYtendzRk9yVjVhdTJkTXFFSnlNaUFjOFpxWXZCMDVmT3ZzeFZZRFQ4cGpuT2tKTHhHOHJ0Rko3MzVQZHFsVUpCUnVjVmo5QmtpNVhNVlkzMXVzeEdxbVhYLU52QlQwbTRKNXNTb0lScWc?oc=5"
-    },
-    {
-     "title": "How a 2028 vote could change the fate of the Swiss-EU treaty package",
-     "source": "SWI swissinfo.ch",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQblpLb3RrekVsdk9PM0ZGUzZ6VzNlSTYyREZ6bDl2MVZxaVpyMmJra0Q3SVFZOVotalVUcmltem9WdHh4ZFBZYWRWMXhyNzBIOFp4RUdCcnVSaU5BVnYxbGNfb1JkaU5IUU4xRDl0QldPbUpnQ0ZPUjJzbldqWFJjODdlNGtYZ0ZOTERJQ1ZPZGRzRHhmRzJuZmZ4SlJweEltQUZJdm1PNmllY2ROX2NLc3pzZFJnaXk1VnNhRHF0TQ?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa09qYjhxeTh4WHhJWmhFNFVDSkVPVEtkTTV3LWVvSTdpd1pfYmpjaWFXZTU3dldtalI3TTJIZEpLa01xenFQdTY0Y283QUJhcGE5cFp5Z2c4WjhrZDJHNVZVeFBMNnF3aC1YXzNiajAwZzQ0OTZqLWJkRTdheTBBN3FYQ0pMaVJpaGxGZlpoMEdIT0JlR3g4MmxVNGYwdEkxajJyeUNuY1pOandHbXZWejVFOA?oc=5"
     },
     {
      "title": "«Ich bin sehr glücklich. Es ist ein historischer Tag», sagt der Franzose nach dem Ja zu den Bilateralen III",
@@ -56,32 +31,57 @@
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODM0ZGg3V3VfRnZuUHJ4b0hzUEQ2WWdiMGlKWjU5dkJubU55SG41UE1jMmpyaTl0T3E1R3VWMGlrUk4yaTlHQmRZLTZGT2d2YzZONUowcFMyZXJYVW14VDZRallkT2NkOVctd296LVM2NFAtUURpSlJKaERJWGhzcUEyZnB2V2ZNSllHeEEyYW1oc1hNX0FVNQ?oc=5"
     },
     {
-     "title": "Britain and Brussels Should Both Aim Higher This Time",
-     "source": "Bloomberg",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTQ1SFJ2Z1pvMEpxb0dNbnNid2hwaHdCQWJyWEl5dTB2REVKR08yUmVfelNiNGktUTlOZGswRlpPbWtZNUtIejNBY1RsWmVUU21NYlcwTzV4Z1lqc0FNUS1JUzA1TUlNOVBkT3dXc2R5ZDN1NDdiUklHWHNtd3oxWkRoN0dUNnZIazZOUzhwX1o0dE9uVG4tem9EY19TS0dQR1FlVURpWHFzSVkyem1fZw?oc=5"
+     "title": "Streit um das Ständemehr: Mitte-Präsident Pfister macht überraschenden Vorschlag",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWJIMU5JR3ZRbXp5V3RhM3FjUG96MTd5LWlTSnRCTkJubjRGU0pZenQ0NVE5Y3RpWUhXcUs4OW5sS2Z5YUNZNzZEcEttRHNVWEdnTFdrc0piRTVaY3AzR28xWjNBX2VjMklDUjFySzVfQWdQNlJSUExZMEdCaFlES1EyTDRnNjdlZUg2SFZZREZjT0RhV21N?oc=5"
+    },
+    {
+     "title": "Bilaterale III: EU-Parlament sagt mit 584 Stimmen Ja zu Schweiz-Verträgen",
+     "source": "20 Minuten",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjdLUFNJYUlFaFJyVjJzcllyS0NCdDhLdDhTVGVPX0pwckNEcVBnODdiemVsamk5M3gzTVl2TG1HZnFDUHdLcHk4YzZDLWdTZE9JamlTVDRycU9FX2NMVDZ6bFZtSHFfUUppVzg1RzlRVG5Yci1Ca3lFZll5SzlDYXpqc3VzOWIzc2R4NExHYmFKaWN4b3ZpOW5lQ3dqN0dGVE12XzVuN0l2alpsUV9HdUZB?oc=5"
+    },
+    {
+     "title": "EU-Vertragspaket: soll Volk zuerst über Ständemehr abstimmen?",
+     "source": "SRF",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3ZMeTBicEpwYXJDRUNkdktvdG5pbmVwSEcyeTJFVGM2NFRCQ0VNMjVta3I5NlUtWnhFMVlnUnc1ak5oWGc5TnJxb2syc3VJUngwd3BVbWp5YVJ2RWJRTE56S0NfbEF6cmxLZllXQzBMOVMyaC1rZHFYQ09SXzdMbEZTLTROdGFWMzY2T3VzTEM5UlN6eUFvT0NBU1RpWFR0OEh2Nl8ybU5oQThMRVpMZGpMRmE?oc=5"
     },
     {
      "title": "Auch bei einem Nein zu den Bilateralen III hat die Schweiz Trümpfe in der Hand",
      "source": "Aargauer Zeitung",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3VXQ3doZi1MZzVpYmxPallGZllzOHVHMnlyMEduWGVhWWF5M0N4RFhtaUZvUDI0VDRfYjZ6cng0R3ItbnZkalNmeTdqSzJseFFxczNzbE9vMENJb3dObGs5dmFrRE0zVmhhOHBMU2NfcVFuWWt3Y1JweGVNbjVhV04ybjBQY0xwYVJkVUUtdU1DNjdOVkxKTkZtWERWME81RUlJQUVmUjJWOTNwQlR1NXFIdXg4SDhPOVVr?oc=5"
+    },
+    {
+     "title": "«Erhebliche Nachteile»: Wieso EU-Gegner Thierry Burkart trotzdem für ein Stromabkommen wirbt",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHNmZTYyMENCQlQyaEh3MzZmM1A5ZDN0aWlrT1JyZzlESnFDdGh4Zk1vd2x1cTN0T2k4UmZLVHZsR2dOdTdsdTBNS0h5cEpSTy1ieDJDbmtweUUwazhXc2EtckNrMGZJazB0YTNFQkxzdUtqMmItcmpudVhTeTJobnJZZEtqQkpFUkx6Z213YVRNTm5kYTJYdUlJTGdLbXhKTTBXZWNfdmtiVm5oMzRIcHZ3?oc=5"
+    },
+    {
+     "title": "«Ohne Stromabkommen wird es deutlich teurer», warnt der Swissgrid-Chef in Aarau",
+     "source": "Aargauer Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRFBCSnpGbkJQeGViS0YxLWtnRUZuTVJaWXcwLUE4cExlRFJZcVF6czdBNmthcDVwSDQwR0RYV1RrRTYwZlQ1LUxuXzdNNy1NYk9yWG5mT1VaZDlTR3R5ck1lQ1M2Y3pTTUlTaWhGd0RTd3JEZEpXX1NTYnAzSjdjZTdaM0xBRmFzU203WGIxNHBXOGhVckljcEV3WldOa1FNaDdOUWhkU2JJcFVmRUNhdGVIY01PT25vcnN2TTE3SGRVcVg4TVE?oc=5"
+    },
+    {
+     "title": "Neue EU-Verträge: Grenzgänger kosten die Schweiz bis zu 900 Millionen Franken mehr",
+     "source": "Neue Zürcher Zeitung",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHo4VjM4aVJmOUpfRTJyY0hpcktlSmdKUnJkVEhfTy13UG5RZWlHZElyekMzakt6eGdRcHJiZHd6ZUU0bmE5bG9uanBZOUZ1RThWcUJKMUxPbEozLTVtajdBYy1FbUo1UVdHbGJEWnFnbjE4aG9YMnllZ3BQdVhBa0dtRTVZcE1FN2o1aGxoSEdDQ2p0TUtBd3A0T2w3cnUxelZEUVhSdlY5bVdtNFJOSGJYeWYxM2FHSFhVLTFrZw?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "student": {
    "label": "Podría pagar para ser estudiante en Suiza",
-   "asOf": "2026-11-25",
-   "news": "No hay novedades relevantes para este caso en los últimos días.",
+   "asOf": "2026-11-26",
+   "news": "University World News publicó un artículo sobre cómo atraer y retener a estudiantes internacionales «genuinos», mientras que The Local Switzerland informó sobre un nuevo informe internacional que analiza la inmigración en Suiza. Ambos medios abordan temas relacionados con la movilidad estudiantil y las políticas migratorias suizas.",
    "sources": [
     {
-     "title": "Bundesrichter kippt Visabeschränkungen für Studierende und Journalisten, Trump-Regierung legt Berufung ein",
-     "source": "Le Temps",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZjJVR0UzMEhCem1rLUt0dVVIejR1czRGdmpybHExSWdPcVI5a3NLdVFEdUF6QTBXUDRpbnJpYjhVQzBTb0hTaFNELXlEQ2ljX1ZvOUVaU3MzQ0pHUnRidFhnQ3pxSXBNV2dpejJYQTRaQi04NFQ2WFhmZUNoQTJwWHg3cFpSNmJ2YThYLUxPcTZXTjRMWTU0dWtCN1F3SWxocGVkai1xemJGRXllQ0dKVDBuTTZMbWtYcFRZZFlGYl9FVDRoUTJaQ0pqLXJqak5fM3c?oc=5"
+     "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+     "source": "BBC",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abkk0V2VWNThMdjNsdG1OMWYteGRuZWpJSmRBeE05TkVScDRxWHpsOTBBbldicVRxVnFWWjV6WkFBTjdZcUQwMVZoMHl5d1E4X0RyVFJIeEh0UQ?oc=5"
     },
     {
-     "title": "Federal judge strikes down visa limits for students and journalists; Trump administration appeals",
-     "source": "Le Temps",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1Z2WGpMa1ZISm42R29pNWRMQkIxRWlaWVA0SzN5aG9qbkNnVjBLMUlPQ2xrYm9aenRXWXNIX2owanFfVWl2dXFNdi1mczN0RVdXRXNxb3JKTDUzWUVDMHV3SFFuOUdoRW5ELUxfUzJ0UW5ETGNFc0lITjF0akcyenlkNnd3eF9DOEZXQm53U1VvTk9ETjc4YkdjSHRmU1RlT0ROXzFuSWQwVTRNUkNPUmN5UVdUbE9JR2FCRXJhUnNWOFJmQ3lj?oc=5"
+     "title": "Swiss entry visa for alleged mastermind of genocide in Rwanda was ‘non-compliant’: report",
+     "source": "SWI swissinfo.ch",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUUt4cENUV3JQNzJTYTJIdUs0ejdsYWFYdF9JLTI2Q1pkMGpZRk0xUnM5aFExcUFqbFVOOGZnNTdmUklWZXdhSnhtRV9uZ09TWUhYcDVqcUNxUElpd21tdTlrSkFTd2Y3aVVsTDR5Y19NNHZvb09QdU15UUN1a2IwR3FoY29wU3BsajJVN2FhOWpzYWdvUWNaUXhDd0hhNW5aNklDSlZsQk0zSklNSDh1RjROVzVSb2ZsZWpPVFNza2JRcWs2cDJCVDVENllobExjcnYyQ2F3?oc=5"
     },
     {
      "title": "How to attract and keep ‘genuine’ international students",
@@ -94,19 +94,29 @@
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWxXamZaTmRkTWlEXy02RC10NFBvV0VZdmtwN2puVHlPOTc0WVdnTHZ3dkVXQnFrNldiVzdfM21nSjBZSm43UFlUNVpyQk5ZalNVcXRWakZ4YU1DMDJoV3FpS1B2bVVTdHFCZ2ZONE1xSGV5TG9haEU4WVE5TXR0UEozR0VXMjJHSzdQMGtNYmFjMFN0Z1RHS2NDbjJyLXJpeGlBXzFxQW94d3prQzduUjJR0gG0AUFVX3lxTFBfQWxhWjJkOVVwUDVhV3lMajd0Nk1LU0t2NTZtOUQ2WUtXenF3SmRCNjQ2SUtXZWVMYm1DSEZ1ZTRLQXpPQUk4d1pYVDlrb2gweTBiZDRzRW1KZDVoX09rUGpFcGlYTi1vUlJZTy1WS3htZXRfNUJ3cjRmZVNnSEgwamRzV3Zsc2huS0dzcDkwZ21UT1VZNVVNZDE4aUduQVh2dkZvMGJRUnc0UUxUZGp2dVFjcg?oc=5"
     },
     {
+     "title": "Minimum Salary Changes Announced",
+     "source": "Fragomen",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
+    },
+    {
+     "title": "US court strikes down rule that would have ended Duration of Status (D/S) for international students",
+     "source": "ICEF Monitor",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYldpV2ZCbEd5eTE2bXA5OEw4OWRsUHZQV0NoX1ZJYkExX3l1OGlVWHRObi1FbVR0cVB6TWtZNDlmbW1oU2pGamZHX013NFBoWXZpUkxYaFByR0pZeU13blFHZjYwbmJ4RjJvTm8wUmJiYm9IXzVuUURuV3RCSDFxM3J3ak9TVFpDeE5vVGMtWDZRU0NFanBTSkdxY2ZUX1BUS29QR0dXbzdJUEdiU2wwdjNPRFlqRUQtWFR2ekpCUnIzMkR3MVNhMHh5ZHJnRmtaVXZyMkJFRWg0anJ2Z0pz?oc=5"
+    },
+    {
      "title": "What a new international report tells us about immigration in Switzerland",
      "source": "The Local Switzerland",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcF9DckwzdVNJT05CZF9PZVdWcUljdkRDX0ZWY2VrQlZXSGdWX29MOW9XcldGTThSOEhSQ0Fxbl9FZnc5MGlBQWxhZHdYNFN0TV80UlM2NEJFbFFIcVU5VkthNURzVVFtVzFfbU9EdEVrMUlIY3kyV185cW1QSzAwTGlOdVZfTDhMT3NTSXpsSE01aUtlOUtHd0NicU1na0FzOS1HeEJoeUM3dw?oc=5"
     },
     {
-     "title": "U.S. Court Overturns Visa Rules for Students and Journalists",
-     "source": "blue News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd1RzZ0xnWEFFb3dsOFg5bGptM0ZjUGlNWEc3Z0t5QkZBTDBVQW1qQUpnMjhyMi1iRGRlQXhkTDBNeHRSSnh6UW43S3ltNlc2Y21GYnVaTmlwZ2NWM0JiNU8xcjJYVXB3SzJMX3V5LVdIeEtyMzVleEoxVFB1V0FzVXZfUDFHMUFsaTFOZkc4SWlIbURfa2Nzc21wXzhvaUtBZ2pNSA?oc=5"
+     "title": "UK Visa Applications 2026: Study and Seasonal Work Trends",
+     "source": "Y-Axis Overseas Careers",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNGZuY3RBTE9LaGNHaklOMlJRRm03bG0wOGV2WDFBQW9ZbVE3RTY5YlZoelROM01BRUJTLWpkOWRWdS1jSmNzY09tWFFPQ2ktOUhYcVlaOTA4WnVjMHVzZ3J5SWJTZDVvS0ZpbjFIdGw5R2pYWEFTZ3JVNWJtWkNrRno2czA4ODlndE9uY0hEc0xnRW5xR2tBWHV3Z1AyWVlQN0lyVDlWLWI4RHZlWHBYTDh2WlRSeVNMT1M4bXprWkdaM1RabWQ4UVhXVzNKYWhfcXNTZA?oc=5"
     },
     {
-     "title": "Kenyan students get relief as US court blocks Trump’s tougher visa rules amid declining foreign enrolment",
-     "source": "Education News",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSG5KeDlvZ0xJQTNkdEdzSWFDX2lhQjhnUWxva3g4Uk9hRVNGUlBkWnR4aWIzMnhiVHg4UjdJQ25KT0gzM0ozTHFzSEx2UENNYm1mYV91WXpISkY5X2k1UmlTRmpCMmpGRDdYZE5xaHhCVGFSU2tiTEJLMGxBYkNCOXhyOUxzVUN3Z3d1VHJEc3lYaWQyX2hwVXNzSXVFaDV5YUtuS3VXX1Vrd1p0ZTFqaWRxMFFMTGQ4MnBpeGp2cjR3YXFNWThENEs3dDVJcThocUww?oc=5"
+     "title": "Top 10 Easiest European Countries to Get Citizenship",
+     "source": "Get Golden Visa",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XNUg4MVBRSG53MHAwcUo1d3JZVHVKVDVkaFR3ZHFrcU1BX1JJMVRhVlVraHdMLTVaRkZUdEZlZlVFS2c1dEpvckNwZHRyenhpZmQ4OGlPLTRFSzIzNGswaw?oc=5"
     },
     {
      "title": "The Mangaluru-born woman helping Geneva host the World Championship",
@@ -114,37 +124,37 @@
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcFk3U2x5RUxjN3Vaajk4LXhjMFBGRjVHZm81VExYTVlmZGZ0enBIcjc4YjJqTVNKTGJPLU85RFNtTl9YRVJhSTB5amIycUp3QTZOdjJCRjNLSGwxMVoyQ2pDNU1RTE1DbDFqUUZUWVZXbmhPbWZ3amJicjZEOTVZV3ZqN2FaTWVBUHNISjNZYUJ0dzA5QW9POXBZU0tkaWJySWJBTW5qZEl1TjYxdDVLajRqVWrSAbsBQVVfeXFMTkJTY1lqUVNqaFhlWHNhMjlEOVVXOVpNRTgxTVVMd2JfVGZmNF9kUmgxc0l5cUJQRGFfMzBuZk5GSmNaUktQeDdwOWhLb0s4WWVpWmNUZ3RrblZFWGZQVDJkeFFPakZ6eDhSVDMtY245dDBaUEdYZTgyYzAyVjg2UHlBNEdkMXpENGVnRUstZnNTRFlVcWNzVUNaRjBPQi16TnRVTkdGWVo5UHR6cGRzRFE0dGV5UzFoSllBdw?oc=5"
     },
     {
-     "title": "Australia Introduces New Rules for Working Holiday Visa from March 2027. Check Your Eligibility!",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZkFTNlZUb1lpTmlTR2w0VG1SODJqOG9wd01xdkxTQ0NFTDJXSFl5ZDN3N1I2dEJNZHhIOFdVM25xa09Yd1I5Y3lsTDhUN1hrOVd5cy00dWNWd2dvUFNRVW95Y05pOXNVeGdXWjR0a1JIRjV4cG9waWg1bTFGMFU?oc=5"
+     "title": "Kenyan students get relief as US court blocks Trump’s tougher visa rules amid declining foreign enrolment",
+     "source": "Education News",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSG5KeDlvZ0xJQTNkdEdzSWFDX2lhQjhnUWxva3g4Uk9hRVNGUlBkWnR4aWIzMnhiVHg4UjdJQ25KT0gzM0ozTHFzSEx2UENNYm1mYV91WXpISkY5X2k1UmlTRmpCMmpGRDdYZE5xaHhCVGFSU2tiTEJLMGxBYkNCOXhyOUxzVUN3Z3d1VHJEc3lYaWQyX2hwVXNzSXVFaDV5YUtuS3VXX1Vrd1p0ZTFqaWRxMFFMTGQ4MnBpeGp2cjR3YXFNWThENEs3dDVJcThocUww?oc=5"
     },
     {
-     "title": "One Future Conference Switzerland 2027: 100 Fully and Partially Funded Opportunities in Geneva for Applicants Worldwide",
-     "source": "Global South Opportunities",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqUFFFdlBsQ2dVdWw2dndCOU5fbkVUdVQyNlc2T2VwVTIwbzR1NnVPa3BVQ05IeFhwcGZ4SU1jMzFWWFNuUXE1a2oxSVl3Q3hKZktoUm1PNVdTTDVrVFh2bDFqMjVTV2FHWFMw?oc=5"
-    },
-    {
-     "title": "India Emerges 3rd-Largest Schengen Visa Market, Switzerland Top Destination; Slovakia, Greece Among Highest Re",
-     "source": "Times Now",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWEFUNmtyRUhzSnE0Ry1kWkFHRWRPekJ3LW4yWmZNVUU2LU15ZTNwazVXa0tMVjFJUHhya0I3dWY3UUZEM2pqQklzdzdCNkpPWF9CcW9NRXBaV1pKWnV5dXhXSXB6d01YOENpZHJGNjhtanRwQmxwbjF3S2NqXzB4cVAydTNzdlRMcmRZNU5tSVFMT1I5WkhWb3JjaTNRajlrbEJCYjJiZFJsMllURWlfR19YMVpodG41UWJBVk5qVTEwT1ROOHNZVUtVV1NrV3oxcU5vcUlZTVZ4ZklGSjhEOFEzQjFYb1g2SVNGcjNuQ0xqTy1EM1FvQ0I4QVlGZWVBY3JEakZyeDZQdFZ0R2Nj0gGUAkFVX3lxTE5hckZGY2hDUDF2SENJekZKQ183SkIxT3draWhXN1J2YklsbkJVVTJsclFfNU1oZzdMektGdzdzeEs4bnh5dDVYYncxLXFUMFpXdVhHU194aWI3WEdNWFJmMTltV3ZMSW15MXhUWTJJVDhuUWZNWE5CNk9PdXlzZ21Zc3ZnOUpiSGdicnZDdC1XenV2dG1NdDNsOExKYm4zajhMWTZFQ0ZtSnRhcVcxLUJwbldXR0EwcThGenpkTGVxbEd0TjQ4S1Jfa0VOMWN3WWc4ZDQ0RXEycm5VREhBTDdLeDU2MVppQ3ZCUU9WaC05WHNQZVJrdk9VckRtNm5Nb1Z0OXV1cnQ2MXNSYkRMY3BnMUNCcA?oc=5"
-    },
-    {
-     "title": "1.15 million applications, 1.8 lakh rejections: What Schengen visa data reveals about Indian travellers",
-     "source": "The Economic Times",
-     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY2tFR28yWUlrMnNYWUZUejU3c2c1OVpTU09jV3hmTkhfUzhqTzdWWG9lSl9UdzhINGFraG9kbnotN2oxVE9lQkFxLVp6VlVneUs3RzN2dTV5TkZHTmVjSU5IdWNQakx6Z05PRWVJbkpyUkpsN3NBaEd0UkR5X3M2dGxDeW1rdVI0WkExdVIzWXU5dnFpUEZYdHV4Zy1kam9MQjRWQ2pNRzllQTZmMnAxa0FlTHNKS21LUzZhYi1JUWdIM0plRFhfZDktWXBZQlFDWUpDMjRzc2ZSSl9iMHc1d25nb1h5Tkljd2FxVllGUlRCMXFjSnFRWjlaVFhuNmlXWlR4Q9IBigJBVV95cUxNV1J1MWVKNmFOWU5ETjlvVWx3X0Z4bVJPdmthMDVvbXo2MVdYYnFPSzgtU0lGTDgwUk91SDRBM2NkNWpNeFQ0bmRkczJkTXd5T0c2Rk1oOVBlX2xRSmRiZzlsd010R0FLV0ZYOUlvRFZJcHNfQVgwN2FiMW5yZm5URV8xMWtKN2ZFLXRxMmdwOTAxektuclQ2Q3FaekMzRlBJaTVSZ3IzQkJ3cG9pSjlhQjdBSTE3czdyd3JXb1I2emY0NlZmR3piWTM5R21fRTk4MThISG5mcXdlaXg0dUpqWU43S3lZMkFuY21HYzVHc1FxcUN4OE1PemlXRUFFNWd0S012OUdVREduQQ?oc=5"
+     "title": "Top 10 Countries to Immigrate from India in 2026",
+     "source": "Shiksha.com",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanlvOFc4aTlyeDFPZll4WE5KYUxkRlN6Qjd1OFNoWW9DRzFNN2ZTeUdwWXpkUFF6Q0FONTk2bERMd3R5UHVHYzg0bjZUVnR6bDJrTjZJRTREaXdnT3hLNl84OTZZemxCZ1g3aUVqZ2VGbEx2a0p6U1ZyNTluclE2M3hWOG9tZFFlSmlfeDI2eGNLVWVHVXdDNg?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "noeu": {
    "label": "No tengo pasaporte de la UE",
-   "asOf": "2026-11-25",
-   "news": "Según Erickson Immigration Group y The Local Switzerland, ambas con informaciones del 25 de noviembre, Suiza mantendrá los contingentes de permisos de trabajo para 2027 destinados a nacionales de terceros países. The Local Switzerland detalla que se han revelado las cuotas concretas para el próximo año, mientras que Erickson Immigration Group confirma que los límites permanecen sin cambios respecto al período anterior. Estas disposiciones afectan directamente a quienes no poseen pasaporte de la UE y buscan residir en Suiza por motivos laborales.",
+   "asOf": "2026-11-26",
+   "news": "Según Newland Chase y Erickson Immigration Group, Suiza mantendrá en 2027 los actuales contingentes de permisos de trabajo para nacionales de terceros países. The Local Switzerland detalla que las cuotas para ciudadanos no comunitarios permanecerán sin cambios, mientras que Nau confirma que los contingentes para profesionales de terceros Estados se mantienen invariables. Las medidas afectan a quienes no poseen pasaporte de la UE y buscan residir o trabajar en Suiza bajo el régimen de cupos anuales.",
    "sources": [
     {
-     "title": "Vorfälle beim Asylzentrum Altstätten: Jetzt nennt die St.Galler Regierung Zahlen",
-     "source": "Aargauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzNaUEZ0UHZCSW1ldEtGaC1iaGhzTTNpNUk1UjRzVUJWcVJ0UnloMVp2ZE94TEpOV2lMY1lFX1MybjJmcTN2YTFoeTFTakVBNVY2dV9wV0FoWDlNRmpPNGNFVDEyb3RnV2ZqZnNWZHZGeU9MYmlrNzVnYnNjNkU4bS1BTi1xdHFIYnZMN1Jab0pnak1SUW04SUhqSWFWTlJQVGxVRy1HNEZFZklIT2FXMnRsZDROWThRMzlJX2M4cTZYR0Y2ejdOcS1ScUhNSmEyeHYzSjFTRzZHb2xUQnktQlBYUWFJc00?oc=5"
+     "title": "Schweiz führt erste Asylsuchende nach Italien zurück",
+     "source": "SRF",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR19qMGtKdmtoYU1ZMlRtLThaYVlEcWV2UDcwY2JYdnFvc19UdE4wbUtKUXJZU1hZdGduOFR5WUxJQkRpa1hmQVJ6ZTZlSHoyVHdqNnEzTWRLNVExVFpHaF90V1V4WG1UdWo4Vk1zMFctSW9pMTVrbjQ5MnFvQUpVMlF5YkpfZk8tVHhGb1ljVXY1c1VRNU9LbGZLMDRHUGpwWUZ5TG9OY1A5cTZHOHR2cTZPdEE?oc=5"
+    },
+    {
+     "title": "Völkermordes in Ruanda: Bundesrat räumt Versäumnisse im Fall Kabuga ein",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lWUldhYUFjT01yb2I2cUJZVHFPUlVLM1VBUloxdi1DZHpORGFNcjJjb2Nmek9wakx1U2pzQy1iSnExeEU5MHZ2WXZJV1FLT3ZFTE1wNlV5ZXF6ZlFFUm1NRXZCdWlYNzhib1h0emVIaXN5X0UzRFQ5YUlHenJtVzR2dTk1T1pCaDF0U1ZXSTlNWnZCRGNWZmF1VUZaTGI4MGZoMzVaeHZsSk81REZ2TG9pelBIYVZTc2FXV21meUFQN3dPVlE?oc=5"
+    },
+    {
+     "title": "Switzerland to Keep Current Quotas for Third-Country Nationals in 2027",
+     "source": "Newland Chase",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ19zdk9sRHRCNnpVTFl4cl9VaGhtQ25XUUJ2U1BFUGRWampVMEdDX1R5c0YybnBENkVuWjh5blR5WktQVEVMaHFlRGZDTXV5dUpIcHBhZlBKbi04NEVWei1TU2dnWGhTbm1Odll5Qi1icjJod280bm94cE5sblR2LXJfX0MxTDVWQ3R6c1N6UUcyNmdYbHBtT0pCOTA?oc=5"
     },
     {
      "title": "Switzerland Maintains Work Permit Quotas for 2027",
@@ -162,11 +172,6 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkJ3NnlQWnJTQzdsNXc4eXR4QnRDMThiNVExZFBsUERTSlF5TWY3a0U2V3J4MDJ5LVkyZGhTb3V0ZXlyZTgtd2NPTWRpVmdrOTNJSnlTYzhNQzFhalYwNjBmLVRwRjU4UWJYM3NUZ3ZBUUFaN29PX3E5cWltYXN0RExGSjlTQTFnOW9INjFqdFphdHpJWFZlakhLekVMUDdk?oc=5"
     },
     {
-     "title": "CONVINUS Global Mobility Alert 43.2026",
-     "source": "Legal 500",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONHo0WlkyYjh6QTZXVDUtM3pPMnQ1YnZIT1RncndIeUkzY1diU2VLTFNmeTF1R2d6Zi1zVjBlbXNTdWlxdFB6amlleTl5cXI4ODBrNzczbmVrVzVRa0IxazFkM3d3TTJfOGx3Q2lPampZRV95NE4yOHk1NG5sYVAtUmlZTERadk1sa1FjTUZuYVI5OXZ2bjFyZFZ3?oc=5"
-    },
-    {
      "title": "Minimum Salary Changes Announced",
      "source": "Fragomen",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80UnB1R0JGS05lRXlqSTlJVEIzZnhwc3AxWTlwaU8yVERVM0UzV2s0WTRlVnVTLXVUazVfdHB1Yi1UWS1TZloyTWVFSFJxaTl4bXQ0S3RwX3VpMXBEU0xydlpYOUN3YW5wbHV4dHE5NkExZm9IN1ZrZTJfdw?oc=5"
@@ -177,9 +182,9 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMG15aHQ5S09KUlhSY0FmMEZkVk5DalNkYm5DLUJ4dDZDZk5Xd09NRlB3YjA0eVN4VVRDWWU0MFVlM0Z5R0plbWh3bEJvVUlTS25zdDJLaUhLZzdZaFhhemJKVGxrazhSdTBLem1QQ3lOS2YxZ0F1eHFlc2NMTnNnV3ZKQ290ZUlhWllHbzEwM1k2QlB0bDZubXNhSFZjalct?oc=5"
     },
     {
-     "title": "Highest paying job opportunities in Greece for Indians",
-     "source": "Y-Axis Overseas Careers",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfeDdGbWVYdlFwOVhHdDIwTTdOZUNfZUhPaDg1NEVjTTlCb2dvMjJDR29mMTQ0YUFjbU5LUjFSZVNESGgwNm5Xa1NrOVljemdPd1Y0RXExLTg2X1RiNTdaTkl1Um8tWmpHcHdtdXdwVER1ZU5BN2c?oc=5"
+     "title": "Today in Switzerland: A roundup of the latest news on Thursday",
+     "source": "The Local Switzerland",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmx0R1lxYmJzWG4zclFLMTl0SmxWUGlIdVJ6U1FsZ3hvNm0wOS1tbG1yekZlVWN3SHBlYVNndTlPbXU4QjQ0d2c0LVdCWWhaaWMxUmFXYnNmYlZCQkItX2hxT0l2TGplMjFlWjRJLXgtUmZMdmhWdGtfQzBNeF9vWWQxOWhWZ0xZb2VkclVZWVlyQ2tJeHBhbTlHUm9wcWc?oc=5"
     },
     {
      "title": "Arms exports at the heart of Switzerland's uncertain referendum",
@@ -192,27 +197,27 @@
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkdWQmRXekN1LWRuYjJacGlqSHk1UUNKcHlLOS1SVE82VUhOYVcyNnlOaVZ5bHM2V3lHZ05HUy1pbzktZzc1UUpOamR3VmM4Mm80NWxwRnlFSUlEdFNxNUJWNVVSbE02U3lvNDJhc3V2bzVBQmJWYS02dTR0b0E4SzR5WThkUVltRVROWnpQRkY4RThSUHlXU1JObWlkaC1PWFg5dDYwX1c2YnlM0gGyAUFVX3lxTE9DR29WVFhtTmdTQVRjVXdZSjdMRm9fTWcxejN1c0ZYLThvSGdjM0x5WWdORlpYeFhVb0RTRDhDOFB1QXBpZU5NZm0xNkdrSDdmSnhoY2hDSDBQTThvNDdsc2dEQTRNekZ2dVNxcU95VlhhT1VyTFB6OHVuNnVqd3JLblh6UjYyYmNWZm0zWnBZRjFWa0d4OEpTLWd1UFkzU0VaUDIzZ0FsMUtUUmFFT2RhbHc?oc=5"
     },
     {
-     "title": "Asylstopp für Nordafrikaner: Abfuhr für SVP-Forderung in St. Gallen",
+     "title": "Kontingente für Fachleute aus Drittstaaten bleiben 2027 unverändert",
      "source": "Nau",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkwySHh3a1dwd05mVUtWMWJtNTF1V1ZGS3pNb0xNR1paSkxsVzU2ejY2QlYxTmt6QVhzMWhab0xmVWoxSGpjd190a0RhSVZJbHViSXVRQ2tLb24zU1ppdnp5ZlZQbEM4LThENm1GSUZGbzBEem0zUEw1ZTBycWUxYUQ1V3RsMDR0RnRUTFBUSFU4MFdSLWg0OUhqYlRQOC12MnNVdTV1akx0QUh6cWZB?oc=5"
-    },
-    {
-     "title": "Stoppt die Ausschaffung von Dilan Pınar: Schutz und Aufenthaltsrecht statt Lebensgefahr!",
-     "source": "ACT by Campax",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNnpXdkZvMDVBeVBYUmJ6d2pFNGhudWZjV2xtN3RhcjZoamhXRUwyY2J2UXk0aktFWHFaTk5TWkxQbDlvcW5ZN0hpNlBoZVpaWEl6VlhpVjBTc1p2MTFhanBUR1hONXQ3bTNmaUxyc3hnNEhXMzlSejJRLUFteXhFNjR4WHJQMG9XQXFfeHpvbTNwRWF3cnhEYTNCWVRhSE1Sb09VbVIydWRGcHhQajJuMGg4akhGTi1oYW9n?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaG4xY0NZT0lhdlV3NU1WdFhnQ2Z0MDJhZ0dwYWlfRkhtZDFnME5mbWNtMU5hZkV3VUR4anQ2dExGYUZudmpBQ3Y0TktxYkZuVGhjRVFtblVXLVNTUUNVczVmWEpSNjZoTnMwWWRHNG8tSWlMQVJqTllBaVdqNllLbWM5Sk8xOWN0SkhaMzVxS3VYOFJydGstOHhoRkFpZHZBbTRnQkxTRzlZYk5I?oc=5"
     }
    ],
    "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 12 Google News headlines"
   },
   "married": {
    "label": "Estoy casado/a con un/a suizo/a y vivimos fuera de Suiza",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "news": "No hay novedades relevantes para este caso en los últimos días.",
    "sources": [
     {
-     "title": "Vorfälle beim Asylzentrum Altstätten: Jetzt nennt die St.Galler Regierung Zahlen",
-     "source": "Aargauer Zeitung",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVzNaUEZ0UHZCSW1ldEtGaC1iaGhzTTNpNUk1UjRzVUJWcVJ0UnloMVp2ZE94TEpOV2lMY1lFX1MybjJmcTN2YTFoeTFTakVBNVY2dV9wV0FoWDlNRmpPNGNFVDEyb3RnV2ZqZnNWZHZGeU9MYmlrNzVnYnNjNkU4bS1BTi1xdHFIYnZMN1Jab0pnak1SUW04SUhqSWFWTlJQVGxVRy1HNEZFZklIT2FXMnRsZDROWThRMzlJX2M4cTZYR0Y2ejdOcS1ScUhNSmEyeHYzSjFTRzZHb2xUQnktQlBYUWFJc00?oc=5"
+     "title": "Schweiz führt erste Asylsuchende nach Italien zurück",
+     "source": "SRF",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR19qMGtKdmtoYU1ZMlRtLThaYVlEcWV2UDcwY2JYdnFvc19UdE4wbUtKUXJZU1hZdGduOFR5WUxJQkRpa1hmQVJ6ZTZlSHoyVHdqNnEzTWRLNVExVFpHaF90V1V4WG1UdWo4Vk1zMFctSW9pMTVrbjQ5MnFvQUpVMlF5YkpfZk8tVHhGb1ljVXY1c1VRNU9LbGZLMDRHUGpwWUZ5TG9OY1A5cTZHOHR2cTZPdEE?oc=5"
+    },
+    {
+     "title": "Völkermordes in Ruanda: Bundesrat räumt Versäumnisse im Fall Kabuga ein",
+     "source": "Watson",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1lWUldhYUFjT01yb2I2cUJZVHFPUlVLM1VBUloxdi1DZHpORGFNcjJjb2Nmek9wakx1U2pzQy1iSnExeEU5MHZ2WXZJV1FLT3ZFTE1wNlV5ZXF6ZlFFUm1NRXZCdWlYNzhib1h0emVIaXN5X0UzRFQ5YUlHenJtVzR2dTk1T1pCaDF0U1ZXSTlNWnZCRGNWZmF1VUZaTGI4MGZoMzVaeHZsSk81REZ2TG9pelBIYVZTc2FXV21meUFQN3dPVlE?oc=5"
     },
     {
      "title": "Asylstopp für Nordafrikaner: Abfuhr für SVP-Forderung in St. Gallen",
@@ -230,9 +235,14 @@
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQR2w1Um03NTlWT0pXMXd1TjRURkdJeGowUHRiRTZ1bTFuWGk5bUczam9xbEJpYk4xWVA1TnVwVndzQXFhTHZ1VEpQcm1GclQxUTFYbFNXSlU3S21wWEhxQmVsVXJMV3h5dTRtNmQzMFBDLUhlZ1J5WlBIenVtZE5aWHNDMG1BTVl6d185c2ZfLWJtUGZKLTUtckt0dlRiLS1NUHJEUk1yNFFqUllxNUpZUnA3REFzdWw0OGNsM3FrQ2owN1k2TVNLcFg2bGQtcEs2dHFTb21raXRrTHJX?oc=5"
     },
     {
-     "title": "Nationale Kommission rügt die Bundesasylzentren in der Nordwestschweiz",
-     "source": "bz Basel",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1lKWFgzWVhoLTJ6VUFFS2ZYMTJ5RHA0QjdfcXpNWnk4UU1WaXNyektJTDB2LVh0WEtRTFNTLXdsYkpfZ05qNWhUakFnZlVLcW5WMzFoejhVMFBjeVRHZ3ZJV0dNN1hndnhOUlJuT3c2Ulo2Y29wUFlPZ0d2ZUt3dmJ6ZlBxb1A1eDZkM3JXRTZOdHNLLTBOdWwzbGFHalRXMWp4b3pQb0dmdGlJcmlVM2VnNA?oc=5"
+     "title": "Vorfälle rund um das Asylzentrum in Altstätten: Jetzt nennt die St.Galler Regierung Zahlen (Abo)",
+     "source": "Vaterland online",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2FZRTFBMnlrYzBzOEdieVh2ZzY4Z01PeEpTbkNrN3Z6eS14b0ZvNzg5Y002SFpfU194RFFmU1VxYkJISTN0SXBZS1VQVlpzcXpFVVB5QW9MbTZiNWZiZUVIWTNNMG13YTExTU9RQzJfaXNKZ3NMMU9mYTY1QllhN3hndFlDa3E3c3JZa3YxUklsMnAxM0c3NUt2cHdXT2RxSGxpVktVdlJtczV1VjdfM05nTmlGd3NlVFNXNngxLXNRVkZzUFhlVmFZeWpQUGRtWnc?oc=5"
+    },
+    {
+     "title": "Bundesrat räumt nach Untersuchung Versäumnisse im Fall Kabuga ein",
+     "source": "Radio Central",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMlE1OGlxd1pKamM4RFFRZ3dRMUxVQmYybUZKSkNkTjktMUFJRzMzdFFmZVJQaG1PbVd6dnc3ZGVSUkM0RXgxVWJlUVlCUXR0RUg3Z3BXbFZ2SWE0bERaNDVVbGxqNm5OZ0EydHhiQlN4enZBZ2lhajVEdzFZeFpvTDdmUlFpUkZ1azZzTW9yYldaZUt2NHlBWjZ2SlZ0QzE1dUY4Z2dka3dHLVA0QXpPbVZCNXlRcnJrNWc?oc=5"
     },
     {
      "title": "Europäischer Abschiebe-Deal – auch die Schweiz könnte teilnehmen",
@@ -242,7 +252,7 @@
     {
      "title": "Arrêtez l'expulsion de Dilan Pınar: Protection et droit de séjour au lieu de peine de prison!",
      "source": "ACT by Campax",
-     "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPeS1CVzgtZlVXRmpQOTU4anRkemxBdjNxazZCZGZ2Qi1zTnNqWEdsWVgtcUptY192NXhCWXNwcFFDeEVHS294SFIybTljZUtOZTRzei1PY3BuZnpLT3BvSHRaOE1zNzcwMTJsVkRGUjF6SWJVSGxVQm1zVjFWVnl4NkJ2b3AzR2ZuWUFiNmlHVkcwNERqSDl4NXFmaGN5LWN5MzJFcEFxb3hkeEozY3hTYVFBLXp5dFhPQXg2U2lnVFNjUmlHRmlQQWZiQWRRVGNoaUlDOW5yMTNlbXBsSnQwS0M4eFE2NjFqeFl2QWstMDBwN2hORzJMMVItWndIOWw3QTJUSURHRU42Q2ZnaC1Rd2tMSUNLcU0xWTd4bDNjVE0wM2lXbm5Ka1VDSmRVVlVReWNvM2VhQmNWanRKZThDbjJ2OTMyMUw1ZERRR3A4ZTFxVWJYYlE0TEZaclBTWjhqcGZ6UVI0RWVrZ0lBOVlIMElpYU9DQWVlLVh4NUFYNU13bGZsUDRyUEkwam15SlRCeWJqbWpuRGJKM2k0Q0FkUUtyUWhSemNFaVlCRGN4eFVaRFBval94MldSUTBvc3FPZWdRLWFHbkRLTktjeExkZUxR?oc=5"
+     "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3lwVTJicXJMYkp5M3BqVU1JMU5Wam5SdHhjM0NqU3g3MzFmLTVwVUpYMmJqZWtMWGVzLXJHeHZNbnRKZGdfYmRKWnhpaFhHY3I2VnJFZnZCcm5XNTlQVmZwSHV3Sk55Y0Z3OEUwSnJFR1hJNEFYTThuTkVkZFBaZ2s5ZVRwU0FHX3h2LVd5eUtOWll0VkFKOFJ5YzktTGl1QzF6TnpCRlNCaGdpUnZ6Uk0yamxUSEdoUEREbldDckI1dGNVdzZXZGlDUGZOMFZ5cVlwU3dQbTN4cHMwQWRURzFkM1gyNWQ2N3l0d0tOcHNRbjNqWmI0bXYzQkktWXlicG12TkVTdkZQZC1XcUtkWnRlTzdyTmIyaWVjZWhPUVZvT01Da3BV?oc=5"
     },
     {
      "title": "Altstätten SG: Stadt fordert mehr Sicherheit beim Bundesasylzentrum",
@@ -255,9 +265,9 @@
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1pINFFCYmRWNV8yVjZOaE1YWnd5NS1qemlhRDdNV0JnQUc0WlNIMmdoLTd4blN0WXV2dFZWRWhwbDJVbm16M2FrOTRuS2FvWHgwRFBmejcydXNBejA3NGpnbTZNY2Z0TGt0OWFTYnhmVlBkOXVHTmpJNGdnNFZhbks2T1JFZ00?oc=5"
     }
    ],
-   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 9 Google News headlines"
+   "generatedBy": "nvidia/nemotron-3-ultra-550b-a55b + 11 Google News headlines"
   }
  },
- "asOf": "2026-11-25",
- "generatedAt": "2026-11-26T07:00:02.413489+00:00"
+ "asOf": "2026-11-26",
+ "generatedAt": "2026-11-27T06:00:03.123762+00:00"
 }
